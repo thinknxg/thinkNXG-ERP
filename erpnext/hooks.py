@@ -13,7 +13,7 @@ app_logo_url = "/assets/erpnext/images/thinknxg-erp-logo.svg"
 add_to_apps_screen = [
 	{
 		"name": "thinknxg ERP",
-		"logo": "/assets/erpnext/images/thinknxg-erp-logo.png",
+		"logo": "/assets/erpnext/images/thinknxg-erp-logo(main).jpg",
 		"title": "thinknxg ERP",
 		"route": "/app/home",
 		"has_permission": "erpnext.check_app_permission",
