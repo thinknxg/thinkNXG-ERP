@@ -1,5 +1,5 @@
-app_name = "thinknxg ERP"
-app_title = "thinknxg ERP"
+app_name = "erpnext"
+app_title = "thinkNXG ERP"
 app_publisher = "thinknxg Technologies Pvt. Ltd."
 app_description = """ERP made simple"""
 app_icon = "fa fa-th"
@@ -7,14 +7,14 @@ app_color = "#e74c3c"
 app_email = "hello@frappe.io"
 app_license = "GNU General Public License (v3)"
 source_link = "https://github.com/thinknxg/thinknxg-ERP.git"
-app_logo_url = "/assets/erpnext/images/thinknxg-erp-logo.svg"
+app_logo_url = "/assets/erpnext/images/thinknxg-erp-logo(main).jpg"
 
 
 add_to_apps_screen = [
 	{
-		"name": "thinknxg ERP",
+		"name": "thinkNXG ERP",
 		"logo": "/assets/erpnext/images/thinknxg-erp-logo(main).jpg",
-		"title": "thinknxg ERP",
+		"title": "thinkNXG ERP",
 		"route": "/app/home",
 		"has_permission": "erpnext.check_app_permission",
 	}
