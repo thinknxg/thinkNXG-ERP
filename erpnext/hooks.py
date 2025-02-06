@@ -109,7 +109,7 @@ calendars = ["Task", "Work Order", "Sales Order", "Holiday List", "ToDo"]
 website_generators = ["BOM", "Sales Partner"]
 
 website_context = {
-	"favicon": "/assets/erpnext/images/erpnext-favicon.svg",
+	"favicon": "/assets/erpnext/images/thinkNXG-logo.jpg",
 	"splash_image": "/assets/erpnext/images/thinkNXG-logo.jpg",
 }
 

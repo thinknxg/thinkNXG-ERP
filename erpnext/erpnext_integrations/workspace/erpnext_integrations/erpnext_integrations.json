@@ -10,7 +10,7 @@
  "icon": "integration",
  "idx": 0,
  "is_hidden": 0,
- "label": "ERPNext Integrations",
+ "label": "thinkNXG ERP Integrations",
  "links": [
   {
    "hidden": 0,
@@ -205,8 +205,8 @@
  ],
  "modified": "2023-08-29 15:48:59.010704",
  "modified_by": "Administrator",
- "module": "ERPNext Integrations",
- "name": "ERPNext Integrations",
+ "module": "thinkNXG ERP Integrations",
+ "name": "thinkNXG ERP Integrations",
  "number_cards": [],
  "owner": "Administrator",
  "parent_page": "",
@@ -224,5 +224,5 @@
    "url": "https://frappecloud.com/marketplace"
   }
  ],
- "title": "ERPNext Integrations"
+ "title": "thinkNXG ERP Integrations"
 }
