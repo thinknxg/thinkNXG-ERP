@@ -8927,14 +8927,14 @@ A Sales Invoice is a bill that you send to your Customers against which the Cust
 Here's the flow of how a sales invoice is generally created
 
 
-![Sales Flow](https://docs.erpnext.com/docs/assets/img/accounts/so-flow.png)","# Alles über Verkaufsrechnung
+![Sales Flow](https://docs.thinknxg.com/docs/assets/img/accounts/so-flow.png)","# Alles über Verkaufsrechnung
 
 Eine Verkaufsrechnung ist eine Rechnung, die Sie an Ihre Kunden senden, für die der Kunde die Zahlung vornimmt. Verkaufsrechnung ist eine buchhalterische Transaktion. Mit der Einreichung von Verkaufsrechnungen aktualisiert das System die Forderungs- und Bucherträge gegenüber einem Kundenkonto.
 
 Hier ist der Fluss wie eine Verkaufsrechnung generiert wird
 
 
-![Verkaufsfluss](https://docs.erpnext.com/docs/assets/img/accounts/so-flow.png)",
+![Verkaufsfluss](https://docs.thinknxg.com/docs/assets/img/accounts/so-flow.png)",
 "# Asset Item
 
 Asset items are created based on Asset Category. You can create one or multiple items against once Asset Category. The sales and purchase transaction for Asset is done via Asset Item. ","# Vermögensgegenstand-Artikel
@@ -8984,11 +8984,11 @@ Basierend auf den verschiedenen Bestandstransaktionen können Sie in ERPNext mit
 
 While your Books of Accounts are framed to fulfill statutory requirements, you can set up Cost Center and Accounting Dimensions to address your companies reporting and budgeting requirements.
 
-Click here to learn more about how  <b>[Cost Center](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/cost-center)</b> and <b> [Dimensions](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-dimensions)</b> allow you to get advanced financial analytics reports from ERPNext.","# Kostenstellen für Budgetierung und Analyse
+Click here to learn more about how  <b>[Cost Center](https://docs.thinknxg.com/docs/v13/user/manual/en/accounts/cost-center)</b> and <b> [Dimensions](https://docs.thinknxg.com/docs/v13/user/manual/en/accounts/accounting-dimensions)</b> allow you to get advanced financial analytics reports from ERPNext.","# Kostenstellen für Budgetierung und Analyse
 
 Während Ihre Geschäftsbücher so gestaltet sind, dass sie die gesetzlichen Anforderungen erfüllen, können Sie Kostenstellen und Buchhaltungsdimensionen einrichten, um die Berichts- und Budgetierungsanforderungen Ihres Unternehmens zu erfüllen.
 
-Klicken Sie hier, um mehr darüber zu erfahren, wie Sie mit  <b>[Kostenstellen](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/cost-center)</b> und <b> [Dimensionen](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-dimensions)</b> fortschrittliche Finanzanalyseberichte von ERPNext erhalten können.",
+Klicken Sie hier, um mehr darüber zu erfahren, wie Sie mit  <b>[Kostenstellen](https://docs.thinknxg.com/docs/v13/user/manual/en/accounts/cost-center)</b> und <b> [Dimensionen](https://docs.thinknxg.com/docs/v13/user/manual/en/accounts/accounting-dimensions)</b> fortschrittliche Finanzanalyseberichte von ERPNext erhalten können.",
 "# Create Items for Bill of Materials
 
 One of the prerequisites of a BOM is the creation of raw materials, sub-assembly, and finished items. Once these items are created, you will be able to proceed to the Bill of Materials master, which is composed of items and routing.
@@ -9097,10 +9097,10 @@ Artikel sind ein integraler Bestandteil aller Vorgänge in ERPNext - von der Rec
 "# Create an Item
 The Stock module deals with the movement of items.
 
-In this step we will create an  [**Item**](https://docs.erpnext.com/docs/user/manual/en/stock/item).","# Erstellen Sie einen Artikel
+In this step we will create an  [**Item**](https://docs.thinknxg.com/docs/user/manual/en/stock/item).","# Erstellen Sie einen Artikel
 Das Modul Lagerverwaltung befasst sich mit der Bewegung von Artikeln.
 
-In diesem Schritt werden wir einen [**Artikel**] (https://docs.erpnext.com/docs/user/manual/en/stock/item) erstellen.",
+In diesem Schritt werden wir einen [**Artikel**] (https://docs.thinknxg.com/docs/user/manual/en/stock/item) erstellen.",
 "# Create first Purchase Order
 
 Purchase Order is at the heart of your buying transactions. In ERPNext, Purchase Order can can be created against a Purchase Material Request (indent) and Supplier Quotation as well.  Purchase Orders is also linked to Purchase Receipt and Purchase Invoices, allowing you to keep a birds-eye view on your purchase deals.
@@ -9123,11 +9123,11 @@ Eingangsrechnungen können auch mit einer Bestellung oder einem Eingangsbeleg er
 
 In ERPNext, you can get crucial financial reports like [Balance Sheet] and [Profit and Loss] statements with a click of a button. You can run in the report for a different period and plot analytics charts premised on statement data. For more reports, check sections like Financial Statements, General Ledger, and Profitability reports.
 
-<b>[Check Accounting reports](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-reports)</b>","# Finanzberichte
+<b>[Check Accounting reports](https://docs.thinknxg.com/docs/v13/user/manual/en/accounts/accounting-reports)</b>","# Finanzberichte
 
 In ERPNext können Sie mit einem Klick wichtige Finanzberichte wie [Bilanz] und [Gewinn- und Verlustrechnungen] abrufen. Sie können den Bericht für einen beliebigen Zeitraum ausführen und Diagramme basierend auf den Daten erstellen. Weitere Berichte finden Sie in den Abschnitten „Finanzberichte“, „Hauptbuch“ und „Rentabilitätsberichte“.
 
-<b>[Buchhaltungsberichte prüfen](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-reports)</b>",
+<b>[Buchhaltungsberichte prüfen](https://docs.thinknxg.com/docs/v13/user/manual/en/accounts/accounting-reports)</b>",
 "# Fixed Asset Accounts
 
 With the company, a host of fixed asset accounts are pre-configured. To ensure your asset transactions are leading to correct accounting entries, you can review and set up following asset accounts as per your business  requirements.
@@ -9155,8 +9155,8 @@ In ERPNext, you can easily migrate your historical data using spreadsheets. You 
 In ERPNext können Sie Ihre historischen Daten ganz einfach mithilfe von Tabellen migrieren. Sie können damit nicht nur Stammdaten (wie Kunden, Lieferanten, Artikel) migrieren, sondern auch Transaktionen (ausstehende Rechnungen, Anfangsbestand und Buchungen, etc.).",
 # In Stock,# Auf Lager,
 "# Introduction to Stock Entry
-This video will give a quick introduction to [**Stock Entry**](https://docs.erpnext.com/docs/user/manual/en/stock/stock-entry).","# Einführung in die Lagerbewegung
-Dieses Video gibt eine kurze Einführung in die [**Lagerbewegung**] (https://docs.erpnext.com/docs/user/manual/en/stock/stock-entry).",
+This video will give a quick introduction to [**Stock Entry**](https://docs.thinknxg.com/docs/user/manual/en/stock/stock-entry).","# Einführung in die Lagerbewegung
+Dieses Video gibt eine kurze Einführung in die [**Lagerbewegung**] (https://docs.thinknxg.com/docs/user/manual/en/stock/stock-entry).",
 "# Manage Stock Movements
 Stock entry allows you to register the movement of stock for various purposes like transfer, received, issues, repacked, etc. To address issues related to theft and pilferages,  you can always ensure that the movement of goods happens against a document reference Stock Entry in ERPNext.
 
@@ -9279,12 +9279,12 @@ In ERPNext the term 'warehouse' can be thought of as a storage location.
 
 Warehouses are arranged in ERPNext in a tree like structure, where multiple sub-warehouses can be grouped under a single warehouse.
 
-In this step we will view the [**Warehouse Tree**](https://docs.erpnext.com/docs/user/manual/en/stock/warehouse#21-tree-view) to view the [**Warehouses**](https://docs.erpnext.com/docs/user/manual/en/stock/warehouse) that are set by default.","# Lager anzeigen
+In this step we will view the [**Warehouse Tree**](https://docs.thinknxg.com/docs/user/manual/en/stock/warehouse#21-tree-view) to view the [**Warehouses**](https://docs.thinknxg.com/docs/user/manual/en/stock/warehouse) that are set by default.","# Lager anzeigen
 In ERPNext kann der Begriff 'Lager' als ein Lagerort verstanden werden.
 
 Lager werden in ERPNext in einer baumartigen Struktur angeordnet, wobei mehrere Unterlager unter einem einzigen Lager zusammengefasst werden können.
 
-In diesem Schritt sehen wir uns den [**Lagerbaum**] (https://docs.erpnext.com/docs/user/manual/en/stock/warehouse#21-tree-view) an, um die [**Lager**] (https://docs.erpnext.com/docs/user/manual/en/stock/warehouse) zu sehen, die standardmäßig eingestellt sind.",
+In diesem Schritt sehen wir uns den [**Lagerbaum**] (https://docs.thinknxg.com/docs/user/manual/en/stock/warehouse#21-tree-view) an, um die [**Lager**] (https://docs.thinknxg.com/docs/user/manual/en/stock/warehouse) zu sehen, die standardmäßig eingestellt sind.",
 "## Products and Services
 
 Depending on the nature of your business, you might be selling products or services to your clients or even both. 
@@ -9977,7 +9977,7 @@ Bulk Transaction Log Detail,Massentransaktion Log-Detail,
 Bundle Items,Bündelartikel,
 Buying & Selling Settings,Einkaufs- & Verkaufseinstellungen,
 Buying and Selling,Kaufen und Verkaufen,
-"By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option.","Standardmäßig wird die ID des Lieferanten basierend auf dem eingegebenen Lieferantennamen festgelegt. Wenn Sie möchten, dass Lieferanten nach einem <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Nummernkreis</a> benannt werden, wählen Sie die Option 'Nummernkreis'.",
+"By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.thinknxg.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option.","Standardmäßig wird die ID des Lieferanten basierend auf dem eingegebenen Lieferantennamen festgelegt. Wenn Sie möchten, dass Lieferanten nach einem <a href='https://docs.thinknxg.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Nummernkreis</a> benannt werden, wählen Sie die Option 'Nummernkreis'.",
 Bypass credit check at Sales Order,Kreditprüfung im Auftrag umgehen,
 COGS By Item Group,Herstellungskosten nach Artikelgruppe,
 COGS Debit,Herstellungskosten Soll,
@@ -11871,7 +11871,7 @@ Job Worker Contact,Vertrag des Unterauftragnehmers,
 Job Worker Delivery Note,Lieferschein des Unterauftragnehmers,
 Job Worker Name,Name des Unterauftragnehmer,
 Job Worker Warehouse,Lagerhaus des Unterauftragnehmers,
-"Learn about <a href=""https://docs.erpnext.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ERPNext,Invoice%20against%20a%20primary%20Supplier."">Common Party</a>","Erfahren Sie mehr über die <a href=""https://docs.erpnext.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ERPNext,Invoice%20against%20a%20primary%20Supplier."">Verknüpfung von Kunden und Lieferanten</a>",
+"Learn about <a href=""https://docs.thinknxg.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ERPNext,Invoice%20against%20a%20primary%20Supplier."">Common Party</a>","Erfahren Sie mehr über die <a href=""https://docs.thinknxg.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ERPNext,Invoice%20against%20a%20primary%20Supplier."">Verknüpfung von Kunden und Lieferanten</a>",
 Notification,Benachrichtigung,
 Notification Settings,Benachrichtigungseinstellungen,
 Offsetting for Accounting Dimension,Verrechnung für Buchhaltungsdimension,

@@ -2,11 +2,11 @@
  "action": "Watch Video",
  "action_label": "Learn how to update opening balances",
  "creation": "2021-07-12 11:53:50.525030",
- "description": "# Updating Opening Balances\n\nOnce you close the financial statement in previous accounting software, you can update the same as opening in your ERPNext's Balance Sheet accounts. This will allow you to get complete financial statements from ERPNext in the coming years, and discontinue the parallel accounting system right away.",
+ "description": "# Updating Opening Balances\n\nOnce you close the financial statement in previous accounting software, you can update the same as opening in your thinkNXG ERP's Balance Sheet accounts. This will allow you to get complete financial statements from thinkNXG ERP in the coming years, and discontinue the parallel accounting system right away.",
  "docstatus": 0,
  "doctype": "Onboarding Step",
  "idx": 0,
- "intro_video_url": "https://www.youtube.com/embed/U5wPIvEn-0c",
+ "intro_video_url": "https://www.youtube.com",
  "is_complete": 0,
  "is_single": 0,
  "is_skipped": 0,
@@ -18,5 +18,5 @@
  "show_full_form": 0,
  "title": "Updating Opening Balances",
  "validate_action": 1,
- "video_url": "https://www.youtube.com/embed/U5wPIvEn-0c"
+ "video_url": "https://www.youtube.com"
 }

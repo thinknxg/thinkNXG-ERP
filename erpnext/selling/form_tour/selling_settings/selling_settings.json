@@ -13,7 +13,7 @@
  "save_on_complete": 0,
  "steps": [
   {
-   "description": "By default, the Customer Name is set as per the Full Name entered. If you want Customers to be named by a <a href=\"https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series\" target=\"_blank\">Naming Series</a>. Choose the 'Naming Series' option.",
+   "description": "By default, the Customer Name is set as per the Full Name entered. If you want Customers to be named by a <a href=\"https://docs.thinknxg.com/docs/user/manual/en/setting-up/settings/naming-series\" target=\"_blank\">Naming Series</a>. Choose the 'Naming Series' option.",
    "field": "",
    "fieldname": "cust_master_name",
    "fieldtype": "Select",
