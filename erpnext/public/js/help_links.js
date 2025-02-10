@@ -1,6 +1,6 @@
 frappe.provide("frappe.help.help_links");
 
-const docsUrl = "https://docs.thinknxg.com";
+const docsUrl = "https://docs.thinknxg.com/";
 
 frappe.help.help_links["Form/Rename Tool"] = [
 	{

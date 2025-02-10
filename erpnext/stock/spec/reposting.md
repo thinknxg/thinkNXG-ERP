@@ -10,7 +10,7 @@ item-warehouse combination has a future transactions.
 Stock Ledger is stateful, it maintains queue, qty at any
 point in time. So if you do a backdated transaction all future values change,
 queues need to be re-evaluated etc. Watch Nabin and Rohit's conference
-presentation for explanation: https://www.youtube.com/watch?v=mw3WAnekGIM
+presentation for explanation: https://www.youtube.com
 
 ## How is this implemented?
 Whenever backdated transaction is detected, instead of
