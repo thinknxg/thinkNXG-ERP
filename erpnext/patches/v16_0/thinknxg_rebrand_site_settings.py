@@ -23,6 +23,7 @@ HELP_ROUTE_MAP = {
 }
 
 ERP_DOCS = "https://docs.thinknxg.com/thinknxgerp"
+FRAMEWORK_DOCS = "https://docs.thinknxg.com/thinknxgframework"
 
 LABEL_MAP = {"Frappe School": "thinkNXG School"}
 
@@ -38,6 +39,10 @@ def execute():
 		if not item.is_standard:
 			continue
 		new_route = HELP_ROUTE_MAP.get((item.route or "").strip())
+		# "Documentation" is the thinkNXG Framework's own standard item (merged by label with
+		# ERPNext's old one), so it goes to the Framework docs; ERP docs get their own entry below.
+		if new_route and item.item_label == "Documentation":
+			new_route = FRAMEWORK_DOCS
 		if new_route:
 			item.route = new_route
 			changed = True
