@@ -5,7 +5,7 @@
  "creation": "2017-07-18 13:32:46.031115",
  "description": "A grouping of projects, like internal or external.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/project-type",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/project-type",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

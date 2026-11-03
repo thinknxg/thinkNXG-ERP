@@ -3,7 +3,7 @@
  "creation": "2014-11-27 14:12:07.542534",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/manufacturing-settings",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/manufacturing-settings",
  "engine": "InnoDB",
  "field_order": [
   "bom_and_work_order_tab",

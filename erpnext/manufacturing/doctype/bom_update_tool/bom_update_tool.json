@@ -5,7 +5,7 @@
  "description": "Replace a BOM everywhere it is used, or update the cost of all BOMs.",
  "doctype": "DocType",
  "document_type": "Other",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/bom-update-tool",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/bom-update-tool",
  "engine": "InnoDB",
  "field_order": [
   "replace_bom_section",

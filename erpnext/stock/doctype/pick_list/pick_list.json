@@ -4,7 +4,7 @@
  "creation": "2019-07-11 16:03:13.681045",
  "description": "The items and quantities to pick from the warehouse.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/pick-list",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/pick-list",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

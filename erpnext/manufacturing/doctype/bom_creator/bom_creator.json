@@ -7,7 +7,7 @@
  "description": "Build a multi-level BOM by hand or from a CAD design, plan its operations, and create the BOMs.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/bom-creator",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/bom-creator",
  "engine": "InnoDB",
  "field_order": [
   "design_tab",

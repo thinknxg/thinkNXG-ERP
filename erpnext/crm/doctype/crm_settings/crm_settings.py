@@ -51,12 +51,12 @@ class CRMSettings(Document):
 		if self.enable_frappe_crm_data_synchronization and not (is_crm_installed() or self.allowed_users):
 			frappe.throw(
 				_(
-					"Please add atleast one user on Allowed Users to allow Data Synchronization from Frappe CRM site."
+					"Please add atleast one user on Allowed Users to allow Data Synchronization from thinkNXG CRM site."
 				)
 			)
 
 		if self.enable_frappe_crm_data_synchronization and is_crm_installed() and self.allowed_users:
-			frappe.throw(_("Allowed Users is not required as Frappe CRM is already installed on the site."))
+			frappe.throw(_("Allowed Users is not required as thinkNXG CRM is already installed on the site."))
 
 	def before_save(self):
 		self.clear_allowed_users()
@@ -81,7 +81,7 @@ class CRMSettings(Document):
 				{
 					"fieldname": "crm_deal",
 					"fieldtype": "Data",
-					"label": "Frappe CRM Deal",
+					"label": "thinkNXG CRM Deal",
 					"insert_after": "party_name",
 				}
 			],
@@ -89,7 +89,7 @@ class CRMSettings(Document):
 				{
 					"fieldname": "crm_deal",
 					"fieldtype": "Data",
-					"label": "Frappe CRM Deal",
+					"label": "thinkNXG CRM Deal",
 					"insert_after": "prospect_name",
 				}
 			],

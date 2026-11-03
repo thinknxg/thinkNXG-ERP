@@ -7,7 +7,7 @@
  "description": "Standard terms to add to quotes, orders and invoices.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/terms-and-conditions",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/terms-and-conditions",
  "engine": "InnoDB",
  "field_order": [
   "title",

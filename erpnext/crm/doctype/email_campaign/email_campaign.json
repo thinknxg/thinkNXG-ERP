@@ -4,7 +4,7 @@
  "creation": "2019-06-30 16:05:30.015615",
  "description": "A series of emails sent to leads or contacts on a schedule.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/email-campaign",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/email-campaign",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

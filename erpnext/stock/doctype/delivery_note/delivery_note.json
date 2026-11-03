@@ -7,7 +7,7 @@
  "description": "Items shipped to a customer.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/delivery-note",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note",
  "engine": "InnoDB",
  "field_order": [
   "naming_series",

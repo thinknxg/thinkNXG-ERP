@@ -2,7 +2,7 @@
  "action": "View Report",
  "action_label": "Open General Ledger",
  "creation": "2026-10-04 01:25:22.678661",
- "description": "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.frappe.io/erpnext/user/manual/en/general-ledger).",
+ "description": "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger).",
  "docstatus": 0,
  "doctype": "Onboarding Step",
  "idx": 0,

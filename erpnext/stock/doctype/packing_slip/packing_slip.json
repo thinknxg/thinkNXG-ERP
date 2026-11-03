@@ -6,7 +6,7 @@
  "description": "The contents and weight of each package in a delivery.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/packing-slip",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/packing-slip",
  "engine": "InnoDB",
  "field_order": [
   "packing_slip_details",

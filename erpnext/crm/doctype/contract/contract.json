@@ -6,7 +6,7 @@
  "creation": "2018-04-12 06:32:04.582486",
  "description": "An agreement with a customer, supplier or employee.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/contract",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/contract",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

@@ -7,7 +7,7 @@
  "description": "The holidays and weekly offs of a company or employee.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/holiday-list",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/holiday-list",
  "engine": "InnoDB",
  "field_order": [
   "holiday_list_name",

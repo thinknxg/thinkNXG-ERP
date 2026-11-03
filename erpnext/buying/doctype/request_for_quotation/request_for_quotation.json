@@ -6,7 +6,7 @@
  "description": "Ask suppliers for prices on the items you need.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/request-for-quotation",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/request-for-quotation",
  "engine": "InnoDB",
  "field_order": [
   "naming_series",

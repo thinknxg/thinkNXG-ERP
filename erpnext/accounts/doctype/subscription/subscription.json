@@ -4,7 +4,7 @@
  "creation": "2017-07-18 17:50:43.967266",
  "description": "Bills a customer or supplier for the same things on a schedule.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/subscription",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/subscription",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

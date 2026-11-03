@@ -832,7 +832,7 @@ def validate_opening_entry_against_pcv(company):
 			_(
 				"A Period Closing Voucher is already submitted and an Opening Entry can no longer be created. {0} to learn more."
 			).format(
-				'<a href="https://docs.frappe.io/erpnext/period-closing-voucher#14-pcv-and-opening-entries" target="_blank" rel="noopener">'
+				'<a href="https://docs.thinknxg.com/thinknxgerp/period-closing-voucher#14-pcv-and-opening-entries" target="_blank" rel="noopener">'
 				+ _("Read the docs")
 				+ "</a>"
 			),

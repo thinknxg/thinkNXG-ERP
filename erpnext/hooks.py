@@ -1,6 +1,6 @@
 app_name = "erpnext"
 app_title = "thinkNXG ERP"
-app_publisher = "thinknxg Technologies Pvt. Ltd."
+app_publisher = "thinkNXG Technologies Pvt. Ltd."
 app_description = """ERP made simple"""
 app_icon = "fa fa-th"
 app_color = "#e74c3c"
@@ -8,7 +8,7 @@ app_email = "hello@thinknxg.io"
 app_license = "GNU General Public License (v3)"
 source_link = "https://github.com/thinknxg/thinkNXG-ERP"
 app_logo_url = "/assets/erpnext/images/thinkNXG-logo.jpg"
-app_home = "/app/home"
+app_home = "/desk/home"
 
 add_to_apps_screen = [
 	{
@@ -140,7 +140,7 @@ calendars = ["Task", "Work Order", "Sales Order", "Holiday List", "ToDo"]
 website_generators = ["BOM", "Sales Partner"]
 
 website_context = {
-	"favicon": "/assets/erpnext/images/thinkNXG-logo.jpg",
+	"favicon": "/assets/erpnext/images/thinkNXG-favicon.png",
 	"splash_image": "/assets/erpnext/images/thinkNXG-logo.jpg",
 }
 
@@ -547,13 +547,13 @@ scheduler_events = {
 	],
 }
 
-email_brand_image = "assets/erpnext/images/erpnext-logo.jpg"
+email_brand_image = "assets/erpnext/images/thinknxg-erp-logo.jpg"
 
 default_mail_footer = """
 	<span>
 		Sent via
-		<a class="text-muted" href="https://frappe.io/erpnext?source=via_email_footer" target="_blank">
-			ERPNext
+		<a class="text-muted" href="https://thinknxg.com/?source=via_email_footer" target="_blank">
+			thinkNXG ERP
 		</a>
 	</span>
 """

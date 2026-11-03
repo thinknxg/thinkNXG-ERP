@@ -14,7 +14,7 @@ frappe.ui.form.on("CRM Settings", {
 
 		if (flag) {
 			frappe.show_alert(
-				__("Allowed Users is required for data synchronization from remote Frappe CRM site.")
+				__("Allowed Users is required for data synchronization from remote thinkNXG CRM site.")
 			);
 		}
 

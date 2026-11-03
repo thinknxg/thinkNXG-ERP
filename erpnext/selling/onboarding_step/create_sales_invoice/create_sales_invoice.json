@@ -2,7 +2,7 @@
  "action": "Create Entry",
  "action_label": "Create Sales Invoice",
  "creation": "2026-02-20 13:42:38.439574",
- "description": "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.frappe.io/erpnext/user/manual/en/sales-invoice).",
+ "description": "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice).",
  "docstatus": 0,
  "doctype": "Onboarding Step",
  "idx": 2,

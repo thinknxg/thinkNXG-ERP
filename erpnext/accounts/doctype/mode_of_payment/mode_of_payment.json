@@ -7,7 +7,7 @@
  "description": "A way you pay or get paid, like cash, bank transfer or card.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/mode-of-payment",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/mode-of-payment",
  "engine": "InnoDB",
  "field_order": [
   "mode_of_payment",

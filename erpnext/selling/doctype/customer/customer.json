@@ -8,7 +8,7 @@
  "description": "A company or person you sell goods or services to.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/customer",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer",
  "engine": "InnoDB",
  "field_order": [
   "basic_info",

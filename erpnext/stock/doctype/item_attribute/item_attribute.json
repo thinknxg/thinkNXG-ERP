@@ -7,7 +7,7 @@
  "description": "A property item variants differ by, like size or colour.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/item-attribute",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/item-attribute",
  "engine": "InnoDB",
  "field_order": [
   "attribute_name",

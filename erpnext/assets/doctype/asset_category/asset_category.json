@@ -7,7 +7,7 @@
  "description": "Groups assets that share accounts and depreciation rules.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/asset-category",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category",
  "engine": "InnoDB",
  "field_order": [
   "asset_category_name",

@@ -4,7 +4,7 @@
  "description": "How quotations, sales orders and pricing work.",
  "doctype": "DocType",
  "document_type": "Other",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/selling-settings",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/selling-settings",
  "engine": "InnoDB",
  "field_order": [
   "customer_defaults_tab",
@@ -74,7 +74,7 @@
    "options": "Customer Name\nNaming Series\nAuto Name"
   },
   {
-   "documentation_url": "https://docs.frappe.io/erpnext/selling-settings#2-default-customer-group",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/selling-settings#2-default-customer-group",
    "fieldname": "customer_group",
    "fieldtype": "Link",
    "in_list_view": 1,
@@ -83,7 +83,7 @@
    "options": "Customer Group"
   },
   {
-   "documentation_url": "https://docs.frappe.io/erpnext/selling-settings#3-default-territory",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/selling-settings#3-default-territory",
    "fieldname": "territory",
    "fieldtype": "Link",
    "in_list_view": 1,
@@ -201,7 +201,7 @@
   {
    "default": "0",
    "description": "Enabling this will do the following:\n<ul style=\"padding-left:16px\">\n<li>Make the rate column of all Packed/Bundle Items tables editable.</li>\n<li>Calculate the prices of all <a href=\"/desk/product-bundle\" rel=\"noopener noreferrer\">Product Bundles</a> in the Items table, based on the prices of its child Items, specified in the Packed/Bundle Items table. </li>\n</ul>\nNote: If this is enabled, updating the rate of the Product Bundle in the Items table will not change its price. It will get reset to the price based on its Child Items on saving the doc.",
-   "documentation_url": "https://docs.frappe.io/erpnext/selling-settings#7-calculate-product-bundle-price-based-on-child-items-rates",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/selling-settings#7-calculate-product-bundle-price-based-on-child-items-rates",
    "fieldname": "editable_bundle_item_rates",
    "fieldtype": "Check",
    "label": "Calculate Product Bundle price based on child Item's rates",

@@ -6,7 +6,7 @@
  "creation": "2017-08-10 15:34:28.058054",
  "description": "A set of payment terms to apply to invoices and orders.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/payment-terms-template",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-terms-template",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

@@ -6,7 +6,7 @@
  "description": "The taxes and charges, like shipping or insurance, to add to sales.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/sales-taxes-and-charges-template",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-taxes-and-charges-template",
  "engine": "InnoDB",
  "field_order": [
   "title",

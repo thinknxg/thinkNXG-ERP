@@ -8,7 +8,7 @@
  "description": "Groups items, for pricing, defaults and reporting.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/item-group",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/item-group",
  "engine": "InnoDB",
  "field_order": [
   "gs",

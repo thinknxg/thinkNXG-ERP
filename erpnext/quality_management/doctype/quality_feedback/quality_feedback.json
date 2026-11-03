@@ -4,7 +4,7 @@
  "creation": "2019-05-26 21:23:05.308379",
  "description": "Feedback on your quality from a customer or employee.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/quality-feedback",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-feedback",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

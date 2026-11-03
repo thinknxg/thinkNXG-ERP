@@ -1,15 +1,15 @@
 {
   "name": "erpnext",
-  "description": "Open Source ERP System powered by the Frappe Framework",
+  "description": "Open Source ERP System powered by the thinkNXG Framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thinkNXG/thinkNXG-ERP.git"
+    "url": "git+https://github.com/thinknxg/thinkNXG-ERP.git"
   },
   "homepage": "https://thinknxg.com",
   "author": "thinkNXG Technologies Pvt. Ltd.",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/thinkNXG/thinkNXG-ERP/issues"
+    "url": "https://github.com/thinknxg/thinkNXG-ERP/issues"
   },
   "scripts": {
     "postinstall": "cd banking && yarn install",

@@ -6,7 +6,7 @@
  "description": "The price of an item in a price list.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/item-price",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/item-price",
  "engine": "InnoDB",
  "field_order": [
   "item_code",

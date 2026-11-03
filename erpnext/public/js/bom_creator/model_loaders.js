@@ -95,7 +95,7 @@ function get_step_reader() {
 			window.occtimportjs({ locateFile: (name) => STEP_READER_PATH + name }).then(resolve, reject);
 		script.onerror = () => {
 			step_reader = null;
-			reject(new Error(__("The 3D viewer files are missing. Run yarn install for ERPNext.")));
+			reject(new Error(__("The 3D viewer files are missing. Run yarn install for thinkNXG ERP.")));
 		};
 		document.head.appendChild(script);
 	});

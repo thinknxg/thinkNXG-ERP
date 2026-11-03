@@ -6,7 +6,7 @@
  "description": "A code customers enter to get a discount from a pricing rule.",
  "doctype": "DocType",
  "document_type": "Other",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/coupon-code",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/coupon-code",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

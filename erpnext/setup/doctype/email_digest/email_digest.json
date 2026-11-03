@@ -5,7 +5,7 @@
  "description": "A regular email summing up how the business is doing.",
  "doctype": "DocType",
  "document_type": "System",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/email-digest",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/email-digest",
  "engine": "InnoDB",
  "field_order": [
   "settings",

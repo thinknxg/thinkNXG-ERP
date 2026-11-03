@@ -1,7 +1,7 @@
 # Security Policy
 
-The ERPNext team and community take security issues seriously. To report a security issue, fill out the form at [https://erpnext.com/security/report](https://erpnext.com/security/report).
+The thinkNXG ERP team and community take security issues seriously. To report a security issue, contact us through [thinkNXG Support](https://thinknxg.com/support).
 
-You can help us make ERPNext and all it's users more secure by following the [Reporting guidelines](https://erpnext.com/security).
+Security fixes from the upstream ERPNext project are tracked and merged into thinkNXG ERP. Issues that also affect upstream ERPNext may be reported to the ERPNext project under its own [reporting guidelines](https://erpnext.com/security).
 
 We appreciate your efforts to responsibly disclose your findings. We'll endeavor to respond quickly, and will keep you updated throughout the process.

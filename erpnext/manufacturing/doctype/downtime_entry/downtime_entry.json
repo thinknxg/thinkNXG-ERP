@@ -5,7 +5,7 @@
  "creation": "2020-04-18 04:50:46.187638",
  "description": "Time a workstation stood idle, and why.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/downtime-entry",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/downtime-entry",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

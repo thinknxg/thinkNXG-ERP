@@ -7,7 +7,7 @@
  "description": "Items received from a supplier.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

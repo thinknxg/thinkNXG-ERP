@@ -7,7 +7,7 @@
  "description": "A bank you or your customers and suppliers hold accounts with.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/bank",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

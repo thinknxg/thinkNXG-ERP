@@ -5,7 +5,7 @@
  "creation": "2017-10-06 12:55:43.318773",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/opportunity_type",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/opportunity_type",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

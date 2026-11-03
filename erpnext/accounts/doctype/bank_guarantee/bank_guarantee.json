@@ -6,7 +6,7 @@
  "description": "A guarantee a bank gives on your behalf, or on a customer's or supplier's.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/bank-guarantee",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-guarantee",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

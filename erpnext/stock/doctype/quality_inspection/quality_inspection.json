@@ -5,7 +5,7 @@
  "description": "Checks an item against its quality parameters.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/quality-inspection",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

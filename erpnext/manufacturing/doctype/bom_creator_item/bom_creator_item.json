@@ -328,7 +328,7 @@
    "fieldtype": "Attach",
    "label": "3D Model",
    "allow_on_submit": 1,
-   "description": "STEP, STL or GLB file of a material added in ERPNext, used to place it in the 3D model.",
+   "description": "STEP, STL or GLB file of a material added in thinkNXG ERP, used to place it in the 3D model.",
    "show_description_on_click": 1
   },
   {

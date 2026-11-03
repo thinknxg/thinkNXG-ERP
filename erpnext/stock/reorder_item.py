@@ -393,7 +393,7 @@ def get_company_restricted_users(company):
 
 
 def notify_errors(exceptions_list):
-	subject = _("[Important] [ERPNext] Auto Reorder Errors")
+	subject = _("[Important] [thinkNXG ERP] Auto Reorder Errors")
 	content = (
 		_("Dear System Manager,")
 		+ "<br>"

@@ -748,8 +748,8 @@ msgstr "<div id=\\\"item-prices-container\\\"></div>"
 
 #. Content of the 'uom_help_html' (HTML) field in DocType 'Item'
 #: erpnext/stock/doctype/item/item.json:1081
-msgid "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Define alternate units for this item. Eg: 1 Box = 12 Nos, set conversion factor as 12. (Will also apply for variants) <a href=\"https://docs.frappe.io/erpnext/uom\" target=\"_blank\">Learn more &#8594;</a></div>"
-msgstr "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Adjon meg alternatív mértékegységeket ehhez a tételhez. Pl.: 1 doboz = 12 darab, az átváltási tényezőt állítsa 12-re. (Változatokra is vonatkozik) <a href=\"https://docs.frappe.io/erpnext/uom\" target=\"_blank\">További információ &#8594;</a></div>"
+msgid "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Define alternate units for this item. Eg: 1 Box = 12 Nos, set conversion factor as 12. (Will also apply for variants) <a href=\"https://docs.thinknxg.com/thinknxgerp/uom\" target=\"_blank\">Learn more &#8594;</a></div>"
+msgstr "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Adjon meg alternatív mértékegységeket ehhez a tételhez. Pl.: 1 doboz = 12 darab, az átváltási tényezőt állítsa 12-re. (Változatokra is vonatkozik) <a href=\"https://docs.thinknxg.com/thinknxgerp/uom\" target=\"_blank\">További információ &#8594;</a></div>"
 
 #. Content of the 'settings' (HTML) field in DocType 'Cheque Print Template'
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.json:55
@@ -1148,13 +1148,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a supplier'
 #: erpnext/buying/onboarding_step/create_supplier/create_supplier.json:5
-msgid "A business or person you buy from. See [Supplier](https://docs.frappe.io/erpnext/user/manual/en/supplier)."
-msgstr "Olyan vállalkozás vagy személy, akitől vásárol. Lásd: [Beszállító](https://docs.frappe.io/erpnext/user/manual/en/supplier)."
+msgid "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)."
+msgstr "Olyan vállalkozás vagy személy, akitől vásárol. Lásd: [Beszállító](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)."
 
 #. Description of the Onboarding Step 'Add a customer'
 #: erpnext/selling/onboarding_step/create_customer/create_customer.json:5
-msgid "A business or person you sell to. See [Customer](https://docs.frappe.io/erpnext/user/manual/en/customer)."
-msgstr "Olyan vállalkozás vagy személy, akinek értékesít. Lásd: [Vevő](https://docs.frappe.io/erpnext/user/manual/en/customer)."
+msgid "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)."
+msgstr "Olyan vállalkozás vagy személy, akinek értékesít. Lásd: [Vevő](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)."
 
 #. Description of a DocType
 #: erpnext/regional/doctype/lower_deduction_certificate/lower_deduction_certificate.json:5
@@ -1455,8 +1455,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add an item you sell'
 #: erpnext/selling/onboarding_step/create_selling_item/create_selling_item.json:5
-msgid "A product or a service you sell. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Olyan termék vagy szolgáltatás, amelyet értékesít. Lásd: [Tétel](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "A product or a service you sell. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Olyan termék vagy szolgáltatás, amelyet értékesít. Lásd: [Tétel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #. Description of a DocType
 #: erpnext/stock/doctype/item/item.json:7
@@ -5365,12 +5365,12 @@ msgid "Allowed Users"
 msgstr "Engedélyezett felhasználók"
 
 #: erpnext/crm/doctype/crm_settings/crm_settings.py:59
-msgid "Allowed Users is not required as Frappe CRM is already installed on the site."
-msgstr "Az engedélyezett felhasználók megadása nem szükséges, mert a Frappe CRM már telepítve van a webhelyen."
+msgid "Allowed Users is not required as thinkNXG CRM is already installed on the site."
+msgstr "Az engedélyezett felhasználók megadása nem szükséges, mert a thinkNXG CRM már telepítve van a webhelyen."
 
 #: erpnext/crm/doctype/crm_settings/crm_settings.js:17
-msgid "Allowed Users is required for data synchronization from remote Frappe CRM site."
-msgstr "A távoli Frappe CRM webhelyről történő adatszinkronizáláshoz kötelező megadni az Engedélyezett felhasználókat."
+msgid "Allowed Users is required for data synchronization from remote thinkNXG CRM site."
+msgstr "A távoli thinkNXG CRM webhelyről történő adatszinkronizáláshoz kötelező megadni az Engedélyezett felhasználókat."
 
 #: erpnext/accounts/doctype/party_link/party_link.py:28
 msgid "Allowed primary roles are 'Customer' and 'Supplier'. Please select one of these roles only."
@@ -6053,13 +6053,13 @@ msgstr "A következő szűrők bármelyike szükséges: raktár, tételkód, té
 
 #. Description of the Onboarding Step 'Start a project'
 #: erpnext/projects/onboarding_step/create_project/create_project.json:5
-msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.frappe.io/erpnext/user/manual/en/project)."
-msgstr "Minden, aminek van kezdete és vége: ügyféllel kapcsolatos feladat, telepítés, belső kezdeményezés. Lásd: [Projekt](https://docs.frappe.io/erpnext/user/manual/en/project)."
+msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)."
+msgstr "Minden, aminek van kezdete és vége: ügyféllel kapcsolatos feladat, telepítés, belső kezdeményezés. Lásd: [Projekt](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)."
 
 #. Description of the Onboarding Step 'Add an item you stock'
 #: erpnext/stock/onboarding_step/create_item/create_item.json:5
-msgid "Anything you keep on shelves and count. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Minden, amit polcokon tárol és megszámol. Lásd: [Tétel](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "Anything you keep on shelves and count. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Minden, amit polcokon tárol és megszámol. Lásd: [Tétel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #: erpnext/setup/setup_wizard/data/industry_type.txt:6
 msgid "Apparel & Accessories"
@@ -7255,8 +7255,8 @@ msgstr "A {item_code} számára létrehozott tárgyi eszközök {assets_link}"
 
 #. Description of the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:5
-msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.frappe.io/erpnext/user/manual/en/balance-sheet)."
-msgstr "Eszközök, kötelezettségek és saját tőke bármely dátumra, közvetlenül a főkönyvből. Lásd: [Mérleg](https://docs.frappe.io/erpnext/user/manual/en/balance-sheet)."
+msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)."
+msgstr "Eszközök, kötelezettségek és saját tőke bármely dátumra, közvetlenül a főkönyvből. Lásd: [Mérleg](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)."
 
 #. Description of a report in the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:18
@@ -9519,8 +9519,8 @@ msgstr "Anyagjegyzék"
 
 #. Description of the Onboarding Step 'Send your first invoice'
 #: erpnext/selling/onboarding_step/create_sales_invoice/create_sales_invoice.json:5
-msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.frappe.io/erpnext/user/manual/en/sales-invoice)."
-msgstr "Állítson ki számlát vevőjének a tételről. Ezután a **Beküldés** gombbal véglegesítse, majd a **Nyomtatás** funkcióval nézze meg papíron, vagy küldje el PDF-ként. Lásd: [Értékesítési számla](https://docs.frappe.io/erpnext/user/manual/en/sales-invoice)."
+msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)."
+msgstr "Állítson ki számlát vevőjének a tételről. Ezután a **Beküldés** gombbal véglegesítse, majd a **Nyomtatás** funkcióval nézze meg papíron, vagy küldje el PDF-ként. Lásd: [Értékesítési számla](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)."
 
 #. Option for the 'Status' (Select) field in DocType 'Timesheet'
 #: erpnext/controllers/website_list_for_contact.py:227
@@ -10442,8 +10442,8 @@ msgid "Buying must be checked, if Applicable For is selected as {0}"
 msgstr "Vásárlást ellenőrizni kell, amennyiben alkalmazható erre a kiválasztottra: {0}"
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:62
-msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
-msgstr "Alapértelmezés szerint a Szállító neve a megadott Szállító neve szerint van beállítva. Ha azt szeretné, hogy a Szállítók <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>névsorozattal</a> legyenek elnevezve, válassza a „Névsorozat” lehetőséget."
+msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.thinknxg.com/thinknxgerp/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
+msgstr "Alapértelmezés szerint a Szállító neve a megadott Szállító neve szerint van beállítva. Ha azt szeretné, hogy a Szállítók <a href='https://docs.thinknxg.com/thinknxgerp/naming-series' target='_blank'>névsorozattal</a> legyenek elnevezve, válassza a „Névsorozat” lehetőséget."
 
 #. Option for the 'Type' (Select) field in DocType 'BOM Secondary Item'
 #. Option for the 'Type' (Select) field in DocType 'Job Card Secondary Item'
@@ -13431,8 +13431,8 @@ msgstr "A {} vállalat nem egyezik a {} POS profiljával A {} vállalat {}"
 
 #. Description of the Onboarding Step 'Review how a goal is going'
 #: erpnext/quality_management/onboarding_step/create_quality_review/create_quality_review.json:5
-msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
-msgstr "Hasonlítsa össze az eredményeket a céllal, és döntse el, mit kell módosítani. Lásd: [Minőségirányítás](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
+msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgstr "Hasonlítsa össze az eredményeket a céllal, és döntse el, mit kell módosítani. Lásd: [Minőségirányítás](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
 
 #. Name of a DocType
 #. Label of the competitor (Link) field in DocType 'Competitor Detail'
@@ -13633,8 +13633,8 @@ msgstr "Számítógép"
 
 #. Description of the Onboarding Step 'Set up an asset category'
 #: erpnext/assets/onboarding_step/create_asset_category/create_asset_category.json:5
-msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.frappe.io/erpnext/user/manual/en/asset-category)."
-msgstr "Számítógépek, járművek, bútorok: hogyan értékcsökken az egyes fajták, és mely számlákra könyvelődnek. Lásd: [Eszközkategória](https://docs.frappe.io/erpnext/user/manual/en/asset-category)."
+msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)."
+msgstr "Számítógépek, járművek, bútorok: hogyan értékcsökken az egyes fajták, és mely számlákra könyvelődnek. Lásd: [Eszközkategória](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)."
 
 #. Label of the condition (Code) field in DocType 'Inventory Dimension'
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.json:89
@@ -13716,8 +13716,8 @@ msgstr "Megerősítés a könyvelési dátum visszaállítása előtt"
 
 #. Description of the Onboarding Step 'Confirm a sales order'
 #: erpnext/selling/onboarding_step/create_sales_order/create_sales_order.json:5
-msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.frappe.io/erpnext/user/manual/en/sales-order)."
-msgstr "Erősítse meg, mit rendelt a vevő és mikorra esedékes. A szállítást és a számlázást magából a rendelésből indítsa. Lásd: [Vevői rendelés](https://docs.frappe.io/erpnext/user/manual/en/sales-order)."
+msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)."
+msgstr "Erősítse meg, mit rendelt a vevő és mikorra esedékes. A szállítást és a számlázást magából a rendelésből indítsa. Lásd: [Vevői rendelés](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)."
 
 #. Label of the final_confirmation_date (Date) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:326
@@ -17381,8 +17381,8 @@ msgstr "Követelések"
 
 #. Description of the Onboarding Step 'Plan a work order'
 #: erpnext/manufacturing/onboarding_step/create_work_order/create_work_order.json:5
-msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.frappe.io/erpnext/user/manual/en/work-order)."
-msgstr "Döntse el, hány darabot gyártson. A szükséges nyersanyagok a anyagjegyzék (BOM) alapján kerülnek kiszámításra. Lásd: [Munkarendelés](https://docs.frappe.io/erpnext/user/manual/en/work-order)."
+msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)."
+msgstr "Döntse el, hány darabot gyártson. A szükséges nyersanyagok a anyagjegyzék (BOM) alapján kerülnek kiszámításra. Lásd: [Munkarendelés](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)."
 
 #. Title of an Onboarding Step
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:19
@@ -18858,8 +18858,8 @@ msgstr "Értékcsökkenés visszaírással kiküszöbölve"
 
 #. Description of the Onboarding Step 'Check its depreciation'
 #: erpnext/assets/onboarding_step/view_asset_depreciation/view_asset_depreciation.json:5
-msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.frappe.io/erpnext/user/manual/en/asset-depreciation)."
-msgstr "Az értékcsökkenés az ütemezés szerint, eszközönként könyvelődik, az Ön általi könyvelési tétel nélkül. Lásd: [Értékcsökkenés](https://docs.frappe.io/erpnext/user/manual/en/asset-depreciation)."
+msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)."
+msgstr "Az értékcsökkenés az ütemezés szerint, eszközönként könyvelődik, az Ön általi könyvelési tétel nélkül. Lásd: [Értékcsökkenés](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)."
 
 #. Label of the description_rules (Table) field in DocType 'Bank Transaction
 #. Rule'
@@ -20423,8 +20423,8 @@ msgstr "EMU of current"
 
 #. Label of a Desktop Icon
 #: erpnext/desktop_icon/erpnext.json:9
-msgid "ERPNext"
-msgstr "ERPNext"
+msgid "thinkNXG ERP"
+msgstr "thinkNXG ERP"
 
 #. Label of a Desktop Icon
 #. Name of a Workspace
@@ -20432,18 +20432,18 @@ msgstr "ERPNext"
 #: erpnext/desktop_icon/erpnext_settings.json:10
 #: erpnext/setup/workspace/erpnext_settings/erpnext_settings.json:19
 #: erpnext/workspace_sidebar/erpnext_settings.json:243
-msgid "ERPNext Settings"
-msgstr "ERPNext beállítások"
+msgid "thinkNXG ERP Settings"
+msgstr "thinkNXG ERP beállítások"
 
 #. Label of the user_id (Data) field in DocType 'Employee Group Table'
 #: erpnext/setup/doctype/employee_group_table/employee_group_table.json:32
-msgid "ERPNext User ID"
-msgstr "ERPNext felhasználói azonosító"
+msgid "thinkNXG ERP User ID"
+msgstr "thinkNXG ERP felhasználói azonosító"
 
 #. Description of the 'Maintain Stock' (Check) field in DocType 'Item'
 #: erpnext/stock/doctype/item/item.json:242
-msgid "ERPNext will make a stock ledger entry for each transaction of this item. Keep unchecked for non-stock or service items."
-msgstr "Az ERPNext minden egyes tranzakcióhoz készletnyilvántartási tételt készít. Hagyja üresen a nem raktáron lévő vagy szolgáltatási tételeket."
+msgid "thinkNXG ERP will make a stock ledger entry for each transaction of this item. Keep unchecked for non-stock or service items."
+msgstr "Az thinkNXG ERP minden egyes tranzakcióhoz készletnyilvántartási tételt készít. Hagyja üresen a nem raktáron lévő vagy szolgáltatási tételeket."
 
 #. Option for the 'How often should project be updated of Total Purchase Cost
 #. ?' (Select) field in DocType 'Buying Settings'
@@ -21038,8 +21038,8 @@ msgstr "Engedélyezze az európai hozzáférést"
 #. Label of the enable_frappe_crm_data_synchronization (Check) field in DocType
 #. 'CRM Settings'
 #: erpnext/crm/doctype/crm_settings/crm_settings.json:135
-msgid "Enable Frappe CRM Data Synchronization"
-msgstr "Frappe CRM adatszinkronizálás engedélyezése"
+msgid "Enable thinkNXG CRM Data Synchronization"
+msgstr "thinkNXG CRM adatszinkronizálás engedélyezése"
 
 #. Label of the enable_fuzzy_matching (Check) field in DocType 'Accounts
 #. Settings'
@@ -21691,8 +21691,8 @@ msgstr "Minden könyvelt értékcsökkenés, eszközönként."
 
 #. Description of the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:5
-msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.frappe.io/erpnext/user/manual/en/stock-ledger)."
-msgstr "Minden tétel minden mozgása, be- és kimenő, mindegyik után az egyenleggel. Lásd: [Készletnyilvántartás](https://docs.frappe.io/erpnext/user/manual/en/stock-ledger)."
+msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
+msgstr "Minden tétel minden mozgása, be- és kimenő, mindegyik után az egyenleggel. Lásd: [Készletnyilvántartás](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
 
 #. Description of a report in the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:17
@@ -21701,8 +21701,8 @@ msgstr "Minden tétel minden mozgása, be- és kimenő."
 
 #. Description of the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:5
-msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.frappe.io/erpnext/user/manual/en/general-ledger)."
-msgstr "Minden könyvelés a számláiból és fizetéseiből, a tartozik és követel tételeivel. Lásd: [Főkönyv](https://docs.frappe.io/erpnext/user/manual/en/general-ledger)."
+msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
+msgstr "Minden könyvelés a számláiból és fizetéseiből, a tartozik és követel tételeivel. Lásd: [Főkönyv](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
 
 #. Description of a report in the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:18
@@ -21721,8 +21721,8 @@ msgstr "Minden munkarendelés, annak előrehaladása és a késések."
 
 #. Description of the Onboarding Step 'See how production is going'
 #: erpnext/manufacturing/onboarding_step/view_work_order_summary_report/view_work_order_summary_report.json:5
-msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.frappe.io/erpnext/user/manual/en/work-order-summary)."
-msgstr "Minden munkarendelés, annak előrehaladása és a késések. Lásd: [Munkarendelés összefoglalás](https://docs.frappe.io/erpnext/user/manual/en/work-order-summary)."
+msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)."
+msgstr "Minden munkarendelés, annak előrehaladása és a késések. Lásd: [Munkarendelés összefoglalás](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)."
 
 #. Title of an incoterm
 #: erpnext/setup/doctype/incoterm/incoterms.csv:2
@@ -23570,8 +23570,8 @@ msgstr "Egy {0} tétel esetén a mennyiségnek pozitív számnak kell lennie"
 
 #. Description of the Onboarding Step 'Post a journal entry'
 #: erpnext/accounts/onboarding_step/create_journal_entry/create_journal_entry.json:5
-msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.frappe.io/erpnext/user/manual/en/journal-entry)."
-msgstr "Minden olyanhoz, ami nem számla vagy fizetés: elhatárolások, értékcsökkenés vagy hiba javítása. Lásd: [Könyvelési tétel](https://docs.frappe.io/erpnext/user/manual/en/journal-entry)."
+msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)."
+msgstr "Minden olyanhoz, ami nem számla vagy fizetés: elhatárolások, értékcsökkenés vagy hiba javítása. Lásd: [Könyvelési tétel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)."
 
 #. Description of the 'Income Account' (Link) field in DocType 'Dunning'
 #: erpnext/accounts/doctype/dunning/dunning.json:245
@@ -23795,17 +23795,17 @@ msgstr "Fórum URL"
 #. Label of the frappe_crm_section (Section Break) field in DocType 'CRM
 #. Settings'
 #: erpnext/crm/doctype/crm_settings/crm_settings.json:117
-msgid "Frappe CRM"
-msgstr "Frappe CRM"
+msgid "thinkNXG CRM"
+msgstr "thinkNXG CRM"
 
 #. Name of a DocType
 #: erpnext/crm/doctype/frappe_crm_allowed_user/frappe_crm_allowed_user.json:28
 msgid "Frappe CRM Allowed User"
-msgstr "Frappe CRM engedélyezett felhasználó"
+msgstr "thinkNXG CRM engedélyezett felhasználó"
 
 #: erpnext/crm/frappe_crm_api.py:172
-msgid "Frappe CRM data synchronization is not enabled on ERPNext. Contact System Manager of ERPNext."
-msgstr "A Frappe CRM adatszinkronizálás nincs engedélyezve az ERPNextben. Forduljon az ERPNext rendszergazdájához."
+msgid "thinkNXG CRM data synchronization is not enabled on thinkNXG ERP. Contact System Manager of thinkNXG ERP."
+msgstr "A thinkNXG CRM adatszinkronizálás nincs engedélyezve az thinkNXG ERPben. Forduljon az thinkNXG ERP rendszergazdájához."
 
 #: erpnext/setup/install.py:237
 msgid "Frappe School"
@@ -24184,8 +24184,8 @@ msgstr "A dátum nem lehet nagyobb, mint a dátum"
 
 #. Description of the Onboarding Step 'Move stock between warehouses'
 #: erpnext/stock/onboarding_step/move_stock/move_stock.json:5
-msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
-msgstr "A raktárból az üzembe, vagy telephelyek között. Lásd: [Készletmozgás](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
+msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
+msgstr "A raktárból az üzembe, vagy telephelyek között. Lásd: [Készletmozgás](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
 
 #: erpnext/accounts/doctype/shipping_rule/shipping_rule.py:91
 #, python-brace-format
@@ -24862,8 +24862,8 @@ msgstr "Megállók lekérése innen"
 
 #. Title of the Module Onboarding 'Organization Onboarding'
 #: erpnext/setup/module_onboarding/organization_onboarding/organization_onboarding.json:55
-msgid "Get to know ERPNext"
-msgstr "Ismerkedjen meg az ERPNext-tel"
+msgid "Get to know thinkNXG ERP"
+msgstr "Ismerkedjen meg az thinkNXG ERP-tel"
 
 #. Title of the Module Onboarding 'Accounting Onboarding'
 #. Title of an Onboarding Step
@@ -24941,8 +24941,8 @@ msgstr "Az áruk már érkeznek a kifizetés ellenében {0}"
 
 #. Description of the Onboarding Step 'Add an item you buy'
 #: erpnext/buying/onboarding_step/create_buying_item/create_buying_item.json:5
-msgid "Goods or services you buy from suppliers. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Az áruk vagy szolgáltatások, amelyeket beszállítóktól vásárol. Lásd: [Tétel](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "Goods or services you buy from suppliers. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Az áruk vagy szolgáltatások, amelyeket beszállítóktól vásárol. Lásd: [Tétel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #: erpnext/setup/setup_wizard/operations/install_fixtures.py:193
 msgid "Government"
@@ -25879,8 +25879,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Enter the stock you have today'
 #: erpnext/stock/onboarding_step/create_opening_stock/create_opening_stock.json:5
-msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.frappe.io/erpnext/user/manual/en/stock-reconciliation)."
-msgstr "Hogy az egyes tételekből mennyi van a polcain, és mennyit érnek. Innentől minden bevételezés és szállítás naprakészen tartja ezt. Lásd: [Készletegyeztetés](https://docs.frappe.io/erpnext/user/manual/en/stock-reconciliation)."
+msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
+msgstr "Hogy az egyes tételekből mennyi van a polcain, és mennyit érnek. Innentől minden bevételezés és szállítás naprakészen tartja ezt. Lásd: [Készletegyeztetés](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
 
 #. Description of a DocType
 #: erpnext/manufacturing/doctype/master_production_schedule/master_production_schedule.json:6
@@ -26184,17 +26184,17 @@ msgstr "Ha engedélyezve van, auto Serial \n"
 #. DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:420
 msgid "If enabled, formula for <b>Qty to Order</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "Ha engedélyezve van, a <b>Qty to Order</b> képlete: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> Ez segít elkerülni az over-orderinget."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> Ez segít elkerülni az over-orderinget."
 
 #. Description of the 'Consider Projected Qty in Calculation (RM)' (Check)
 #. field in DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:238
 msgid "If enabled, formula for <b>Required Qty</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "Ha engedélyezve van, a <b>Required Qty</b> képlete: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> Ez segít elkerülni az over-orderinget."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> Ez segít elkerülni az over-orderinget."
 
 #. Description of the 'Create Ledger Entries for Change Amount' (Check) field
 #. in DocType 'POS Settings'
@@ -26458,12 +26458,12 @@ msgid "If this item has variants, then it cannot be selected in sales orders etc
 msgstr "Ha ennek a tételnek vannak változatai, akkor nem lehet kiválasztani a vevői rendeléseken stb."
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:76
-msgid "If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
-msgstr "Ha ez az opció „Igen” -re van konfigurálva, az ERPNext megakadályozza, hogy vásárlási számlát vagy nyugtát hozzon létre anélkül, hogy először megrendelést hozna létre. Ez a konfiguráció felülírható egy adott szállító számára, ha engedélyezi a Beszállítói mester „Beszerzési számla létrehozásának engedélyezése vásárlási megrendelés nélkül” jelölőnégyzetét."
+msgid "If this option is configured 'Yes', thinkNXG ERP will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
+msgstr "Ha ez az opció „Igen” -re van konfigurálva, az thinkNXG ERP megakadályozza, hogy vásárlási számlát vagy nyugtát hozzon létre anélkül, hogy először megrendelést hozna létre. Ez a konfiguráció felülírható egy adott szállító számára, ha engedélyezi a Beszállítói mester „Beszerzési számla létrehozásának engedélyezése vásárlási megrendelés nélkül” jelölőnégyzetét."
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:83
-msgid "If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
-msgstr "Ha ez az opció „Igen” -re van konfigurálva, az ERPNext megakadályozza a vásárlási számla létrehozását anélkül, hogy előbb létrehozná a vásárlási bizonylatot. Ez a konfiguráció felülírható egy adott szállító számára, ha engedélyezi a Beszállítói mester „Vásárlási számla létrehozásának engedélyezése vásárlási nyugta nélkül” jelölőnégyzetét."
+msgid "If this option is configured 'Yes', thinkNXG ERP will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
+msgstr "Ha ez az opció „Igen” -re van konfigurálva, az thinkNXG ERP megakadályozza a vásárlási számla létrehozását anélkül, hogy előbb létrehozná a vásárlási bizonylatot. Ez a konfiguráció felülírható egy adott szállító számára, ha engedélyezi a Beszállítói mester „Vásárlási számla létrehozásának engedélyezése vásárlási nyugta nélkül” jelölőnégyzetét."
 
 #: erpnext/manufacturing/doctype/manufacturing_settings/manufacturing_settings.js:10
 msgid "If ticked, multiple materials can be used for a single Work Order. This is useful if one or more time consuming products are being manufactured."
@@ -26488,8 +26488,8 @@ msgid "If yes, then this warehouse will be used to store rejected materials"
 msgstr "Ha igen, akkor ezt a raktárat selejtes anyagok tárolására fogják használni"
 
 #: erpnext/stock/doctype/item/item.js:1476
-msgid "If you are maintaining stock of this Item in your Inventory, ERPNext will make a stock ledger entry for each transaction of this item."
-msgstr "Ha raktáron tartja ezt a tételt a készletében, az ERPNext minden egyes tranzakcióról készletnyilvántartási tételt készít."
+msgid "If you are maintaining stock of this Item in your Inventory, thinkNXG ERP will make a stock ledger entry for each transaction of this item."
+msgstr "Ha raktáron tartja ezt a tételt a készletében, az thinkNXG ERP minden egyes tranzakcióról készletnyilvántartási tételt készít."
 
 #. Description of the 'Unreconciled Entries' (Section Break) field in DocType
 #. 'Payment Reconciliation'
@@ -26742,8 +26742,8 @@ msgstr "Importálás CSV fájl használatával"
 
 #. Description of the Onboarding Step 'Match your bank statement'
 #: erpnext/accounts/onboarding_step/open_banking/open_banking.json:5
-msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.frappe.io/erpnext/user/manual/en/bank-reconciliation)."
-msgstr "Importáljon kivonatot a bankjából, és párosítsa minden sorát egy fizetéssel, hogy könyvei egyezzenek vele. Lásd: [Banki egyeztetés](https://docs.frappe.io/erpnext/user/manual/en/bank-reconciliation)."
+msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)."
+msgstr "Importáljon kivonatot a bankjából, és párosítsa minden sorát egy fizetéssel, hogy könyvei egyezzenek vele. Lásd: [Banki egyeztetés](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)."
 
 #: erpnext/edi/doctype/code_list/code_list_import.js:131
 #, python-brace-format
@@ -29356,8 +29356,8 @@ msgstr "A tételek összevonása után akár néhány órát is igénybe vehet, 
 
 #. Description of the Onboarding Step 'Pay your supplier'
 #: erpnext/buying/onboarding_step/pay_supplier/pay_supplier.json:5
-msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
-msgstr "Kifizeti a beszállító számláját, és az összeget levonja az Ön bank- vagy pénztárszámlájáról. Lásd: [Fizetési tétel](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
+msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
+msgstr "Kifizeti a beszállító számláját, és az összeget levonja az Ön bank- vagy pénztárszámlájáról. Lásd: [Fizetési tétel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
 
 #: erpnext/stock/report/stock_valuation_comparison/stock_valuation_comparison.py:533
 #: erpnext/stock/valuation_adjustment.py:386
@@ -29370,8 +29370,8 @@ msgstr "Erre azért van szükség, hogy behozza a Termék részleteket."
 
 #. Description of the Onboarding Step 'Enter a supplier's bill'
 #: erpnext/accounts/onboarding_step/create_accounting_purchase_invoice/create_accounting_purchase_invoice.json:5
-msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
-msgstr "Rögzíti a költséget és a beszállító felé fennálló tartozást a főkönyvben. Lásd: [Beszállítói számla](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
+msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
+msgstr "Rögzíti a költséget és a beszállító felé fennálló tartozást a főkönyvben. Lásd: [Beszállítói számla](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
 
 #: banking/src/components/features/BankReconciliation/BankBalance.tsx:138
 msgid "It takes into account all the transactions that have been posted and subtracts the transactions that have not cleared yet."
@@ -31841,8 +31841,8 @@ msgstr "Érdeklődések segítenek az üzletben, hozá adja a kapcsolatokat, és
 #. Description of the 'Enable Common Party Accounting' (Check) field in DocType
 #. 'Accounts Settings'
 #: erpnext/accounts/doctype/accounts_settings/accounts_settings.json:321
-msgid "Learn about <a href=\"https://docs.frappe.io/erpnext/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
-msgstr "További információ: <a href=\"https://docs.frappe.io/erpnext/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
+msgid "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
+msgstr "További információ: <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
 
 #. Label of the leave_encashed (Select) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:651
@@ -36300,8 +36300,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Record a supplier's quote'
 #: erpnext/buying/onboarding_step/create_supplier_quotation/create_supplier_quotation.json:5
-msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.frappe.io/erpnext/user/manual/en/supplier-quotation)."
-msgstr "Jegyezze fel a beszállító által kínált árat, hogy rendelés előtt összehasonlíthassa a beszállítókat. Lásd: [Beszállítói ajánlat](https://docs.frappe.io/erpnext/user/manual/en/supplier-quotation)."
+msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)."
+msgstr "Jegyezze fel a beszállító által kínált árat, hogy rendelés előtt összehasonlíthassa a beszállítókat. Lásd: [Beszállítói ajánlat](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)."
 
 #: erpnext/manufacturing/doctype/bom_update_log/bom_update_log_list.js:21
 msgid "Note: Automatic log deletion only applies to logs of type <i>Update Cost</i>"
@@ -36754,8 +36754,8 @@ msgstr "Ha a munkarendelés lezárult, nem folytatható."
 
 #. Description of the Onboarding Step 'Quote a price'
 #: erpnext/selling/onboarding_step/create_quotation/create_quotation.json:5
-msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.frappe.io/erpnext/user/manual/en/quotation)."
-msgstr "Amint a vevő egyetértett, az árajánlatból közvetlenül készíthet vevői rendelést vagy számlát. Lásd: [Árajánlat](https://docs.frappe.io/erpnext/user/manual/en/quotation)."
+msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)."
+msgstr "Amint a vevő egyetértett, az árajánlatból közvetlenül készíthet vevői rendelést vagy számlát. Lásd: [Árajánlat](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)."
 
 #: erpnext/accounts/doctype/loyalty_program/loyalty_program.js:39
 msgid "One customer can be part of only single Loyalty Program."
@@ -37878,8 +37878,8 @@ msgstr "Megrendelési érték"
 
 #. Description of the Onboarding Step 'Place a purchase order'
 #: erpnext/buying/onboarding_step/create_purchase_order/create_purchase_order.json:5
-msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.frappe.io/erpnext/user/manual/en/purchase-order)."
-msgstr "Rendelje meg a beszállítótól. Amikor az áruk megérkeznek, vegye át azokat, és rögzítse a számlát közvetlenül magából a rendelésből. Lásd: [Beszerzési megrendelés](https://docs.frappe.io/erpnext/user/manual/en/purchase-order)."
+msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)."
+msgstr "Rendelje meg a beszállítótól. Amikor az áruk megérkeznek, vegye át azokat, és rögzítse a számlát közvetlenül magából a rendelésből. Lásd: [Beszerzési megrendelés](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)."
 
 #. Title of the Module Onboarding 'Buying Onboarding'
 #. Title of an Onboarding Step
@@ -41536,8 +41536,8 @@ msgid "Please add atleast one Serial No / Batch No"
 msgstr "Kérjük, adjon hozzá legalább egy Serial No / Batch No értéket"
 
 #: erpnext/crm/doctype/crm_settings/crm_settings.py:54
-msgid "Please add atleast one user on Allowed Users to allow Data Synchronization from Frappe CRM site."
-msgstr "Kérjük, adjon hozzá legalább egy felhasználót az Engedélyezett felhasználók listájához, hogy engedélyezze az adatszinkronizálást a Frappe CRM webhelyről."
+msgid "Please add atleast one user on Allowed Users to allow Data Synchronization from thinkNXG CRM site."
+msgstr "Kérjük, adjon hozzá legalább egy felhasználót az Engedélyezett felhasználók listájához, hogy engedélyezze az adatszinkronizálást a thinkNXG CRM webhelyről."
 
 #: erpnext/accounts/doctype/bank_statement_import/bank_statement_import.py:85
 msgid "Please add the Bank Account column"
@@ -47409,8 +47409,8 @@ msgstr "A(z) {0} nyersanyag a(z) {1} tételhez van rendelve, amely nem ennek a b
 
 #. Description of the Onboarding Step 'Finish making it'
 #: erpnext/manufacturing/onboarding_step/finish_work_order/finish_work_order.json:5
-msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
-msgstr "A nyersanyagok kikerülnek a készletből, a késztermékek pedig bekerülnek. A munkarendelésből a **Befejezés** gomb automatikusan kitölti ezt. Lásd: [Készletmozgás](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
+msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
+msgstr "A nyersanyagok kikerülnek a készletből, a késztermékek pedig bekerülnek. A munkarendelésből a **Befejezés** gomb automatikusan kitölti ezt. Lásd: [Készletmozgás](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
 
 #. Description of the 'Validate consumed quantity (as per BOM)' (Check) field
 #. in DocType 'Buying Settings'
@@ -48029,18 +48029,18 @@ msgstr "Belső átvezetés rögzítése másik bank-, hitelkártya- vagy pénzt�
 
 #. Description of the Onboarding Step 'Log time against it'
 #: erpnext/projects/onboarding_step/create_timesheet/create_timesheet.json:5
-msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.frappe.io/erpnext/user/manual/en/timesheets)."
-msgstr "Rögzítse a feladatokra fordított órákat. Számlázza ki őket a vevőnek, vagy használja fel a projekt költségének kiszámításához. Lásd: [Munkaidő-kimutatás](https://docs.frappe.io/erpnext/user/manual/en/timesheets)."
+msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)."
+msgstr "Rögzítse a feladatokra fordított órákat. Számlázza ki őket a vevőnek, vagy használja fel a projekt költségének kiszámításához. Lásd: [Munkaidő-kimutatás](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)."
 
 #. Description of the Onboarding Step 'Inspect goods coming in or going out'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection/create_quality_inspection.json:5
-msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection)."
-msgstr "Rögzítse az eredményeket egy bevételezéshez vagy szállításhoz, és fogadja el vagy utasítsa vissza az árut. Lásd: [Minőségellenőrzés](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection)."
+msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)."
+msgstr "Rögzítse az eredményeket egy bevételezéshez vagy szállításhoz, és fogadja el vagy utasítsa vissza az árut. Lásd: [Minőségellenőrzés](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)."
 
 #. Description of the Onboarding Step 'Hand it to a person or place'
 #: erpnext/assets/onboarding_step/create_asset_movement/create_asset_movement.json:5
-msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.frappe.io/erpnext/user/manual/en/asset-movement)."
-msgstr "Rögzítse, kinél van, és hol található, hogy mindig tudja. Lásd: [Eszközmozgás](https://docs.frappe.io/erpnext/user/manual/en/asset-movement)."
+msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)."
+msgstr "Rögzítse, kinél van, és hol található, hogy mindig tudja. Lásd: [Eszközmozgás](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)."
 
 #. Label of the recording_html (HTML) field in DocType 'Call Log'
 #: erpnext/telephony/doctype/call_log/call_log.json:91
@@ -48365,8 +48365,8 @@ msgstr "Szabályos"
 
 #. Description of the Onboarding Step 'Plan maintenance visits'
 #: erpnext/quality_management/onboarding_step/create_maintenance_schedule/create_maintenance_schedule.json:5
-msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.frappe.io/erpnext/user/manual/en/maintenance-schedule)."
-msgstr "Rendszeres szervizlátogatások az Ön által eladott berendezésekhez, a teljes szerződésre előre tervezve. Lásd: [Karbantartási ütemterv](https://docs.frappe.io/erpnext/user/manual/en/maintenance-schedule)."
+msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)."
+msgstr "Rendszeres szervizlátogatások az Ön által eladott berendezésekhez, a teljes szerződésre előre tervezve. Lásd: [Karbantartási ütemterv](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)."
 
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.py:214
 msgid "Rejected "
@@ -53499,8 +53499,8 @@ msgstr "Értékesítés vevő, tétel vagy terület szerint, bármely időszakra
 
 #. Description of the Onboarding Step 'Spot your best sellers'
 #: erpnext/selling/onboarding_step/view_sales_analytics/view_sales_analytics.json:5
-msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.frappe.io/erpnext/user/manual/en/sales-analytics)."
-msgstr "Értékesítés vevő, tétel vagy terület szerint, bármely időszakra. Lásd: [Értékesítési analitika](https://docs.frappe.io/erpnext/user/manual/en/sales-analytics)."
+msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
+msgstr "Értékesítés vevő, tétel vagy terület szerint, bármely időszakra. Lásd: [Értékesítési analitika](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
 
 #: erpnext/manufacturing/doctype/production_plan/production_plan.py:268
 msgid "Sales orders are not available for production"
@@ -55464,8 +55464,8 @@ msgstr "Szervíz szolgáltatások"
 
 #. Description of the Onboarding Step 'Schedule its upkeep'
 #: erpnext/assets/onboarding_step/create_asset_maintenance/create_asset_maintenance.json:5
-msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance)."
-msgstr "Karbantartás, ellenőrzések és kalibrálás, a végző csapatnak küldött emlékeztetőkkel. Lásd: [Eszközkarbantartás](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance)."
+msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
+msgstr "Karbantartás, ellenőrzések és kalibrálás, a végző csapatnak küldött emlékeztetőkkel. Lásd: [Eszközkarbantartás](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
 
 #. Label of the set_warehouse (Link) field in DocType 'Purchase Invoice'
 #: erpnext/accounts/doctype/purchase_invoice/purchase_invoice.json:582
@@ -56796,8 +56796,8 @@ msgstr "Valami hiba történt, kérjük, próbálja újra"
 
 #. Description of the Onboarding Step 'Record an asset you already own'
 #: erpnext/assets/onboarding_step/create_existing_asset/create_existing_asset.json:5
-msgid "Something you bought before using ERPNext, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.frappe.io/erpnext/user/manual/en/asset)."
-msgstr "Olyan dolog, amelyet az ERPNext használata előtt vásárolt, a kifizetett összeggel, a tárolási hellyel és azzal, hogy mekkora értékcsökkenés van már rajta. Lásd: [Eszköz](https://docs.frappe.io/erpnext/user/manual/en/asset)."
+msgid "Something you bought before using thinkNXG ERP, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
+msgstr "Olyan dolog, amelyet az thinkNXG ERP használata előtt vásárolt, a kifizetett összeggel, a tárolási hellyel és azzal, hogy mekkora értékcsökkenés van már rajta. Lásd: [Eszköz](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
 
 #. Description of a DocType
 #: erpnext/quality_management/doctype/quality_goal/quality_goal.json:5
@@ -56806,13 +56806,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a raw material'
 #: erpnext/manufacturing/onboarding_step/create_raw_materials/create_raw_materials.json:5
-msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Olyan dolog, amelyet termékei előállításához használ, és a Nyersanyag csoportban tárol. Lásd: [Tétel](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Olyan dolog, amelyet termékei előállításához használ, és a Nyersanyag csoportban tárol. Lásd: [Tétel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #. Description of the Onboarding Step 'Set a quality goal'
 #: erpnext/quality_management/onboarding_step/create_quality_goal/create_quality_goal.json:5
-msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
-msgstr "Olyan dolog, amelyet mérni és javítani szeretne, például a határidőre történő szállítás vagy a visszáruk, és amelyet az Ön által választott ütemezés szerint vizsgálnak felül. Lásd: [Minőségirányítás](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
+msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgstr "Olyan dolog, amelyet mérni és javítani szeretne, például a határidőre történő szállítás vagy a visszáruk, és amelyet az Ön által választott ütemezés szerint vizsgálnak felül. Lásd: [Minőségirányítás](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
 
 #. Description of a DocType
 #: erpnext/assets/doctype/asset/asset.json:7
@@ -58361,13 +58361,13 @@ msgstr "Stock frozen up to"
 
 #. Description of the Onboarding Step 'Ship to a customer'
 #: erpnext/stock/onboarding_step/create_delivery_note/create_delivery_note.json:5
-msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.frappe.io/erpnext/user/manual/en/delivery-note)."
-msgstr "Az áruk kiszállításakor a készlet csökken, a számla pedig a szállításból hozható létre. Lásd: [Szállítólevél](https://docs.frappe.io/erpnext/user/manual/en/delivery-note)."
+msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)."
+msgstr "Az áruk kiszállításakor a készlet csökken, a számla pedig a szállításból hozható létre. Lásd: [Szállítólevél](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)."
 
 #. Description of the Onboarding Step 'Receive goods from a supplier'
 #: erpnext/stock/onboarding_step/create_purchase_receipt/create_purchase_receipt.json:5
-msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt)."
-msgstr "A készlet a raktárban nő, ahová az árukat beérkezteti, a számla pedig a bevételezésből hozható létre. Lásd: [Beszerzési bevételezés](https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt)."
+msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)."
+msgstr "A készlet a raktárban nő, ahová az árukat beérkezteti, a számla pedig a bevételezésből hozható létre. Lásd: [Beszerzési bevételezés](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)."
 
 #: erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:1313
 #, python-brace-format
@@ -61216,8 +61216,8 @@ msgstr "A(z) {0} számlatípusa nem módosítható a(z) {1} típusról, mert hoz
 
 #. Description of the Onboarding Step 'Add the bank account you use'
 #: erpnext/accounts/onboarding_step/add_bank_account/add_bank_account.json:5
-msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.frappe.io/erpnext/user/manual/en/bank-account)."
-msgstr "Az a számla, amelyre vevői fizetnek és amelyről Ön fizet, a számlatükörben lévő megfelelő számlához kapcsolva. Lásd: [Bankszámla](https://docs.frappe.io/erpnext/user/manual/en/bank-account)."
+msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)."
+msgstr "Az a számla, amelyre vevői fizetnek és amelyről Ön fizet, a számlatükörben lévő megfelelő számlához kapcsolva. Lásd: [Bankszámla](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)."
 
 #: erpnext/accounts/doctype/payment_request/payment_request.py:1127
 #, python-brace-format
@@ -61250,8 +61250,8 @@ msgstr "A(z) {0} köteg a(z) {2} raktárban {1} részére van lefoglalva, a fenn
 
 #. Description of the Onboarding Step 'Enter their bill'
 #: erpnext/buying/onboarding_step/create_purchase_invoice/create_purchase_invoice.json:5
-msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
-msgstr "A szállítója által küldött számla, hogy tudja, mennyivel tartozik és mikorra esedékes. Lásd: [Beszállítói számla](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
+msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
+msgstr "A szállítója által küldött számla, hogy tudja, mennyivel tartozik és mikorra esedékes. Lásd: [Beszállítói számla](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
 
 #: erpnext/controllers/taxes_and_totals.py:259
 msgid "The cash or non-trade discount cannot be combined with discounts carried from other documents."
@@ -61508,8 +61508,8 @@ msgstr "A job card {0} {1} állapotban van, ezért nem indítható újra."
 
 #. Description of the Onboarding Step 'Add an asset item'
 #: erpnext/assets/onboarding_step/create_asset_item/create_asset_item.json:5
-msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Az a típusú dolog, amely az Ön tulajdonában van, tárgyi eszközként megjelölve. Lásd: [Tétel](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Az a típusú dolog, amely az Ön tulajdonában van, tárgyi eszközként megjelölve. Lásd: [Tétel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #: erpnext/accounts/doctype/bank_transaction_rule/bank_transaction_rule.py:129
 msgid "The last account row must not have any debit or credit amounts set."
@@ -61582,8 +61582,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Decide what to check'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:5
-msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection-template)."
-msgstr "Az ellenőrizendő paraméterek és az, hogy mi számít sikeresnek, minden ellenőrzésnél újra felhasználásra kerülnek. Lásd: [Minőségellenőrzési sablon](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection-template)."
+msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)."
+msgstr "Az ellenőrizendő paraméterek és az, hogy mi számít sikeresnek, minden ellenőrzésnél újra felhasználásra kerülnek. Lásd: [Minőségellenőrzési sablon](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)."
 
 #: erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:253
 #, python-brace-format
@@ -61657,10 +61657,10 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Write its bill of materials'
 #: erpnext/manufacturing/onboarding_step/create_bill_of_materials/create_bill_of_materials.json:5
-msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.frappe.io/erpnext/user/manual/en/bill-of-materials).\n\n"
-"Sending some of the work to a supplier? See [Subcontracting](https://docs.frappe.io/erpnext/user/manual/en/subcontracting)."
-msgstr "Azok az alapanyagok és azok mennyisége, amelyek a termék egy egységébe kerülnek. Küldje be, hogy a gyártásban használhassa. Lásd: [Anyagjegyzék](https://docs.frappe.io/erpnext/user/manual/en/bill-of-materials).\n\n"
-"Bízza-e a munka egy részét szállítóra? Lásd: [Alvállalkozás](https://docs.frappe.io/erpnext/user/manual/en/subcontracting)."
+msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials).\n\n"
+"Sending some of the work to a supplier? See [Subcontracting](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)."
+msgstr "Azok az alapanyagok és azok mennyisége, amelyek a termék egy egységébe kerülnek. Küldje be, hogy a gyártásban használhassa. Lásd: [Anyagjegyzék](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials).\n\n"
+"Bízza-e a munka egy részét szállítóra? Lásd: [Alvállalkozás](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)."
 
 #: banking/src/pages/BankStatementImporter.tsx:205
 msgid "The reference number of the transaction"
@@ -61755,13 +61755,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Write down how the work is done'
 #: erpnext/quality_management/onboarding_step/create_quality_procedure/create_quality_procedure.json:5
-msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
-msgstr "Azok a lépések, amelyeket csapata követ, hogy a munkát minden alkalommal ugyanúgy végezzék el. Lásd: [Minőségirányítás](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
+msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgstr "Azok a lépések, amelyeket csapata követ, hogy a munkát minden alkalommal ugyanúgy végezzék el. Lásd: [Minőségirányítás](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
 
 #: erpnext/stock/stock_ledger.py:1074
 #, python-brace-format
-msgid "The stock for the item {0} in the {1} warehouse was negative on the {2}. You should create a positive entry {3} before the date {4} and time {5} to post the correct valuation rate. For more details, please read the <a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>documentation<a>."
-msgstr "A(z) {0} item stock értéke a(z) {1} warehouse alatt negatív volt ekkor: {2}. A helyes valuation rate könyveléséhez hozzon létre pozitív entry {3} értéket a(z) {4} dátum és {5} időpont előtt. További részletekért olvassa el a <a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>documentation<a> oldalt."
+msgid "The stock for the item {0} in the {1} warehouse was negative on the {2}. You should create a positive entry {3} before the date {4} and time {5} to post the correct valuation rate. For more details, please read the <a href='https://docs.thinknxg.com/thinknxgerp/stock-adjustment-cogs-with-negative-stock'>documentation<a>."
+msgstr "A(z) {0} item stock értéke a(z) {1} warehouse alatt negatív volt ekkor: {2}. A helyes valuation rate könyveléséhez hozzon létre pozitív entry {3} értéket a(z) {4} dátum és {5} időpont előtt. További részletekért olvassa el a <a href='https://docs.thinknxg.com/thinknxgerp/stock-adjustment-cogs-with-negative-stock'>documentation<a> oldalt."
 
 #: erpnext/stock/doctype/stock_reconciliation/stock_reconciliation.py:826
 #, python-brace-format
@@ -61817,8 +61817,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Review your taxes'
 #: erpnext/accounts/onboarding_step/review_taxes/review_taxes.json:5
-msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.frappe.io/erpnext/user/manual/en/setting-up-taxes)."
-msgstr "Az adók, amelyek minden számlán kitöltődnek. Az Ön országának adóit ott adtuk hozzá, ahol rendelkezésünkre álltak; ellenőrizze, hogy a kulcsok megegyeznek-e az Ön által felszámítottakkal. A beszerzési adók itt érhetők el: [Beszerzési megrendelés adók és illetékek sablon](/desk/purchase-taxes-and-charges-template). Lásd: [Adók beállítása](https://docs.frappe.io/erpnext/user/manual/en/setting-up-taxes)."
+msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)."
+msgstr "Az adók, amelyek minden számlán kitöltődnek. Az Ön országának adóit ott adtuk hozzá, ahol rendelkezésünkre álltak; ellenőrizze, hogy a kulcsok megegyeznek-e az Ön által felszámítottakkal. A beszerzési adók itt érhetők el: [Beszerzési megrendelés adók és illetékek sablon](/desk/purchase-taxes-and-charges-template). Lásd: [Adók beállítása](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)."
 
 #: erpnext/stock/doctype/material_request/material_request.py:486
 #, python-brace-format
@@ -62003,8 +62003,8 @@ msgid "There are no transactions in the system for the selected bank account and
 msgstr "A kiválasztott bankszámlához és dátumokhoz nincs a szűrőknek megfelelő tranzakció a rendszerben."
 
 #: erpnext/stock/doctype/item/item.js:1495
-msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.frappe.io/erpnext/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
-msgstr "Két lehetőség van a stock valuation kezelésére: FIFO (first in - first out) és Moving Average. A téma részletes megértéséhez látogassa meg ezt az oldalt: <a href='https://docs.frappe.io/erpnext/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
+msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
+msgstr "Két lehetőség van a stock valuation kezelésére: FIFO (first in - first out) és Moving Average. A téma részletes megértéséhez látogassa meg ezt az oldalt: <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
 
 #: banking/src/components/features/BankReconciliation/MatchAndReconcile.tsx:980
 #, python-brace-format
@@ -62151,8 +62151,8 @@ msgid "This action will stop future billing. Are you sure you want to cancel thi
 msgstr "Ez a művelet leállítja a jövőbeni számlázást. Biztosan törölni szeretné ezt az előfizetést?"
 
 #: erpnext/accounts/doctype/bank_account/bank_account.js:35
-msgid "This action will unlink this account from any external service integrating ERPNext with your bank accounts. It cannot be undone. Are you certain ?"
-msgstr "Ez a művelet leválasztja ezt a bankszámlát az ERPNextet a bankszámláival összekapcsoló külső szolgáltatásokról. A művelet nem vonható vissza. Biztosan folytatja?"
+msgid "This action will unlink this account from any external service integrating thinkNXG ERP with your bank accounts. It cannot be undone. Are you certain ?"
+msgstr "Ez a művelet leválasztja ezt a bankszámlát az thinkNXG ERPet a bankszámláival összekapcsoló külső szolgáltatásokról. A művelet nem vonható vissza. Biztosan folytatja?"
 
 #. Description of the 'Allow Sales Order creation for expired Quotation'
 #. (Check) field in DocType 'Selling Settings'
@@ -66070,8 +66070,8 @@ msgid "User has not applied rule on the invoice {0}"
 msgstr "A felhasználó nem alkalmazta a szabályt a(z) {0} számlán."
 
 #: erpnext/crm/frappe_crm_api.py:184
-msgid "User not allowed to synchronize data from Frappe CRM on ERPNext. Contact System Manager of ERPNext."
-msgstr "A felhasználó nem szinkronizálhat adatokat a Frappe CRM-ből az ERPNext-be. Forduljon az ERPNext rendszergazdájához."
+msgid "User not allowed to synchronize data from thinkNXG CRM on thinkNXG ERP. Contact System Manager of thinkNXG ERP."
+msgstr "A felhasználó nem szinkronizálhat adatokat a thinkNXG CRM-ből az thinkNXG ERP-be. Forduljon az thinkNXG ERP rendszergazdájához."
 
 #: erpnext/setup/doctype/employee/employee.py:314
 #, python-brace-format
@@ -67155,7 +67155,7 @@ msgstr "Az utalványok"
 
 #: erpnext/patches/v15_0/remove_exotel_integration.py:33
 msgid "WARNING: Exotel app has been separated from ERPNext, please install the app to continue using Exotel integration."
-msgstr "FIGYELMEZTETÉS: az Exotel app különvált az ERPNext rendszertől; kérjük, telepítse az appot az Exotel integration további használatához."
+msgstr "FIGYELMEZTETÉS: az Exotel app különvált az thinkNXG ERP rendszertől; kérjük, telepítse az appot az Exotel integration további használatához."
 
 #. Label of the wip_composite_asset (Link) field in DocType 'Purchase Invoice
 #. Item'
@@ -67657,8 +67657,8 @@ msgstr "Az alapok beállítása nem sikerült"
 
 #. Description of the Onboarding Step 'Review your warehouses'
 #: erpnext/stock/onboarding_step/setup_warehouse/setup_warehouse.json:5
-msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.frappe.io/erpnext/user/manual/en/warehouse)."
-msgstr "Néhányat már létrehoztunk kezdésként. Nevezze át őket, vagy adja hozzá azokat a helyeket, ahol ténylegesen tárolja a készletet. Lásd: [Raktár](https://docs.frappe.io/erpnext/user/manual/en/warehouse)."
+msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)."
+msgstr "Néhányat már létrehoztunk kezdésként. Nevezze át őket, vagy adja hozzá azokat a helyeket, ahol ténylegesen tárolja a készletet. Lásd: [Raktár](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)."
 
 #: erpnext/templates/emails/appointment_confirmed.html:3
 msgid "We look forward to meeting you"
@@ -67666,8 +67666,8 @@ msgstr "Szeretettel várjuk"
 
 #. Description of the Onboarding Step 'Review your chart of accounts'
 #: erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:5
-msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.frappe.io/erpnext/user/manual/en/chart-of-accounts)."
-msgstr "Az országának megfelelő alapértelmezett számlatükröt állítottuk be. Tekintse meg, hogyan vannak csoportosítva a számlái, és nevezze át vagy adjon hozzá újakat, hogy megfeleljenek a jelentéskészítés módjának. Lásd: [Számlatükör](https://docs.frappe.io/erpnext/user/manual/en/chart-of-accounts)."
+msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)."
+msgstr "Az országának megfelelő alapértelmezett számlatükröt állítottuk be. Tekintse meg, hogyan vannak csoportosítva a számlái, és nevezze át vagy adjon hozzá újakat, hogy megfeleljenek a jelentéskészítés módjának. Lásd: [Számlatükör](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)."
 
 #: banking/src/pages/BankStatementImporter.tsx:169
 msgid "We support uploading CSV, XLSX, XLS and PDF files. Please make sure the file contains the correct columns."
@@ -67834,8 +67834,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a product you make'
 #: erpnext/manufacturing/onboarding_step/create_finished_goods/create_finished_goods.json:5
-msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "A gyártás végén készülő termék, amely a Termékek csoportban marad. Lásd: [Tétel](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "A gyártás végén készülő termék, amely a Termékek csoportban marad. Lásd: [Tétel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #: erpnext/templates/pages/help.html:12
 msgid "What do you need help with?"
@@ -67946,8 +67946,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Log a problem'
 #: erpnext/quality_management/onboarding_step/create_non_conformance/create_non_conformance.json:5
-msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.frappe.io/erpnext/user/manual/en/non-conformance)."
-msgstr "Ha valami nem felel meg az eljárásnak, jegyezze fel, mi történt, mi az oka, és mit fog tenni ennek érdekében. Lásd: [Nem megfelelőség](https://docs.frappe.io/erpnext/user/manual/en/non-conformance)."
+msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)."
+msgstr "Ha valami nem felel meg az eljárásnak, jegyezze fel, mi történt, mi az oka, és mit fog tenni ennek érdekében. Lásd: [Nem megfelelőség](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)."
 
 #: erpnext/stock/doctype/stock_entry/stock_entry.py:502
 #, python-brace-format
@@ -67962,8 +67962,8 @@ msgstr "Ha valamiért előre fizet (például éves biztosításért), a költs�
 
 #. Description of the Onboarding Step 'Get paid'
 #: erpnext/selling/onboarding_step/create_payment_entry/create_payment_entry.json:5
-msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
-msgstr "Amikor ügyfele fizet, rögzítse itt. A fizetést a számlához egyezteti a rendszer, így láthatja, mi van még hátra. Lásd: [Fizetési tétel](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
+msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
+msgstr "Amikor ügyfele fizet, rögzítse itt. A fizetést a számlához egyezteti a rendszer, így láthatja, mi van még hátra. Lásd: [Fizetési tétel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
 
 #. Description of a DocType
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.json:6
@@ -68006,8 +68006,8 @@ msgstr "Kinek állítják be ezt?"
 
 #. Description of the Onboarding Step 'Break it into tasks'
 #: erpnext/projects/onboarding_step/create_tasks/create_tasks.json:5
-msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.frappe.io/erpnext/user/manual/en/task)."
-msgstr "Ki mit csinál, és mikorra. A feladatok összesítve adják a projekt előrehaladását. Lásd: [Feladat](https://docs.frappe.io/erpnext/user/manual/en/task)."
+msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)."
+msgstr "Ki mit csinál, és mikorra. A feladatok összesítve adják a projekt előrehaladását. Lásd: [Feladat](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)."
 
 #. Description of a report in the Onboarding Step 'Follow up on unpaid
 #. invoices'
@@ -68017,8 +68017,8 @@ msgstr "Ki tartozik Önnek, mennyivel, és mióta."
 
 #. Description of the Onboarding Step 'Follow up on unpaid invoices'
 #: erpnext/selling/onboarding_step/view_accounts_receivable/view_accounts_receivable.json:5
-msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.frappe.io/erpnext/user/manual/en/accounts-receivable)."
-msgstr "Ki tartozik Önnek, mennyivel, és mióta. Lásd: [Vevőkövetelések](https://docs.frappe.io/erpnext/user/manual/en/accounts-receivable)."
+msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)."
+msgstr "Ki tartozik Önnek, mennyivel, és mióta. Lásd: [Vevőkövetelések](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)."
 
 #. Description of the Onboarding Step 'Check what you owe'
 #: erpnext/buying/onboarding_step/view_accounts_payable/view_accounts_payable.json:5
@@ -69076,8 +69076,8 @@ msgid "Zip File"
 msgstr "ZIP fájl"
 
 #: erpnext/stock/reorder_item.py:396
-msgid "[Important] [ERPNext] Auto Reorder Errors"
-msgstr "[Fontos] [ERPNext] hibák automatikus átrendezése"
+msgid "[Important] [thinkNXG ERP] Auto Reorder Errors"
+msgstr "[Fontos] [thinkNXG ERP] hibák automatikus átrendezése"
 
 #: erpnext/accounts/doctype/financial_report_template/financial_report_validation.py:414
 #: erpnext/accounts/doctype/financial_report_template/financial_report_validation.py:424

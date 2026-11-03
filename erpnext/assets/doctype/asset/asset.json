@@ -7,7 +7,7 @@
  "description": "Something your business owns and uses over time, like a machine or a laptop.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/asset",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset",
  "engine": "InnoDB",
  "field_order": [
   "naming_series",

@@ -3,7 +3,7 @@
  "creation": "2013-06-25 11:04:03",
  "doctype": "DocType",
  "document_type": "Other",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/buying-settings",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/buying-settings",
  "engine": "InnoDB",
  "field_order": [
   "supplier_and_price_defaults_section",
@@ -63,7 +63,7 @@
    "options": "Supplier Name\nNaming Series\nAuto Name"
   },
   {
-   "documentation_url": "https://docs.frappe.io/erpnext/buying-settings#2-default-supplier-group",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/buying-settings#2-default-supplier-group",
    "fieldname": "supplier_group",
    "fieldtype": "Link",
    "label": "Default Supplier Group",
@@ -107,7 +107,7 @@
   },
   {
    "default": "BOM",
-   "documentation_url": "https://docs.frappe.io/erpnext/buying-settings#1-backflush-raw-materials-of-subcontract-based-on",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/buying-settings#1-backflush-raw-materials-of-subcontract-based-on",
    "fieldname": "backflush_raw_materials_of_subcontract_based_on",
    "fieldtype": "Select",
    "label": "Backflush raw materials of subcontract based on",

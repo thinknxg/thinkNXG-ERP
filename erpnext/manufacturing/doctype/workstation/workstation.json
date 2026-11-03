@@ -7,7 +7,7 @@
  "description": "A machine or place where operations are done.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/workstation",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/workstation",
  "engine": "InnoDB",
  "field_order": [
   "dashboard_tab",

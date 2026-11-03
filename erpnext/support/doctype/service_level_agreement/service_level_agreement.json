@@ -4,7 +4,7 @@
  "creation": "2018-12-26 21:08:15.448812",
  "description": "How fast issues must be answered and resolved.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/service-level-agreement",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/service-level-agreement",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

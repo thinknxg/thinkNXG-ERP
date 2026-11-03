@@ -7,7 +7,7 @@
  "description": "A marketing campaign, to see which leads and sales it brought in.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/campaign",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/campaign",
  "engine": "InnoDB",
  "field_order": [
   "campaign",

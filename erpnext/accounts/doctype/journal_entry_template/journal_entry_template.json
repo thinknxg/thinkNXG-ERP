@@ -5,7 +5,7 @@
  "description": "A saved set of accounts to start journal entries from.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/journal-entry-template",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry-template",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

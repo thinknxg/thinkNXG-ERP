@@ -7,7 +7,7 @@
  "description": "Prices you offer a customer or lead.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/quotation",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

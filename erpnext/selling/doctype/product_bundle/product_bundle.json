@@ -4,7 +4,7 @@
  "creation": "2013-06-20 11:53:21",
  "description": "Sells several items together as one item.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/product-bundle",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/product-bundle",
  "engine": "InnoDB",
  "field_order": [
   "basic_section",

@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Community Forum
-    url: https://discuss.frappe.io/c/erpnext/6
-    about: For general QnA, discussions and community help.
+  - name: thinkNXG Support
+    url: https://thinknxg.com/support
+    about: For general questions, help and support.
+  - name: thinkNXG ERP Documentation
+    url: https://docs.thinknxg.com/thinknxgerp
+    about: User manual and guides for thinkNXG ERP.

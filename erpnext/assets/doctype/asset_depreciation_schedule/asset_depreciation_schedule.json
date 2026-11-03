@@ -5,7 +5,7 @@
  "creation": "2022-10-31 15:03:35.424877",
  "description": "When an asset depreciates, and by how much.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/asset-depreciation",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/asset-depreciation",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

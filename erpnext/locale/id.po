@@ -748,8 +748,8 @@ msgstr "<div id=\\\"item-prices-container\\\"></div>"
 
 #. Content of the 'uom_help_html' (HTML) field in DocType 'Item'
 #: erpnext/stock/doctype/item/item.json:1081
-msgid "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Define alternate units for this item. Eg: 1 Box = 12 Nos, set conversion factor as 12. (Will also apply for variants) <a href=\"https://docs.frappe.io/erpnext/uom\" target=\"_blank\">Learn more &#8594;</a></div>"
-msgstr "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Tentukan satuan alternatif untuk barang ini. Contoh: 1 Kotak = 12 Buah, atur faktor konversi sebagai 12. (Juga berlaku untuk varian) <a href=\"https://docs.frappe.io/erpnext/uom\" target=\"_blank\">Pelajari selengkapnya &#8594;</a></div>"
+msgid "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Define alternate units for this item. Eg: 1 Box = 12 Nos, set conversion factor as 12. (Will also apply for variants) <a href=\"https://docs.thinknxg.com/thinknxgerp/uom\" target=\"_blank\">Learn more &#8594;</a></div>"
+msgstr "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Tentukan satuan alternatif untuk barang ini. Contoh: 1 Kotak = 12 Buah, atur faktor konversi sebagai 12. (Juga berlaku untuk varian) <a href=\"https://docs.thinknxg.com/thinknxgerp/uom\" target=\"_blank\">Pelajari selengkapnya &#8594;</a></div>"
 
 #. Content of the 'settings' (HTML) field in DocType 'Cheque Print Template'
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.json:55
@@ -1143,13 +1143,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a supplier'
 #: erpnext/buying/onboarding_step/create_supplier/create_supplier.json:5
-msgid "A business or person you buy from. See [Supplier](https://docs.frappe.io/erpnext/user/manual/en/supplier)."
-msgstr "Bisnis atau orang yang Anda beli darinya. Lihat [Pemasok](https://docs.frappe.io/erpnext/user/manual/en/supplier)."
+msgid "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)."
+msgstr "Bisnis atau orang yang Anda beli darinya. Lihat [Pemasok](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)."
 
 #. Description of the Onboarding Step 'Add a customer'
 #: erpnext/selling/onboarding_step/create_customer/create_customer.json:5
-msgid "A business or person you sell to. See [Customer](https://docs.frappe.io/erpnext/user/manual/en/customer)."
-msgstr "Bisnis atau orang yang Anda jual. Lihat [Pelanggan](https://docs.frappe.io/erpnext/user/manual/en/customer)."
+msgid "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)."
+msgstr "Bisnis atau orang yang Anda jual. Lihat [Pelanggan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)."
 
 #. Description of a DocType
 #: erpnext/regional/doctype/lower_deduction_certificate/lower_deduction_certificate.json:5
@@ -1450,8 +1450,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add an item you sell'
 #: erpnext/selling/onboarding_step/create_selling_item/create_selling_item.json:5
-msgid "A product or a service you sell. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Produk atau layanan yang Anda jual. Lihat [Barang](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "A product or a service you sell. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Produk atau layanan yang Anda jual. Lihat [Barang](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #. Description of a DocType
 #: erpnext/stock/doctype/item/item.json:7
@@ -5357,12 +5357,12 @@ msgid "Allowed Users"
 msgstr "Pengguna yang Diizinkan"
 
 #: erpnext/crm/doctype/crm_settings/crm_settings.py:59
-msgid "Allowed Users is not required as Frappe CRM is already installed on the site."
-msgstr "Pengguna yang Diizinkan tidak diperlukan karena Frappe CRM sudah terpasang di situs."
+msgid "Allowed Users is not required as thinkNXG CRM is already installed on the site."
+msgstr "Pengguna yang Diizinkan tidak diperlukan karena thinkNXG CRM sudah terpasang di situs."
 
 #: erpnext/crm/doctype/crm_settings/crm_settings.js:17
-msgid "Allowed Users is required for data synchronization from remote Frappe CRM site."
-msgstr "Pengguna yang Diizinkan wajib diisi untuk sinkronisasi data dari situs Frappe CRM jarak jauh."
+msgid "Allowed Users is required for data synchronization from remote thinkNXG CRM site."
+msgstr "Pengguna yang Diizinkan wajib diisi untuk sinkronisasi data dari situs thinkNXG CRM jarak jauh."
 
 #: erpnext/accounts/doctype/party_link/party_link.py:28
 msgid "Allowed primary roles are 'Customer' and 'Supplier'. Please select one of these roles only."
@@ -6045,13 +6045,13 @@ msgstr "Salah satu filter berikut wajib diisi: Gudang, Kode Barang, Kelompok Bar
 
 #. Description of the Onboarding Step 'Start a project'
 #: erpnext/projects/onboarding_step/create_project/create_project.json:5
-msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.frappe.io/erpnext/user/manual/en/project)."
-msgstr "Apa pun yang memiliki awal dan akhir: pekerjaan klien, instalasi, inisiatif internal. Lihat [Proyek](https://docs.frappe.io/erpnext/user/manual/en/project)."
+msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)."
+msgstr "Apa pun yang memiliki awal dan akhir: pekerjaan klien, instalasi, inisiatif internal. Lihat [Proyek](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)."
 
 #. Description of the Onboarding Step 'Add an item you stock'
 #: erpnext/stock/onboarding_step/create_item/create_item.json:5
-msgid "Anything you keep on shelves and count. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Apa pun yang Anda simpan di rak dan hitung. Lihat [Barang](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "Anything you keep on shelves and count. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Apa pun yang Anda simpan di rak dan hitung. Lihat [Barang](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #: erpnext/setup/setup_wizard/data/industry_type.txt:6
 msgid "Apparel & Accessories"
@@ -7247,8 +7247,8 @@ msgstr "Aset {assets_link} dibuat untuk {item_code}"
 
 #. Description of the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:5
-msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.frappe.io/erpnext/user/manual/en/balance-sheet)."
-msgstr "Aset, liabilitas, dan ekuitas pada tanggal apa pun, langsung dari buku besar Anda. Lihat [Neraca](https://docs.frappe.io/erpnext/user/manual/en/balance-sheet)."
+msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)."
+msgstr "Aset, liabilitas, dan ekuitas pada tanggal apa pun, langsung dari buku besar Anda. Lihat [Neraca](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)."
 
 #. Description of a report in the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:18
@@ -9511,8 +9511,8 @@ msgstr "Bill of Material"
 
 #. Description of the Onboarding Step 'Send your first invoice'
 #: erpnext/selling/onboarding_step/create_sales_invoice/create_sales_invoice.json:5
-msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.frappe.io/erpnext/user/manual/en/sales-invoice)."
-msgstr "Buat tagihan untuk pelanggan Anda atas barang tersebut. Kirim, lalu gunakan **Cetak** untuk melihatnya di atas kertas atau mengirimkannya sebagai PDF. Lihat [Faktur Penjualan](https://docs.frappe.io/erpnext/user/manual/en/sales-invoice)."
+msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)."
+msgstr "Buat tagihan untuk pelanggan Anda atas barang tersebut. Kirim, lalu gunakan **Cetak** untuk melihatnya di atas kertas atau mengirimkannya sebagai PDF. Lihat [Faktur Penjualan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)."
 
 #. Option for the 'Status' (Select) field in DocType 'Timesheet'
 #: erpnext/controllers/website_list_for_contact.py:227
@@ -10434,8 +10434,8 @@ msgid "Buying must be checked, if Applicable For is selected as {0}"
 msgstr "Pembelian harus dicentang, jika Berlaku Untuk dipilih sebagai {0}"
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:62
-msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
-msgstr "Secara bawaan, Nama Pemasok diatur sesuai Nama Pemasok yang dimasukkan. Jika Anda ingin Pemasok dinamai menggunakan <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Seri Penamaan</a>, pilih opsi 'Seri Penamaan'."
+msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.thinknxg.com/thinknxgerp/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
+msgstr "Secara bawaan, Nama Pemasok diatur sesuai Nama Pemasok yang dimasukkan. Jika Anda ingin Pemasok dinamai menggunakan <a href='https://docs.thinknxg.com/thinknxgerp/naming-series' target='_blank'>Seri Penamaan</a>, pilih opsi 'Seri Penamaan'."
 
 #. Option for the 'Type' (Select) field in DocType 'BOM Secondary Item'
 #. Option for the 'Type' (Select) field in DocType 'Job Card Secondary Item'
@@ -13423,8 +13423,8 @@ msgstr "Perusahaan {} tidak cocok dengan Perusahaan Profil POS {}"
 
 #. Description of the Onboarding Step 'Review how a goal is going'
 #: erpnext/quality_management/onboarding_step/create_quality_review/create_quality_review.json:5
-msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
-msgstr "Bandingkan hasil dengan sasaran, dan putuskan apa yang perlu diubah. Lihat [Manajemen Kualitas](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
+msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgstr "Bandingkan hasil dengan sasaran, dan putuskan apa yang perlu diubah. Lihat [Manajemen Kualitas](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
 
 #. Name of a DocType
 #. Label of the competitor (Link) field in DocType 'Competitor Detail'
@@ -13625,8 +13625,8 @@ msgstr "Komputer"
 
 #. Description of the Onboarding Step 'Set up an asset category'
 #: erpnext/assets/onboarding_step/create_asset_category/create_asset_category.json:5
-msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.frappe.io/erpnext/user/manual/en/asset-category)."
-msgstr "Komputer, kendaraan, furnitur: bagaimana setiap jenis disusutkan, dan ke akun mana jenis tersebut dibukukan. Lihat [Kategori Aset](https://docs.frappe.io/erpnext/user/manual/en/asset-category)."
+msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)."
+msgstr "Komputer, kendaraan, furnitur: bagaimana setiap jenis disusutkan, dan ke akun mana jenis tersebut dibukukan. Lihat [Kategori Aset](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)."
 
 #. Label of the condition (Code) field in DocType 'Inventory Dimension'
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.json:89
@@ -13708,8 +13708,8 @@ msgstr "Konfirmasi sebelum mengatur ulang Tanggal Posting"
 
 #. Description of the Onboarding Step 'Confirm a sales order'
 #: erpnext/selling/onboarding_step/create_sales_order/create_sales_order.json:5
-msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.frappe.io/erpnext/user/manual/en/sales-order)."
-msgstr "Konfirmasi apa yang dipesan pelanggan dan kapan jatuh tempononya. Kirim dan tagih langsung dari pesanan itu sendiri. Lihat [Pesanan Penjualan](https://docs.frappe.io/erpnext/user/manual/en/sales-order)."
+msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)."
+msgstr "Konfirmasi apa yang dipesan pelanggan dan kapan jatuh tempononya. Kirim dan tagih langsung dari pesanan itu sendiri. Lihat [Pesanan Penjualan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)."
 
 #. Label of the final_confirmation_date (Date) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:326
@@ -17372,8 +17372,8 @@ msgstr "Debitur"
 
 #. Description of the Onboarding Step 'Plan a work order'
 #: erpnext/manufacturing/onboarding_step/create_work_order/create_work_order.json:5
-msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.frappe.io/erpnext/user/manual/en/work-order)."
-msgstr "Tentukan berapa banyak yang akan dibuat. Bahan baku yang dibutuhkan dihitung dari BOM. Lihat [Perintah Kerja](https://docs.frappe.io/erpnext/user/manual/en/work-order)."
+msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)."
+msgstr "Tentukan berapa banyak yang akan dibuat. Bahan baku yang dibutuhkan dihitung dari BOM. Lihat [Perintah Kerja](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)."
 
 #. Title of an Onboarding Step
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:19
@@ -18849,8 +18849,8 @@ msgstr "Penyusutan dihapus melalui pembalikan"
 
 #. Description of the Onboarding Step 'Check its depreciation'
 #: erpnext/assets/onboarding_step/view_asset_depreciation/view_asset_depreciation.json:5
-msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.frappe.io/erpnext/user/manual/en/asset-depreciation)."
-msgstr "Penyusutan diposting sesuai jadwal, aset per aset, tanpa entri jurnal dari Anda. Lihat [Penyusutan](https://docs.frappe.io/erpnext/user/manual/en/asset-depreciation)."
+msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)."
+msgstr "Penyusutan diposting sesuai jadwal, aset per aset, tanpa entri jurnal dari Anda. Lihat [Penyusutan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)."
 
 #. Label of the description_rules (Table) field in DocType 'Bank Transaction
 #. Rule'
@@ -20414,8 +20414,8 @@ msgstr "EMU arus"
 
 #. Label of a Desktop Icon
 #: erpnext/desktop_icon/erpnext.json:9
-msgid "ERPNext"
-msgstr "ERPNext"
+msgid "thinkNXG ERP"
+msgstr "thinkNXG ERP"
 
 #. Label of a Desktop Icon
 #. Name of a Workspace
@@ -20423,18 +20423,18 @@ msgstr "ERPNext"
 #: erpnext/desktop_icon/erpnext_settings.json:10
 #: erpnext/setup/workspace/erpnext_settings/erpnext_settings.json:19
 #: erpnext/workspace_sidebar/erpnext_settings.json:243
-msgid "ERPNext Settings"
-msgstr "Pengaturan ERPNext"
+msgid "thinkNXG ERP Settings"
+msgstr "Pengaturan thinkNXG ERP"
 
 #. Label of the user_id (Data) field in DocType 'Employee Group Table'
 #: erpnext/setup/doctype/employee_group_table/employee_group_table.json:32
-msgid "ERPNext User ID"
-msgstr "ERPNext ID Pengguna"
+msgid "thinkNXG ERP User ID"
+msgstr "thinkNXG ERP ID Pengguna"
 
 #. Description of the 'Maintain Stock' (Check) field in DocType 'Item'
 #: erpnext/stock/doctype/item/item.json:242
-msgid "ERPNext will make a stock ledger entry for each transaction of this item. Keep unchecked for non-stock or service items."
-msgstr "ERPNext akan membuat Entri Buku Persediaan untuk setiap transaksi item ini. Biarkan tidak dicentang untuk barang non-persediaan atau item jasa."
+msgid "thinkNXG ERP will make a stock ledger entry for each transaction of this item. Keep unchecked for non-stock or service items."
+msgstr "thinkNXG ERP akan membuat Entri Buku Persediaan untuk setiap transaksi item ini. Biarkan tidak dicentang untuk barang non-persediaan atau item jasa."
 
 #. Option for the 'How often should project be updated of Total Purchase Cost
 #. ?' (Select) field in DocType 'Buying Settings'
@@ -21029,8 +21029,8 @@ msgstr "Aktifkan Akses Eropa"
 #. Label of the enable_frappe_crm_data_synchronization (Check) field in DocType
 #. 'CRM Settings'
 #: erpnext/crm/doctype/crm_settings/crm_settings.json:135
-msgid "Enable Frappe CRM Data Synchronization"
-msgstr "Aktifkan Sinkronisasi Data Frappe CRM"
+msgid "Enable thinkNXG CRM Data Synchronization"
+msgstr "Aktifkan Sinkronisasi Data thinkNXG CRM"
 
 #. Label of the enable_fuzzy_matching (Check) field in DocType 'Accounts
 #. Settings'
@@ -21682,8 +21682,8 @@ msgstr "Setiap penyusutan yang diposting, aset demi aset."
 
 #. Description of the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:5
-msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.frappe.io/erpnext/user/manual/en/stock-ledger)."
-msgstr "Setiap pergerakan setiap barang, masuk dan keluar, dengan saldo setelah masing-masing. Lihat [Buku Persediaan](https://docs.frappe.io/erpnext/user/manual/en/stock-ledger)."
+msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
+msgstr "Setiap pergerakan setiap barang, masuk dan keluar, dengan saldo setelah masing-masing. Lihat [Buku Persediaan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
 
 #. Description of a report in the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:17
@@ -21692,8 +21692,8 @@ msgstr "Setiap pergerakan setiap barang, masuk dan keluar."
 
 #. Description of the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:5
-msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.frappe.io/erpnext/user/manual/en/general-ledger)."
-msgstr "Setiap posting dari faktur dan pembayaran Anda, dengan debit dan kreditnya. Lihat [Buku Besar](https://docs.frappe.io/erpnext/user/manual/en/general-ledger)."
+msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
+msgstr "Setiap posting dari faktur dan pembayaran Anda, dengan debit dan kreditnya. Lihat [Buku Besar](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
 
 #. Description of a report in the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:18
@@ -21712,8 +21712,8 @@ msgstr "Setiap perintah kerja, seberapa jauh kemajuannya, dan mana yang terlamba
 
 #. Description of the Onboarding Step 'See how production is going'
 #: erpnext/manufacturing/onboarding_step/view_work_order_summary_report/view_work_order_summary_report.json:5
-msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.frappe.io/erpnext/user/manual/en/work-order-summary)."
-msgstr "Setiap perintah kerja, seberapa jauh kemajuannya, dan mana yang terlambat. Lihat [Ringkasan Perintah Kerja](https://docs.frappe.io/erpnext/user/manual/en/work-order-summary)."
+msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)."
+msgstr "Setiap perintah kerja, seberapa jauh kemajuannya, dan mana yang terlambat. Lihat [Ringkasan Perintah Kerja](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)."
 
 #. Title of an incoterm
 #: erpnext/setup/doctype/incoterm/incoterms.csv:2
@@ -23561,8 +23561,8 @@ msgstr "Untuk item {0}, kuantitas harus berupa bilangan positif"
 
 #. Description of the Onboarding Step 'Post a journal entry'
 #: erpnext/accounts/onboarding_step/create_journal_entry/create_journal_entry.json:5
-msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.frappe.io/erpnext/user/manual/en/journal-entry)."
-msgstr "Untuk apa pun yang bukan faktur atau pembayaran: akrual, penyusutan, atau memperbaiki kesalahan. Lihat [Entri Jurnal](https://docs.frappe.io/erpnext/user/manual/en/journal-entry)."
+msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)."
+msgstr "Untuk apa pun yang bukan faktur atau pembayaran: akrual, penyusutan, atau memperbaiki kesalahan. Lihat [Entri Jurnal](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)."
 
 #. Description of the 'Income Account' (Link) field in DocType 'Dunning'
 #: erpnext/accounts/doctype/dunning/dunning.json:245
@@ -23786,17 +23786,17 @@ msgstr "URL Forum"
 #. Label of the frappe_crm_section (Section Break) field in DocType 'CRM
 #. Settings'
 #: erpnext/crm/doctype/crm_settings/crm_settings.json:117
-msgid "Frappe CRM"
-msgstr "Frappe CRM"
+msgid "thinkNXG CRM"
+msgstr "thinkNXG CRM"
 
 #. Name of a DocType
 #: erpnext/crm/doctype/frappe_crm_allowed_user/frappe_crm_allowed_user.json:28
 msgid "Frappe CRM Allowed User"
-msgstr "Pengguna yang Diizinkan Frappe CRM"
+msgstr "Pengguna yang Diizinkan thinkNXG CRM"
 
 #: erpnext/crm/frappe_crm_api.py:172
-msgid "Frappe CRM data synchronization is not enabled on ERPNext. Contact System Manager of ERPNext."
-msgstr "Sinkronisasi data Frappe CRM tidak diaktifkan di ERPNext. Hubungi Manajer Sistem ERPNext."
+msgid "thinkNXG CRM data synchronization is not enabled on thinkNXG ERP. Contact System Manager of thinkNXG ERP."
+msgstr "Sinkronisasi data thinkNXG CRM tidak diaktifkan di thinkNXG ERP. Hubungi Manajer Sistem thinkNXG ERP."
 
 #: erpnext/setup/install.py:237
 msgid "Frappe School"
@@ -24175,8 +24175,8 @@ msgstr "Dari Tanggal tidak dapat lebih besar dari To Date"
 
 #. Description of the Onboarding Step 'Move stock between warehouses'
 #: erpnext/stock/onboarding_step/move_stock/move_stock.json:5
-msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
-msgstr "Dari gudang ke lantai produksi, atau antar cabang. Lihat [Entri Persediaan](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
+msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
+msgstr "Dari gudang ke lantai produksi, atau antar cabang. Lihat [Entri Persediaan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
 
 #: erpnext/accounts/doctype/shipping_rule/shipping_rule.py:91
 #, python-brace-format
@@ -24853,8 +24853,8 @@ msgstr "Ambil Pemberhentian dari"
 
 #. Title of the Module Onboarding 'Organization Onboarding'
 #: erpnext/setup/module_onboarding/organization_onboarding/organization_onboarding.json:55
-msgid "Get to know ERPNext"
-msgstr "Kenali ERPNext"
+msgid "Get to know thinkNXG ERP"
+msgstr "Kenali thinkNXG ERP"
 
 #. Title of the Module Onboarding 'Accounting Onboarding'
 #. Title of an Onboarding Step
@@ -24932,8 +24932,8 @@ msgstr "Barang sudah diterima dengan entri keluar {0}"
 
 #. Description of the Onboarding Step 'Add an item you buy'
 #: erpnext/buying/onboarding_step/create_buying_item/create_buying_item.json:5
-msgid "Goods or services you buy from suppliers. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Barang atau jasa yang Anda beli dari pemasok. Lihat [Barang](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "Goods or services you buy from suppliers. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Barang atau jasa yang Anda beli dari pemasok. Lihat [Barang](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #: erpnext/setup/setup_wizard/operations/install_fixtures.py:193
 msgid "Government"
@@ -25870,8 +25870,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Enter the stock you have today'
 #: erpnext/stock/onboarding_step/create_opening_stock/create_opening_stock.json:5
-msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.frappe.io/erpnext/user/manual/en/stock-reconciliation)."
-msgstr "Berapa banyak setiap barang yang ada di rak Anda, dan nilainya. Mulai dari sini, setiap penerimaan dan pengiriman menjaganya tetap mutakhir. Lihat [Rekonsiliasi Persediaan](https://docs.frappe.io/erpnext/user/manual/en/stock-reconciliation)."
+msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
+msgstr "Berapa banyak setiap barang yang ada di rak Anda, dan nilainya. Mulai dari sini, setiap penerimaan dan pengiriman menjaganya tetap mutakhir. Lihat [Rekonsiliasi Persediaan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
 
 #. Description of a DocType
 #: erpnext/manufacturing/doctype/master_production_schedule/master_production_schedule.json:6
@@ -26174,17 +26174,17 @@ msgstr "Jika diaktifkan, jangan perbarui nilai Serial / Batch dalam Transaksi Pe
 #. DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:420
 msgid "If enabled, formula for <b>Qty to Order</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "Jika diaktifkan, rumus untuk <b>Kuantitas Akan Dipesan</b>: <br>\n"
-"Jumlah Dibutuhkan (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Qty Proyeksi</a>. <br> Ini membantu menghindari pemesanan berlebih."
+"Jumlah Dibutuhkan (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Qty Proyeksi</a>. <br> Ini membantu menghindari pemesanan berlebih."
 
 #. Description of the 'Consider Projected Qty in Calculation (RM)' (Check)
 #. field in DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:238
 msgid "If enabled, formula for <b>Required Qty</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "Jika diaktifkan, rumus untuk <b>Jumlah Dibutuhkan</b>: <br>\n"
-"Jumlah Dibutuhkan (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Qty Proyeksi</a>. <br> Ini membantu menghindari pemesanan berlebih."
+"Jumlah Dibutuhkan (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Qty Proyeksi</a>. <br> Ini membantu menghindari pemesanan berlebih."
 
 #. Description of the 'Create Ledger Entries for Change Amount' (Check) field
 #. in DocType 'POS Settings'
@@ -26448,12 +26448,12 @@ msgid "If this item has variants, then it cannot be selected in sales orders etc
 msgstr "Jika barang ini memiliki varian, maka barang tersebut tidak dapat dipilih dalam pesanan penjualan dll."
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:76
-msgid "If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
-msgstr "Jika opsi ini dikonfigurasi 'Ya', ERPNext akan mencegah Anda membuat Faktur Pembelian atau Penerimaan tanpa membuat Pesanan Pembelian terlebih dahulu. Konfigurasi ini dapat ditimpa untuk pemasok tertentu dengan mengaktifkan kotak centang 'Izinkan Pembuatan Faktur Pembelian Tanpa Pesanan Pembelian' di Data Induk Pemasok."
+msgid "If this option is configured 'Yes', thinkNXG ERP will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
+msgstr "Jika opsi ini dikonfigurasi 'Ya', thinkNXG ERP akan mencegah Anda membuat Faktur Pembelian atau Penerimaan tanpa membuat Pesanan Pembelian terlebih dahulu. Konfigurasi ini dapat ditimpa untuk pemasok tertentu dengan mengaktifkan kotak centang 'Izinkan Pembuatan Faktur Pembelian Tanpa Pesanan Pembelian' di Data Induk Pemasok."
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:83
-msgid "If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
-msgstr "Jika opsi ini dikonfigurasi &#39;Ya&#39;, ERPNext akan mencegah Anda membuat Faktur Pembelian tanpa membuat Tanda Terima Pembelian terlebih dahulu. Konfigurasi ini dapat diganti untuk pemasok tertentu dengan mengaktifkan kotak centang &#39;Izinkan Pembuatan Faktur Pembelian Tanpa Tanda Terima Pembelian&#39; di master Pemasok."
+msgid "If this option is configured 'Yes', thinkNXG ERP will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
+msgstr "Jika opsi ini dikonfigurasi &#39;Ya&#39;, thinkNXG ERP akan mencegah Anda membuat Faktur Pembelian tanpa membuat Tanda Terima Pembelian terlebih dahulu. Konfigurasi ini dapat diganti untuk pemasok tertentu dengan mengaktifkan kotak centang &#39;Izinkan Pembuatan Faktur Pembelian Tanpa Tanda Terima Pembelian&#39; di master Pemasok."
 
 #: erpnext/manufacturing/doctype/manufacturing_settings/manufacturing_settings.js:10
 msgid "If ticked, multiple materials can be used for a single Work Order. This is useful if one or more time consuming products are being manufactured."
@@ -26478,8 +26478,8 @@ msgid "If yes, then this warehouse will be used to store rejected materials"
 msgstr "Jika ya, maka gudang ini akan digunakan untuk menyimpan material yang ditolak"
 
 #: erpnext/stock/doctype/item/item.js:1476
-msgid "If you are maintaining stock of this Item in your Inventory, ERPNext will make a stock ledger entry for each transaction of this item."
-msgstr "Jika Anda mengelola persediaan Barang ini di Persediaan Anda, ERPNext akan membuat Entri Buku Persediaan untuk setiap transaksi Barang ini."
+msgid "If you are maintaining stock of this Item in your Inventory, thinkNXG ERP will make a stock ledger entry for each transaction of this item."
+msgstr "Jika Anda mengelola persediaan Barang ini di Persediaan Anda, thinkNXG ERP akan membuat Entri Buku Persediaan untuk setiap transaksi Barang ini."
 
 #. Description of the 'Unreconciled Entries' (Section Break) field in DocType
 #. 'Payment Reconciliation'
@@ -26732,8 +26732,8 @@ msgstr "Impor Menggunakan File CSV"
 
 #. Description of the Onboarding Step 'Match your bank statement'
 #: erpnext/accounts/onboarding_step/open_banking/open_banking.json:5
-msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.frappe.io/erpnext/user/manual/en/bank-reconciliation)."
-msgstr "Impor rekening koran dari bank Anda dan pasangkan setiap baris dengan pembayaran, agar buku Anda sesuai dengannya. Lihat [Rekonsiliasi Bank](https://docs.frappe.io/erpnext/user/manual/en/bank-reconciliation)."
+msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)."
+msgstr "Impor rekening koran dari bank Anda dan pasangkan setiap baris dengan pembayaran, agar buku Anda sesuai dengannya. Lihat [Rekonsiliasi Bank](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)."
 
 #: erpnext/edi/doctype/code_list/code_list_import.js:131
 #, python-brace-format
@@ -29346,8 +29346,8 @@ msgstr "Dibutuhkan hingga beberapa jam agar nilai persediaan yang akurat dapat t
 
 #. Description of the Onboarding Step 'Pay your supplier'
 #: erpnext/buying/onboarding_step/pay_supplier/pay_supplier.json:5
-msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
-msgstr "Ini melunasi tagihan pemasok dan mengambil uang dari rekening bank atau kas Anda. Lihat [Entri Pembayaran](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
+msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
+msgstr "Ini melunasi tagihan pemasok dan mengambil uang dari rekening bank atau kas Anda. Lihat [Entri Pembayaran](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
 
 #: erpnext/stock/report/stock_valuation_comparison/stock_valuation_comparison.py:533
 #: erpnext/stock/valuation_adjustment.py:386
@@ -29360,8 +29360,8 @@ msgstr "Hal ini diperlukan untuk mengambil Item detail."
 
 #. Description of the Onboarding Step 'Enter a supplier's bill'
 #: erpnext/accounts/onboarding_step/create_accounting_purchase_invoice/create_accounting_purchase_invoice.json:5
-msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
-msgstr "Ini mencatat beban, dan kewajiban Anda kepada pemasok, ke buku besar Anda. Lihat [Faktur Pembelian](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
+msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
+msgstr "Ini mencatat beban, dan kewajiban Anda kepada pemasok, ke buku besar Anda. Lihat [Faktur Pembelian](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
 
 #: banking/src/components/features/BankReconciliation/BankBalance.tsx:138
 msgid "It takes into account all the transactions that have been posted and subtracts the transactions that have not cleared yet."
@@ -31831,8 +31831,8 @@ msgstr "Prospek membantu Anda mendapatkan bisnis, tambahkan semua kontak Anda se
 #. Description of the 'Enable Common Party Accounting' (Check) field in DocType
 #. 'Accounts Settings'
 #: erpnext/accounts/doctype/accounts_settings/accounts_settings.json:321
-msgid "Learn about <a href=\"https://docs.frappe.io/erpnext/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
-msgstr "Pelajari tentang <a href=\"https://docs.frappe.io/erpnext/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Pihak Bersama</a>"
+msgid "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
+msgstr "Pelajari tentang <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Pihak Bersama</a>"
 
 #. Label of the leave_encashed (Select) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:651
@@ -36289,8 +36289,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Record a supplier's quote'
 #: erpnext/buying/onboarding_step/create_supplier_quotation/create_supplier_quotation.json:5
-msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.frappe.io/erpnext/user/manual/en/supplier-quotation)."
-msgstr "Catat harga yang ditawarkan pemasok, agar Anda dapat membandingkan pemasok sebelum memesan. Lihat [Penawaran Pemasok](https://docs.frappe.io/erpnext/user/manual/en/supplier-quotation)."
+msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)."
+msgstr "Catat harga yang ditawarkan pemasok, agar Anda dapat membandingkan pemasok sebelum memesan. Lihat [Penawaran Pemasok](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)."
 
 #: erpnext/manufacturing/doctype/bom_update_log/bom_update_log_list.js:21
 msgid "Note: Automatic log deletion only applies to logs of type <i>Update Cost</i>"
@@ -36743,8 +36743,8 @@ msgstr "Setelah Perintah Kerja ditutup, tidak dapat dilanjutkan kembali."
 
 #. Description of the Onboarding Step 'Quote a price'
 #: erpnext/selling/onboarding_step/create_quotation/create_quotation.json:5
-msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.frappe.io/erpnext/user/manual/en/quotation)."
-msgstr "Setelah pelanggan setuju, ubah langsung penawaran tersebut menjadi pesanan penjualan atau faktur. Lihat [Penawaran](https://docs.frappe.io/erpnext/user/manual/en/quotation)."
+msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)."
+msgstr "Setelah pelanggan setuju, ubah langsung penawaran tersebut menjadi pesanan penjualan atau faktur. Lihat [Penawaran](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)."
 
 #: erpnext/accounts/doctype/loyalty_program/loyalty_program.js:39
 msgid "One customer can be part of only single Loyalty Program."
@@ -37867,8 +37867,8 @@ msgstr "Nilai Pesanan"
 
 #. Description of the Onboarding Step 'Place a purchase order'
 #: erpnext/buying/onboarding_step/create_purchase_order/create_purchase_order.json:5
-msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.frappe.io/erpnext/user/manual/en/purchase-order)."
-msgstr "Pesan dari pemasok. Saat barang tiba, terima barang tersebut dan catat tagihan langsung dari pesanan itu sendiri. Lihat [Pesanan Pembelian](https://docs.frappe.io/erpnext/user/manual/en/purchase-order)."
+msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)."
+msgstr "Pesan dari pemasok. Saat barang tiba, terima barang tersebut dan catat tagihan langsung dari pesanan itu sendiri. Lihat [Pesanan Pembelian](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)."
 
 #. Title of the Module Onboarding 'Buying Onboarding'
 #. Title of an Onboarding Step
@@ -41525,8 +41525,8 @@ msgid "Please add atleast one Serial No / Batch No"
 msgstr "Harap tambahkan minimal satu No. Seri / No. Batch"
 
 #: erpnext/crm/doctype/crm_settings/crm_settings.py:54
-msgid "Please add atleast one user on Allowed Users to allow Data Synchronization from Frappe CRM site."
-msgstr "Harap tambahkan setidaknya satu pengguna di Pengguna yang Diizinkan untuk mengizinkan Sinkronisasi Data dari situs Frappe CRM."
+msgid "Please add atleast one user on Allowed Users to allow Data Synchronization from thinkNXG CRM site."
+msgstr "Harap tambahkan setidaknya satu pengguna di Pengguna yang Diizinkan untuk mengizinkan Sinkronisasi Data dari situs thinkNXG CRM."
 
 #: erpnext/accounts/doctype/bank_statement_import/bank_statement_import.py:85
 msgid "Please add the Bank Account column"
@@ -47398,8 +47398,8 @@ msgstr "Bahan baku {0} dipetakan ke {1}, yang bukan barang jadi dari entri ini"
 
 #. Description of the Onboarding Step 'Finish making it'
 #: erpnext/manufacturing/onboarding_step/finish_work_order/finish_work_order.json:5
-msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
-msgstr "Bahan baku keluar dari persediaan dan barang jadi masuk ke persediaan. Dari perintah kerja, **Selesai** akan mengisinya untuk Anda. Lihat [Entri Persediaan](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
+msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
+msgstr "Bahan baku keluar dari persediaan dan barang jadi masuk ke persediaan. Dari perintah kerja, **Selesai** akan mengisinya untuk Anda. Lihat [Entri Persediaan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
 
 #. Description of the 'Validate consumed quantity (as per BOM)' (Check) field
 #. in DocType 'Buying Settings'
@@ -48018,18 +48018,18 @@ msgstr "Catat transfer internal ke bank/kartu kredit/akun kas lain."
 
 #. Description of the Onboarding Step 'Log time against it'
 #: erpnext/projects/onboarding_step/create_timesheet/create_timesheet.json:5
-msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.frappe.io/erpnext/user/manual/en/timesheets)."
-msgstr "Catat jam yang dihabiskan untuk tugas. Tagihkan ke pelanggan atau gunakan untuk menghitung biaya proyek. Lihat [Lembar Waktu](https://docs.frappe.io/erpnext/user/manual/en/timesheets)."
+msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)."
+msgstr "Catat jam yang dihabiskan untuk tugas. Tagihkan ke pelanggan atau gunakan untuk menghitung biaya proyek. Lihat [Lembar Waktu](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)."
 
 #. Description of the Onboarding Step 'Inspect goods coming in or going out'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection/create_quality_inspection.json:5
-msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection)."
-msgstr "Catat hasil terhadap penerimaan atau pengiriman, lalu terima atau tolak barangnya. Lihat [Inspeksi Mutu](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection)."
+msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)."
+msgstr "Catat hasil terhadap penerimaan atau pengiriman, lalu terima atau tolak barangnya. Lihat [Inspeksi Mutu](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)."
 
 #. Description of the Onboarding Step 'Hand it to a person or place'
 #: erpnext/assets/onboarding_step/create_asset_movement/create_asset_movement.json:5
-msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.frappe.io/erpnext/user/manual/en/asset-movement)."
-msgstr "Catat siapa yang memegangnya dan di mana letaknya, agar Anda selalu tahu. Lihat [Pergerakan Aset](https://docs.frappe.io/erpnext/user/manual/en/asset-movement)."
+msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)."
+msgstr "Catat siapa yang memegangnya dan di mana letaknya, agar Anda selalu tahu. Lihat [Pergerakan Aset](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)."
 
 #. Label of the recording_html (HTML) field in DocType 'Call Log'
 #: erpnext/telephony/doctype/call_log/call_log.json:91
@@ -48354,8 +48354,8 @@ msgstr "Reguler"
 
 #. Description of the Onboarding Step 'Plan maintenance visits'
 #: erpnext/quality_management/onboarding_step/create_maintenance_schedule/create_maintenance_schedule.json:5
-msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.frappe.io/erpnext/user/manual/en/maintenance-schedule)."
-msgstr "Kunjungan servis berkala untuk peralatan yang Anda jual, direncanakan jauh-jauh hari untuk seluruh kontrak. Lihat [Jadwal Pemeliharaan](https://docs.frappe.io/erpnext/user/manual/en/maintenance-schedule)."
+msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)."
+msgstr "Kunjungan servis berkala untuk peralatan yang Anda jual, direncanakan jauh-jauh hari untuk seluruh kontrak. Lihat [Jadwal Pemeliharaan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)."
 
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.py:214
 msgid "Rejected "
@@ -53488,8 +53488,8 @@ msgstr "Penjualan berdasarkan pelanggan, barang, atau wilayah, untuk periode apa
 
 #. Description of the Onboarding Step 'Spot your best sellers'
 #: erpnext/selling/onboarding_step/view_sales_analytics/view_sales_analytics.json:5
-msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.frappe.io/erpnext/user/manual/en/sales-analytics)."
-msgstr "Penjualan berdasarkan pelanggan, barang, atau wilayah, untuk periode apa pun. Lihat [Analitik Penjualan](https://docs.frappe.io/erpnext/user/manual/en/sales-analytics)."
+msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
+msgstr "Penjualan berdasarkan pelanggan, barang, atau wilayah, untuk periode apa pun. Lihat [Analitik Penjualan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
 
 #: erpnext/manufacturing/doctype/production_plan/production_plan.py:268
 msgid "Sales orders are not available for production"
@@ -55453,8 +55453,8 @@ msgstr "Jasa"
 
 #. Description of the Onboarding Step 'Schedule its upkeep'
 #: erpnext/assets/onboarding_step/create_asset_maintenance/create_asset_maintenance.json:5
-msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance)."
-msgstr "Servis, inspeksi dan kalibrasi, dengan pengingat untuk tim yang melakukannya. Lihat [Pemeliharaan Aset](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance)."
+msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
+msgstr "Servis, inspeksi dan kalibrasi, dengan pengingat untuk tim yang melakukannya. Lihat [Pemeliharaan Aset](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
 
 #. Label of the set_warehouse (Link) field in DocType 'Purchase Invoice'
 #: erpnext/accounts/doctype/purchase_invoice/purchase_invoice.json:582
@@ -56783,8 +56783,8 @@ msgstr "Terjadi kesalahan, silakan coba lagi"
 
 #. Description of the Onboarding Step 'Record an asset you already own'
 #: erpnext/assets/onboarding_step/create_existing_asset/create_existing_asset.json:5
-msgid "Something you bought before using ERPNext, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.frappe.io/erpnext/user/manual/en/asset)."
-msgstr "Sesuatu yang Anda beli sebelum menggunakan ERPNext, dengan jumlah yang Anda bayar, lokasinya, dan berapa banyak yang sudah disusutkan. Lihat [Aset](https://docs.frappe.io/erpnext/user/manual/en/asset)."
+msgid "Something you bought before using thinkNXG ERP, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
+msgstr "Sesuatu yang Anda beli sebelum menggunakan thinkNXG ERP, dengan jumlah yang Anda bayar, lokasinya, dan berapa banyak yang sudah disusutkan. Lihat [Aset](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
 
 #. Description of a DocType
 #: erpnext/quality_management/doctype/quality_goal/quality_goal.json:5
@@ -56793,13 +56793,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a raw material'
 #: erpnext/manufacturing/onboarding_step/create_raw_materials/create_raw_materials.json:5
-msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Sesuatu yang Anda gunakan untuk membuat produk, disimpan dalam grup Bahan Baku. Lihat [Barang](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Sesuatu yang Anda gunakan untuk membuat produk, disimpan dalam grup Bahan Baku. Lihat [Barang](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #. Description of the Onboarding Step 'Set a quality goal'
 #: erpnext/quality_management/onboarding_step/create_quality_goal/create_quality_goal.json:5
-msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
-msgstr "Sesuatu yang ingin Anda ukur dan tingkatkan, seperti pengiriman tepat waktu atau retur, yang ditinjau sesuai jadwal yang Anda pilih. Lihat [Manajemen Kualitas](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
+msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgstr "Sesuatu yang ingin Anda ukur dan tingkatkan, seperti pengiriman tepat waktu atau retur, yang ditinjau sesuai jadwal yang Anda pilih. Lihat [Manajemen Kualitas](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
 
 #. Description of a DocType
 #: erpnext/assets/doctype/asset/asset.json:7
@@ -58348,13 +58348,13 @@ msgstr "Persediaan dibekukan hingga"
 
 #. Description of the Onboarding Step 'Ship to a customer'
 #: erpnext/stock/onboarding_step/create_delivery_note/create_delivery_note.json:5
-msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.frappe.io/erpnext/user/manual/en/delivery-note)."
-msgstr "Persediaan berkurang saat barang keluar, dan faktur dapat dibuat dari pengiriman. Lihat [Surat Jalan](https://docs.frappe.io/erpnext/user/manual/en/delivery-note)."
+msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)."
+msgstr "Persediaan berkurang saat barang keluar, dan faktur dapat dibuat dari pengiriman. Lihat [Surat Jalan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)."
 
 #. Description of the Onboarding Step 'Receive goods from a supplier'
 #: erpnext/stock/onboarding_step/create_purchase_receipt/create_purchase_receipt.json:5
-msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt)."
-msgstr "Persediaan bertambah di gudang tempat Anda menerima barang, dan tagihan dapat dibuat dari penerimaan. Lihat [Penerimaan Pembelian](https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt)."
+msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)."
+msgstr "Persediaan bertambah di gudang tempat Anda menerima barang, dan tagihan dapat dibuat dari penerimaan. Lihat [Penerimaan Pembelian](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)."
 
 #: erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:1313
 #, python-brace-format
@@ -61202,8 +61202,8 @@ msgstr "Tipe Akun dari {0} tidak dapat diubah dari {1} karena Entri Buku Persedi
 
 #. Description of the Onboarding Step 'Add the bank account you use'
 #: erpnext/accounts/onboarding_step/add_bank_account/add_bank_account.json:5
-msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.frappe.io/erpnext/user/manual/en/bank-account)."
-msgstr "Akun tempat pelanggan Anda membayar dan dari mana Anda membayar, ditautkan ke akun yang sesuai di bagan akun Anda. Lihat [Rekening Bank](https://docs.frappe.io/erpnext/user/manual/en/bank-account)."
+msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)."
+msgstr "Akun tempat pelanggan Anda membayar dan dari mana Anda membayar, ditautkan ke akun yang sesuai di bagan akun Anda. Lihat [Rekening Bank](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)."
 
 #: erpnext/accounts/doctype/payment_request/payment_request.py:1127
 #, python-brace-format
@@ -61236,8 +61236,8 @@ msgstr "Batch {0} telah direservasi untuk {1} di gudang {2} dan sisa kuantitas t
 
 #. Description of the Onboarding Step 'Enter their bill'
 #: erpnext/buying/onboarding_step/create_purchase_invoice/create_purchase_invoice.json:5
-msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
-msgstr "Tagihan yang dikirim pemasok Anda, agar Anda tahu berapa yang harus dibayar dan kapan jatuh temponya. Lihat [Faktur Pembelian](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
+msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
+msgstr "Tagihan yang dikirim pemasok Anda, agar Anda tahu berapa yang harus dibayar dan kapan jatuh temponya. Lihat [Faktur Pembelian](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
 
 #: erpnext/controllers/taxes_and_totals.py:259
 msgid "The cash or non-trade discount cannot be combined with discounts carried from other documents."
@@ -61494,8 +61494,8 @@ msgstr "Kartu Kerja {0} berada dalam status {1} dan Anda tidak dapat memulainya 
 
 #. Description of the Onboarding Step 'Add an asset item'
 #: erpnext/assets/onboarding_step/create_asset_item/create_asset_item.json:5
-msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Jenis barang yang Anda miliki, ditandai sebagai Aset Tetap. Lihat [Barang](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Jenis barang yang Anda miliki, ditandai sebagai Aset Tetap. Lihat [Barang](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #: erpnext/accounts/doctype/bank_transaction_rule/bank_transaction_rule.py:129
 msgid "The last account row must not have any debit or credit amounts set."
@@ -61568,8 +61568,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Decide what to check'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:5
-msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection-template)."
-msgstr "Parameter yang akan diperiksa dan apa yang dianggap Lulus, digunakan ulang pada setiap inspeksi. Lihat [Templat Inspeksi Mutu](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection-template)."
+msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)."
+msgstr "Parameter yang akan diperiksa dan apa yang dianggap Lulus, digunakan ulang pada setiap inspeksi. Lihat [Templat Inspeksi Mutu](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)."
 
 #: erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:253
 #, python-brace-format
@@ -61643,10 +61643,10 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Write its bill of materials'
 #: erpnext/manufacturing/onboarding_step/create_bill_of_materials/create_bill_of_materials.json:5
-msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.frappe.io/erpnext/user/manual/en/bill-of-materials).\n\n"
-"Sending some of the work to a supplier? See [Subcontracting](https://docs.frappe.io/erpnext/user/manual/en/subcontracting)."
-msgstr "Bahan baku, dan jumlah masing-masing, yang digunakan untuk satu unit produk Anda. Kirim untuk menggunakannya dalam produksi. Lihat [BOM](https://docs.frappe.io/erpnext/user/manual/en/bill-of-materials).\n\n"
-"Mengirim sebagian pekerjaan ke pemasok? Lihat [Subkontrak](https://docs.frappe.io/erpnext/user/manual/en/subcontracting)."
+msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials).\n\n"
+"Sending some of the work to a supplier? See [Subcontracting](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)."
+msgstr "Bahan baku, dan jumlah masing-masing, yang digunakan untuk satu unit produk Anda. Kirim untuk menggunakannya dalam produksi. Lihat [BOM](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials).\n\n"
+"Mengirim sebagian pekerjaan ke pemasok? Lihat [Subkontrak](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)."
 
 #: banking/src/pages/BankStatementImporter.tsx:205
 msgid "The reference number of the transaction"
@@ -61741,13 +61741,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Write down how the work is done'
 #: erpnext/quality_management/onboarding_step/create_quality_procedure/create_quality_procedure.json:5
-msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
-msgstr "Langkah-langkah yang diikuti tim Anda, sehingga pekerjaan selalu dilakukan dengan cara yang sama. Lihat [Manajemen Kualitas](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
+msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgstr "Langkah-langkah yang diikuti tim Anda, sehingga pekerjaan selalu dilakukan dengan cara yang sama. Lihat [Manajemen Kualitas](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
 
 #: erpnext/stock/stock_ledger.py:1074
 #, python-brace-format
-msgid "The stock for the item {0} in the {1} warehouse was negative on the {2}. You should create a positive entry {3} before the date {4} and time {5} to post the correct valuation rate. For more details, please read the <a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>documentation<a>."
-msgstr "Stok untuk item {0} di gudang {1} negatif pada {2}. Anda harus membuat entri positif {3} sebelum tanggal {4} dan waktu {5} untuk memposting tingkat penilaian yang benar. Untuk detail lebih lanjut, silakan baca <a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>dokumentasi<a>."
+msgid "The stock for the item {0} in the {1} warehouse was negative on the {2}. You should create a positive entry {3} before the date {4} and time {5} to post the correct valuation rate. For more details, please read the <a href='https://docs.thinknxg.com/thinknxgerp/stock-adjustment-cogs-with-negative-stock'>documentation<a>."
+msgstr "Stok untuk item {0} di gudang {1} negatif pada {2}. Anda harus membuat entri positif {3} sebelum tanggal {4} dan waktu {5} untuk memposting tingkat penilaian yang benar. Untuk detail lebih lanjut, silakan baca <a href='https://docs.thinknxg.com/thinknxgerp/stock-adjustment-cogs-with-negative-stock'>dokumentasi<a>."
 
 #: erpnext/stock/doctype/stock_reconciliation/stock_reconciliation.py:826
 #, python-brace-format
@@ -61803,8 +61803,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Review your taxes'
 #: erpnext/accounts/onboarding_step/review_taxes/review_taxes.json:5
-msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.frappe.io/erpnext/user/manual/en/setting-up-taxes)."
-msgstr "Pajak yang diisi di setiap faktur. Kami telah menambahkan pajak negara Anda di tempat kami memilikinya; periksa apakah tarifnya sesuai dengan yang Anda tagihkan. Pajak pembelian terdapat di [Templat Pajak dan Biaya Pembelian](/desk/purchase-taxes-and-charges-template). Lihat [Menyiapkan Pajak](https://docs.frappe.io/erpnext/user/manual/en/setting-up-taxes)."
+msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)."
+msgstr "Pajak yang diisi di setiap faktur. Kami telah menambahkan pajak negara Anda di tempat kami memilikinya; periksa apakah tarifnya sesuai dengan yang Anda tagihkan. Pajak pembelian terdapat di [Templat Pajak dan Biaya Pembelian](/desk/purchase-taxes-and-charges-template). Lihat [Menyiapkan Pajak](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)."
 
 #: erpnext/stock/doctype/material_request/material_request.py:486
 #, python-brace-format
@@ -61989,8 +61989,8 @@ msgid "There are no transactions in the system for the selected bank account and
 msgstr "Tidak ada transaksi dalam sistem untuk rekening bank dan tanggal yang dipilih yang sesuai dengan filter."
 
 #: erpnext/stock/doctype/item/item.js:1495
-msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.frappe.io/erpnext/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
-msgstr "Ada dua opsi untuk menjaga valuasi stok: FIFO (masuk pertama - keluar pertama) dan Rata-Rata Bergerak (Moving Average). Untuk memahami topik ini secara detail, silakan kunjungi <a href='https://docs.frappe.io/erpnext/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Valuasi Item, FIFO, dan Rata-Rata Bergerak.</a>"
+msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
+msgstr "Ada dua opsi untuk menjaga valuasi stok: FIFO (masuk pertama - keluar pertama) dan Rata-Rata Bergerak (Moving Average). Untuk memahami topik ini secara detail, silakan kunjungi <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Valuasi Item, FIFO, dan Rata-Rata Bergerak.</a>"
 
 #: banking/src/components/features/BankReconciliation/MatchAndReconcile.tsx:980
 #, python-brace-format
@@ -62137,8 +62137,8 @@ msgid "This action will stop future billing. Are you sure you want to cancel thi
 msgstr "Tindakan ini akan menghentikan penagihan di masa mendatang. Anda yakin ingin membatalkan langganan ini?"
 
 #: erpnext/accounts/doctype/bank_account/bank_account.js:35
-msgid "This action will unlink this account from any external service integrating ERPNext with your bank accounts. It cannot be undone. Are you certain ?"
-msgstr "Tindakan ini akan memutuskan tautan akun ini dari layanan eksternal yang mengintegrasikan ERPNext dengan rekening bank Anda. Itu tidak bisa diurungkan. Apakah Anda yakin ?"
+msgid "This action will unlink this account from any external service integrating thinkNXG ERP with your bank accounts. It cannot be undone. Are you certain ?"
+msgstr "Tindakan ini akan memutuskan tautan akun ini dari layanan eksternal yang mengintegrasikan thinkNXG ERP dengan rekening bank Anda. Itu tidak bisa diurungkan. Apakah Anda yakin ?"
 
 #. Description of the 'Allow Sales Order creation for expired Quotation'
 #. (Check) field in DocType 'Selling Settings'
@@ -66056,8 +66056,8 @@ msgid "User has not applied rule on the invoice {0}"
 msgstr "Pengguna belum menerapkan aturan pada faktur {0}"
 
 #: erpnext/crm/frappe_crm_api.py:184
-msgid "User not allowed to synchronize data from Frappe CRM on ERPNext. Contact System Manager of ERPNext."
-msgstr "Pengguna tidak diizinkan menyinkronkan data dari Frappe CRM ke ERPNext. Hubungi Manajer Sistem ERPNext."
+msgid "User not allowed to synchronize data from thinkNXG CRM on thinkNXG ERP. Contact System Manager of thinkNXG ERP."
+msgstr "Pengguna tidak diizinkan menyinkronkan data dari thinkNXG CRM ke thinkNXG ERP. Hubungi Manajer Sistem thinkNXG ERP."
 
 #: erpnext/setup/doctype/employee/employee.py:314
 #, python-brace-format
@@ -67141,7 +67141,7 @@ msgstr "Voucher"
 
 #: erpnext/patches/v15_0/remove_exotel_integration.py:33
 msgid "WARNING: Exotel app has been separated from ERPNext, please install the app to continue using Exotel integration."
-msgstr "PERINGATAN: Aplikasi Exotel telah dipisahkan dari ERPNext, silakan instal aplikasi untuk terus menggunakan integrasi Exotel."
+msgstr "PERINGATAN: Aplikasi Exotel telah dipisahkan dari thinkNXG ERP, silakan instal aplikasi untuk terus menggunakan integrasi Exotel."
 
 #. Label of the wip_composite_asset (Link) field in DocType 'Purchase Invoice
 #. Item'
@@ -67643,8 +67643,8 @@ msgstr "Kami tidak dapat menyiapkan dasar-dasarnya"
 
 #. Description of the Onboarding Step 'Review your warehouses'
 #: erpnext/stock/onboarding_step/setup_warehouse/setup_warehouse.json:5
-msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.frappe.io/erpnext/user/manual/en/warehouse)."
-msgstr "Kami membuat beberapa untuk memulai. Ganti namanya, atau tambahkan lokasi tempat Anda benar-benar menyimpan persediaan. Lihat [Gudang](https://docs.frappe.io/erpnext/user/manual/en/warehouse)."
+msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)."
+msgstr "Kami membuat beberapa untuk memulai. Ganti namanya, atau tambahkan lokasi tempat Anda benar-benar menyimpan persediaan. Lihat [Gudang](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)."
 
 #: erpnext/templates/emails/appointment_confirmed.html:3
 msgid "We look forward to meeting you"
@@ -67652,8 +67652,8 @@ msgstr "Kami menantikan untuk bertemu dengan Anda."
 
 #. Description of the Onboarding Step 'Review your chart of accounts'
 #: erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:5
-msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.frappe.io/erpnext/user/manual/en/chart-of-accounts)."
-msgstr "Kami telah menyiapkan bagan akun standar untuk negara Anda. Lihat bagaimana akun Anda dikelompokkan, dan ganti nama atau tambahkan akun agar sesuai dengan cara pelaporan Anda. Lihat [Bagan Akun](https://docs.frappe.io/erpnext/user/manual/en/chart-of-accounts)."
+msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)."
+msgstr "Kami telah menyiapkan bagan akun standar untuk negara Anda. Lihat bagaimana akun Anda dikelompokkan, dan ganti nama atau tambahkan akun agar sesuai dengan cara pelaporan Anda. Lihat [Bagan Akun](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)."
 
 #: banking/src/pages/BankStatementImporter.tsx:169
 msgid "We support uploading CSV, XLSX, XLS and PDF files. Please make sure the file contains the correct columns."
@@ -67820,8 +67820,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a product you make'
 #: erpnext/manufacturing/onboarding_step/create_finished_goods/create_finished_goods.json:5
-msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Hasil akhir produksi, disimpan dalam grup Produk. Lihat [Barang](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Hasil akhir produksi, disimpan dalam grup Produk. Lihat [Barang](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #: erpnext/templates/pages/help.html:12
 msgid "What do you need help with?"
@@ -67932,8 +67932,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Log a problem'
 #: erpnext/quality_management/onboarding_step/create_non_conformance/create_non_conformance.json:5
-msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.frappe.io/erpnext/user/manual/en/non-conformance)."
-msgstr "Jika sesuatu tidak sesuai dengan prosedur, catat apa yang terjadi, penyebabnya, dan tindakan yang akan Anda lakukan. Lihat [Ketidaksesuaian](https://docs.frappe.io/erpnext/user/manual/en/non-conformance)."
+msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)."
+msgstr "Jika sesuatu tidak sesuai dengan prosedur, catat apa yang terjadi, penyebabnya, dan tindakan yang akan Anda lakukan. Lihat [Ketidaksesuaian](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)."
 
 #: erpnext/stock/doctype/stock_entry/stock_entry.py:502
 #, python-brace-format
@@ -67948,8 +67948,8 @@ msgstr "Saat Anda membayar sesuatu di muka (seperti asuransi tahunan), biayanya 
 
 #. Description of the Onboarding Step 'Get paid'
 #: erpnext/selling/onboarding_step/create_payment_entry/create_payment_entry.json:5
-msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
-msgstr "Saat pelanggan Anda membayar, catat di sini. Pembayaran dicocokkan dengan fakturnya, sehingga Anda dapat melihat tagihan yang masih harus dibayar. Lihat [Entri Pembayaran](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
+msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
+msgstr "Saat pelanggan Anda membayar, catat di sini. Pembayaran dicocokkan dengan fakturnya, sehingga Anda dapat melihat tagihan yang masih harus dibayar. Lihat [Entri Pembayaran](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
 
 #. Description of a DocType
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.json:6
@@ -67992,8 +67992,8 @@ msgstr "Untuk siapa Anda menyiapkan ini?"
 
 #. Description of the Onboarding Step 'Break it into tasks'
 #: erpnext/projects/onboarding_step/create_tasks/create_tasks.json:5
-msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.frappe.io/erpnext/user/manual/en/task)."
-msgstr "Siapa mengerjakan apa, dan kapan. Tugas-tugas dihitung menjadi kemajuan proyek. Lihat [Tugas](https://docs.frappe.io/erpnext/user/manual/en/task)."
+msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)."
+msgstr "Siapa mengerjakan apa, dan kapan. Tugas-tugas dihitung menjadi kemajuan proyek. Lihat [Tugas](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)."
 
 #. Description of a report in the Onboarding Step 'Follow up on unpaid
 #. invoices'
@@ -68003,8 +68003,8 @@ msgstr "Siapa yang berutang kepada Anda, berapa jumlahnya, dan sudah berapa lama
 
 #. Description of the Onboarding Step 'Follow up on unpaid invoices'
 #: erpnext/selling/onboarding_step/view_accounts_receivable/view_accounts_receivable.json:5
-msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.frappe.io/erpnext/user/manual/en/accounts-receivable)."
-msgstr "Siapa yang berutang kepada Anda, berapa jumlahnya, dan sudah berapa lama. Lihat [Piutang Usaha](https://docs.frappe.io/erpnext/user/manual/en/accounts-receivable)."
+msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)."
+msgstr "Siapa yang berutang kepada Anda, berapa jumlahnya, dan sudah berapa lama. Lihat [Piutang Usaha](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)."
 
 #. Description of the Onboarding Step 'Check what you owe'
 #: erpnext/buying/onboarding_step/view_accounts_payable/view_accounts_payable.json:5
@@ -69062,8 +69062,8 @@ msgid "Zip File"
 msgstr "File ZIP"
 
 #: erpnext/stock/reorder_item.py:396
-msgid "[Important] [ERPNext] Auto Reorder Errors"
-msgstr "[Penting] [ERPNext] Kesalahan Penyusunan Ulang Otomatis"
+msgid "[Important] [thinkNXG ERP] Auto Reorder Errors"
+msgstr "[Penting] [thinkNXG ERP] Kesalahan Penyusunan Ulang Otomatis"
 
 #: erpnext/accounts/doctype/financial_report_template/financial_report_validation.py:414
 #: erpnext/accounts/doctype/financial_report_template/financial_report_validation.py:424

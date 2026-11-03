@@ -5,7 +5,7 @@
  "description": "A vehicle's route to deliver to several customers.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/delivery-trip",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-trip",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

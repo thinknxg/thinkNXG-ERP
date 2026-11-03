@@ -3,7 +3,7 @@
  "allow_copy": 1,
  "creation": "2014-07-09 12:04:51.681583",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/payment-reconciliation",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-reconciliation",
  "engine": "InnoDB",
  "field_order": [
   "company",
@@ -205,7 +205,7 @@
   {
    "depends_on": "eval:doc.party",
    "description": "Only 'Payment Entries' made against this advance account are supported.",
-   "documentation_url": "https://docs.erpnext.com/docs/user/manual/en/advance-in-separate-party-account",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/advance-in-separate-party-account",
    "fieldname": "default_advance_account",
    "fieldtype": "Link",
    "label": "Default Advance Account",

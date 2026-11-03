@@ -7,7 +7,7 @@
  "description": "A company that makes the items you buy or sell.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/manufacturer",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/manufacturer",
  "engine": "InnoDB",
  "field_order": [
   "short_name",

@@ -5,7 +5,7 @@
  "creation": "2013-05-24 12:15:51",
  "description": "Settings for a point of sale, like its warehouse, price list and payment methods.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/pos-profile",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/pos-profile",
  "engine": "InnoDB",
  "field_order": [
   "company",

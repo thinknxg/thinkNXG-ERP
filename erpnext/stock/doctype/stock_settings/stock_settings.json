@@ -3,7 +3,7 @@
  "creation": "2013-06-24 16:37:54",
  "description": "How items, warehouses and stock transactions work.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/stock-settings",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-settings",
  "engine": "InnoDB",
  "field_order": [
   "defaults_tab",
@@ -97,7 +97,7 @@
    "options": "Item Code\nNaming Series"
   },
   {
-   "documentation_url": "https://docs.frappe.io/erpnext/stock-settings#21-default-item-group",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/stock-settings#21-default-item-group",
    "fieldname": "item_group",
    "fieldtype": "Link",
    "in_list_view": 1,
@@ -116,7 +116,7 @@
    "fieldtype": "Column Break"
   },
   {
-   "documentation_url": "https://docs.erpnext.com/docs/v14/user/manual/en/stock/articles/calculation-of-valuation-rate-in-fifo-and-moving-average",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/calculation-of-valuation-rate-in-fifo-and-moving-average",
    "fieldname": "valuation_method",
    "fieldtype": "Select",
    "label": "Default Valuation Method",
@@ -156,7 +156,7 @@
   },
   {
    "default": "0",
-   "documentation_url": "https://docs.frappe.io/erpnext/stock-settings#71-auto-insert-price-list-rate-if-missing",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/stock-settings#71-auto-insert-price-list-rate-if-missing",
    "fieldname": "auto_insert_price_list_rate_if_missing",
    "fieldtype": "Check",
    "label": "Auto insert Item Price if missing"
@@ -164,7 +164,7 @@
   {
    "default": "0",
    "description": "This can be enabled at specific Item level as well",
-   "documentation_url": "https://docs.frappe.io/erpnext/stock-settings#allow-negative-stock",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/stock-settings#allow-negative-stock",
    "fieldname": "allow_negative_stock",
    "fieldtype": "Check",
    "label": "Allow negative stock"
@@ -381,21 +381,21 @@
   },
   {
    "default": "0",
-   "documentation_url": "https://docs.frappe.io/erpnext/stock-settings#why-to-edit-stock-qty-qty-as-per-stock-uom",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/stock-settings#why-to-edit-stock-qty-qty-as-per-stock-uom",
    "fieldname": "allow_to_edit_stock_uom_qty_for_sales",
    "fieldtype": "Check",
    "label": "Allow to edit stock UOM qty for Sales documents"
   },
   {
    "default": "0",
-   "documentation_url": "https://docs.frappe.io/erpnext/stock-settings#why-to-edit-stock-qty-qty-as-per-stock-uom",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/stock-settings#why-to-edit-stock-qty-qty-as-per-stock-uom",
    "fieldname": "allow_to_edit_stock_uom_qty_for_purchase",
    "fieldtype": "Check",
    "label": "Allow to edit stock UOM qty for Purchase documents"
   },
   {
    "default": "0",
-   "documentation_url": "https://docs.frappe.io/erpnext/stock-settings#why-to-edit-stock-qty-qty-as-per-stock-uom",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/stock-settings#why-to-edit-stock-qty-qty-as-per-stock-uom",
    "fieldname": "allow_to_edit_stock_uom_qty_for_stock_entry",
    "fieldtype": "Check",
    "label": "Allow to edit stock UOM qty for Stock Entry"

@@ -7,7 +7,7 @@
  "description": "A kind of work you track time against, like design or support.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/activity-type",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/activity-type",
  "engine": "InnoDB",
  "field_order": [
   "activity_type",

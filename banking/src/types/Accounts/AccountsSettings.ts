@@ -26,7 +26,7 @@ export interface AccountsSettings {
 	automatically_fetch_payment_terms?: 0 | 1
 	/**	Enable Subscription : Check - Enable Subscription tracking in invoice	*/
 	enable_subscription?: 0 | 1
-	/**	Enable Common Party Accounting : Check - Learn about <a href="https://docs.frappe.io/erpnext/user/manual/en/common_party_accounting" rel="noopener noreferrer">Common Party</a>	*/
+	/**	Enable Common Party Accounting : Check - Learn about <a href="https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting" rel="noopener noreferrer">Common Party</a>	*/
 	enable_common_party_accounting?: 0 | 1
 	/**	Allow multi-currency invoices against single party account  : Check - Enabling this will allow creation of multi-currency invoices against single party account in company currency	*/
 	allow_multi_currency_invoices_against_single_party_account?: 0 | 1

@@ -2,7 +2,7 @@
  "action": "Create Entry",
  "action_label": "Create Stock Reconciliation",
  "creation": "2026-10-04 00:49:20.659264",
- "description": "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.frappe.io/erpnext/user/manual/en/stock-reconciliation).",
+ "description": "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation).",
  "docstatus": 0,
  "doctype": "Onboarding Step",
  "idx": 0,

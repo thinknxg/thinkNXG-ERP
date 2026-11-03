@@ -6,7 +6,7 @@
  "description": "A customer's claim to repair or replace an item under warranty.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/warranty-claim",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/warranty-claim",
  "engine": "InnoDB",
  "field_order": [
   "naming_series",

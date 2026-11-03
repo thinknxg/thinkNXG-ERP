@@ -5,7 +5,7 @@
  "description": "Adds freight, duty and other charges to the cost of received items.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/landed-cost-voucher",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/landed-cost-voucher",
  "engine": "InnoDB",
  "field_order": [
   "naming_series",

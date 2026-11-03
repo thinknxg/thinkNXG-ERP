@@ -2,7 +2,7 @@
  "action": "View Report",
  "action_label": "Open Stock Ledger",
  "creation": "2026-10-04 01:45:40.810819",
- "description": "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.frappe.io/erpnext/user/manual/en/stock-ledger).",
+ "description": "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger).",
  "docstatus": 0,
  "doctype": "Onboarding Step",
  "idx": 0,

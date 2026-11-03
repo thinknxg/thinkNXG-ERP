@@ -7,7 +7,7 @@
  "description": "Prices a supplier offered you.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/supplier-quotation",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation",
  "engine": "InnoDB",
  "field_order": [
   "supplier_section",

@@ -4,7 +4,7 @@
  "creation": "2018-07-15 11:03:24.191613",
  "description": "The order of operations to make an item.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/routing",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/routing",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

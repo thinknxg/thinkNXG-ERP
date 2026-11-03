@@ -5,7 +5,7 @@
  "description": "The materials and operations it takes to make an item.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/bill-of-materials",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/bill-of-materials",
  "engine": "InnoDB",
  "field_order": [
   "production_item_tab",

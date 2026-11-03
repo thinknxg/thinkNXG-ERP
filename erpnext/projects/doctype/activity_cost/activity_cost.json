@@ -7,7 +7,7 @@
  "description": "What an employee costs and bills per hour for an activity.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/activity-cost",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/activity-cost",
  "engine": "InnoDB",
  "field_order": [
   "activity_type",

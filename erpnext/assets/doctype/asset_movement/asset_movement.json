@@ -5,7 +5,7 @@
  "creation": "2016-04-25 18:00:23.559973",
  "description": "Moves an asset to another location or person.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/asset-movement",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement",
  "engine": "InnoDB",
  "field_order": [
   "company",

@@ -7,7 +7,7 @@
  "description": "A grouping of issues, like billing or technical.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/issue-type-and-priority",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/issue-type-and-priority",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

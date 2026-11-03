@@ -6,7 +6,7 @@
  "default_view": "List",
  "description": "Closes stock balances for a period so reports run faster.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/stock-closing-entry",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/stock-closing-entry",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

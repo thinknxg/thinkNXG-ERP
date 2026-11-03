@@ -2,7 +2,7 @@
  "action": "Go to Page",
  "action_label": "Open Sales Taxes and Charges Template",
  "creation": "2026-10-04 01:44:23.578444",
- "description": "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.frappe.io/erpnext/user/manual/en/setting-up-taxes).",
+ "description": "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes).",
  "docstatus": 0,
  "doctype": "Onboarding Step",
  "idx": 0,

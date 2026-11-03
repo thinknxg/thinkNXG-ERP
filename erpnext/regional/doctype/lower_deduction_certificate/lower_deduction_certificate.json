@@ -4,7 +4,7 @@
  "creation": "2020-03-10 23:12:10.072631",
  "description": "A certificate that lets you withhold less tax from a supplier.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/lower-deduction-certificate",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/lower-deduction-certificate",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

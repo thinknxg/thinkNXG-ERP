@@ -5,7 +5,7 @@
  "autoname": "field:title",
  "creation": "2018-10-17 05:47:13.087395",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/video",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/video",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

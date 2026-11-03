@@ -2,7 +2,7 @@
  "action": "Create Entry",
  "action_label": "Create Purchase Order",
  "creation": "2026-02-19 12:13:44.068135",
- "description": "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.frappe.io/erpnext/user/manual/en/purchase-order).",
+ "description": "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order).",
  "docstatus": 0,
  "doctype": "Onboarding Step",
  "form_tour": "",

@@ -2,7 +2,7 @@
  "action": "Create Entry",
  "action_label": "Add Customer",
  "creation": "2026-02-20 13:38:17.043231",
- "description": "A business or person you sell to. See [Customer](https://docs.frappe.io/erpnext/user/manual/en/customer).",
+ "description": "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer).",
  "docstatus": 0,
  "doctype": "Onboarding Step",
  "form_tour": "Customer Form Tour",

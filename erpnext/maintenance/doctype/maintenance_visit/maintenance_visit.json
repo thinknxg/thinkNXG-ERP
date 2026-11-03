@@ -5,7 +5,7 @@
  "description": "A visit to service or repair what a customer bought.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/maintenance-visit",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-visit",
  "engine": "InnoDB",
  "field_order": [
   "customer_details",

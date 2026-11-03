@@ -7,7 +7,7 @@
  "description": "A part of your business you track income and expenses for, like a branch or product line.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/cost-center",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/cost-center",
  "engine": "InnoDB",
  "field_order": [
   "sb0",

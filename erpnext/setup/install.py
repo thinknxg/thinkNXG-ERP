@@ -15,7 +15,7 @@ from erpnext.setup.utils import identity as _
 from .default_success_action import get_default_success_action
 
 default_mail_footer = """<div style="padding: 7px; text-align: right; color: #888"><small>Sent via
-	<a style="color: #888" href="http://frappe.io/erpnext">ERPNext</a></div>"""
+	<a style="color: #888" href="https://thinknxg.com/">thinkNXG ERP</a></div>"""
 
 
 def after_install():
@@ -222,9 +222,9 @@ def add_standard_navbar_items():
 	navbar_settings = frappe.get_single("Navbar Settings")
 	erpnext_navbar_items = [
 		{
-			"item_label": _("Documentation"),
+			"item_label": _("thinkNXG ERP Documentation"),
 			"item_type": "Route",
-			"route": "https://docs.thinknxg.com/",
+			"route": "https://docs.thinknxg.com/thinknxgerp",
 			"is_standard": 1,
 		},
 		{
@@ -242,7 +242,7 @@ def add_standard_navbar_items():
 		{
 			"item_label": _("Report an Issue"),
 			"item_type": "Route",
-			"route": "https://github.com/thinkNXG/thinkNXG-ERP/issues",
+			"route": "https://github.com/thinknxg/thinkNXG-ERP/issues",
 			"is_standard": 1,
 		},
 	]
@@ -272,7 +272,7 @@ def add_standard_navbar_items():
 
 
 def add_app_name():
-	frappe.db.set_single_value("System Settings", "app_name", "ERPNext")
+	frappe.db.set_single_value("System Settings", "app_name", "thinkNXG ERP")
 
 
 def update_roles():

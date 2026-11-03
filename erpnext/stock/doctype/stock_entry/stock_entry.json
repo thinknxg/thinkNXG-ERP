@@ -6,7 +6,7 @@
  "description": "Moves, receives, issues or manufactures stock.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/stock-entry",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry",
  "engine": "InnoDB",
  "field_order": [
   "stock_entry_details_tab",

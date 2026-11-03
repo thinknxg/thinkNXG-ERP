@@ -2,7 +2,7 @@
  "action": "View Report",
  "action_label": "Open Accounts Receivable",
  "creation": "2026-10-04 00:49:20.644080",
- "description": "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.frappe.io/erpnext/user/manual/en/accounts-receivable).",
+ "description": "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable).",
  "docstatus": 0,
  "doctype": "Onboarding Step",
  "idx": 0,

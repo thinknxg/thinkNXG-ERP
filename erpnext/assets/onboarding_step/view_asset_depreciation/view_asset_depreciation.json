@@ -2,7 +2,7 @@
  "action": "View Report",
  "action_label": "Open Asset Depreciation Ledger",
  "creation": "2026-10-04 01:52:52.535987",
- "description": "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.frappe.io/erpnext/user/manual/en/asset-depreciation).",
+ "description": "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation).",
  "docstatus": 0,
  "doctype": "Onboarding Step",
  "idx": 0,

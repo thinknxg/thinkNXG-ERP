@@ -6,7 +6,7 @@
  "description": "A request to buy, transfer or make items.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/material-request",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/material-request",
  "engine": "InnoDB",
  "field_order": [
   "type_section",

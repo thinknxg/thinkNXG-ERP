@@ -4,7 +4,7 @@
  "creation": "2019-08-27 10:48:27.926283",
  "description": "A meeting booked with a lead or customer.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/appointment",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/appointment",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

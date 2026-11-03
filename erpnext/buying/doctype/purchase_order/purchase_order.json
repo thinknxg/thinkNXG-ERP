@@ -7,7 +7,7 @@
  "description": "An order you place with a supplier.",
  "doctype": "DocType",
  "document_type": "Document",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/purchase-order",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order",
  "engine": "InnoDB",
  "field_order": [
   "supplier_section",

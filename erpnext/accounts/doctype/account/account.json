@@ -7,7 +7,7 @@
  "description": "A ledger in your chart of accounts that entries are posted to.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/chart-of-accounts",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/chart-of-accounts",
  "engine": "InnoDB",
  "field_order": [
   "properties",

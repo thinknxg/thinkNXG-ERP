@@ -6,7 +6,7 @@
  "description": "A single unit of an item, tracked by its own number.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/serial-no",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/serial-no",
  "engine": "InnoDB",
  "field_order": [
   "details",

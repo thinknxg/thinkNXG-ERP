@@ -2,7 +2,7 @@
  "action": "Create Entry",
  "action_label": "Add Item",
  "creation": "2026-02-23 20:34:23.487974",
- "description": "What comes out at the end of production, kept in the Products group. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item).",
+ "description": "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item).",
  "docstatus": 0,
  "doctype": "Onboarding Step",
  "idx": 2,

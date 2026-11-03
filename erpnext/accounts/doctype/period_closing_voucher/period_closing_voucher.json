@@ -4,7 +4,7 @@
  "creation": "2013-01-10 16:34:07",
  "description": "Closes a fiscal year by moving its profit or loss to equity.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/period-closing-voucher",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/period-closing-voucher",
  "engine": "InnoDB",
  "field_order": [
   "transaction_date",

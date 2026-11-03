@@ -7,7 +7,7 @@
  "description": "A legal entity with its own books, like your business or a subsidiary.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/company-setup",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/company-setup",
  "engine": "InnoDB",
  "field_order": [
   "details",
@@ -727,7 +727,7 @@
    "options": "Warehouse"
   },
   {
-   "documentation_url": "https://docs.frappe.io/erpnext/retain-sample-stock",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/retain-sample-stock",
    "fieldname": "sample_retention_warehouse",
    "fieldtype": "Link",
    "label": "Sample Retention Warehouse",
@@ -792,7 +792,7 @@
   {
    "depends_on": "eval:doc.book_advance_payments_in_separate_party_account",
    "description": "Only 'Payment Entries' made against this advance account are supported.",
-   "documentation_url": "https://docs.erpnext.com/docs/user/manual/en/advance-in-separate-party-account",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/advance-in-separate-party-account",
    "fieldname": "default_advance_received_account",
    "fieldtype": "Link",
    "ignore_user_permissions": 1,
@@ -804,7 +804,7 @@
   {
    "depends_on": "eval:doc.book_advance_payments_in_separate_party_account",
    "description": "Only 'Payment Entries' made against this advance account are supported.",
-   "documentation_url": "https://docs.erpnext.com/docs/user/manual/en/advance-in-separate-party-account",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/advance-in-separate-party-account",
    "fieldname": "default_advance_paid_account",
    "fieldtype": "Link",
    "ignore_user_permissions": 1,

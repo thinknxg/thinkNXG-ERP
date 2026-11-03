@@ -3,7 +3,7 @@
  "creation": "2013-06-24 15:49:57",
  "doctype": "DocType",
  "document_type": "Other",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/accounts-settings",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-settings",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
@@ -152,14 +152,14 @@
   },
   {
    "default": "1",
-   "documentation_url": "https://docs.frappe.io/erpnext/accounts-settings#4-unlink-payment-on-cancellation-of-invoice",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/accounts-settings#4-unlink-payment-on-cancellation-of-invoice",
    "fieldname": "unlink_payment_on_cancellation_of_invoice",
    "fieldtype": "Check",
    "label": "Unlink Payment on cancellation of invoice"
   },
   {
    "default": "1",
-   "documentation_url": "https://docs.frappe.io/erpnext/accounts-settings#8-unlink-advance-payment-on-cancellation-of-order",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/accounts-settings#8-unlink-advance-payment-on-cancellation-of-order",
    "fieldname": "unlink_advance_payment_on_cancelation_of_order",
    "fieldtype": "Check",
    "label": "Unlink Advance Payment on cancellation of order"
@@ -318,7 +318,7 @@
   },
   {
    "default": "0",
-   "description": "Learn about <a href=\"https://docs.frappe.io/erpnext/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>",
+   "description": "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>",
    "fieldname": "enable_common_party_accounting",
    "fieldtype": "Check",
    "label": "Enable Common Party Accounting"
@@ -705,7 +705,7 @@
   },
   {
    "default": "0",
-   "documentation_url": "https://docs.frappe.io/erpnext/loyalty-program",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/loyalty-program",
    "fieldname": "enable_loyalty_point_program",
    "fieldtype": "Check",
    "label": "Enable Loyalty Point Program"

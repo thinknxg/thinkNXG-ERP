@@ -4,7 +4,7 @@
  "creation": "2025-08-02 04:44:15.184541",
  "description": "The rows and formulas of a custom financial statement.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/financial-report-template",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/financial-report-template",
  "engine": "InnoDB",
  "field_order": [
   "template_name",

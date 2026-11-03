@@ -6,7 +6,7 @@
  "description": "The year your books are kept and closed for.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/fiscal-year",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/fiscal-year",
  "engine": "InnoDB",
  "field_order": [
   "year",

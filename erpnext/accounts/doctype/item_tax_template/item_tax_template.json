@@ -6,7 +6,7 @@
  "description": "Tax rates for items that are taxed differently from the rest.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/item-tax-template",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/item-tax-template",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

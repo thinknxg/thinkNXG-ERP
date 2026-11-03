@@ -5,7 +5,7 @@
  "creation": "2026-03-31 21:06:16.282931",
  "description": "The work done for one operation of a work order.",
  "doctype": "DocType",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/job-card",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/job-card",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [

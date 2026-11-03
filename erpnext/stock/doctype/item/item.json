@@ -7,7 +7,7 @@
  "description": "A product or service you buy, sell or keep in stock.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/item",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/item",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
@@ -239,7 +239,7 @@
    "allow_in_quick_entry": 1,
    "bold": 1,
    "default": "1",
-   "description": "ERPNext will make a stock ledger entry for each transaction of this item. Keep unchecked for non-stock or service items.",
+   "description": "thinkNXG ERP will make a stock ledger entry for each transaction of this item. Keep unchecked for non-stock or service items.",
    "fieldname": "is_stock_item",
    "fieldtype": "Check",
    "in_import_template": 1,
@@ -391,7 +391,7 @@
   },
   {
    "depends_on": "is_stock_item",
-   "documentation_url": "https://docs.frappe.io/erpnext/change-valuation-method",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/change-valuation-method",
    "fieldname": "valuation_method",
    "fieldtype": "Select",
    "label": "Valuation Method",
@@ -503,7 +503,7 @@
    "default": "0",
    "depends_on": "has_batch_no",
    "description": "Enable to reserve a small sample from each batch for any analysis arising ahead",
-   "documentation_url": "https://docs.frappe.io/erpnext/retain-sample-stock",
+   "documentation_url": "https://docs.thinknxg.com/thinknxgerp/retain-sample-stock",
    "fieldname": "retain_sample",
    "fieldtype": "Check",
    "label": "Retain Sample",
@@ -1078,7 +1078,7 @@
   {
    "fieldname": "uom_help_html",
    "fieldtype": "HTML",
-   "options": "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Define alternate units for this item. Eg: 1 Box = 12 Nos, set conversion factor as 12. (Will also apply for variants) <a href=\"https://docs.frappe.io/erpnext/uom\" target=\"_blank\">Learn more &#8594;</a></div>"
+   "options": "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Define alternate units for this item. Eg: 1 Box = 12 Nos, set conversion factor as 12. (Will also apply for variants) <a href=\"https://docs.thinknxg.com/thinknxgerp/uom\" target=\"_blank\">Learn more &#8594;</a></div>"
   },
   {
    "fieldname": "section_break_zlmj",

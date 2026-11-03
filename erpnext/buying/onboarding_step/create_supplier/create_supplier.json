@@ -2,7 +2,7 @@
  "action": "Create Entry",
  "action_label": "Add Supplier",
  "creation": "2026-02-19 10:53:56.936107",
- "description": "A business or person you buy from. See [Supplier](https://docs.frappe.io/erpnext/user/manual/en/supplier).",
+ "description": "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier).",
  "docstatus": 0,
  "doctype": "Onboarding Step",
  "form_tour": "Supplier Form Tour",

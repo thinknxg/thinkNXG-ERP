@@ -7,7 +7,7 @@
  "description": "A problem or question raised by a customer.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.frappe.io/erpnext/user/manual/en/issue",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/issue",
  "email_append_to": 1,
  "engine": "InnoDB",
  "field_order": [
