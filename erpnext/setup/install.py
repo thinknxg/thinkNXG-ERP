@@ -222,7 +222,9 @@ def add_standard_navbar_items():
 	navbar_settings = frappe.get_single("Navbar Settings")
 	erpnext_navbar_items = [
 		{
-			"item_label": _("thinkNXG ERP Documentation"),
+			# stored untranslated so it matches erpnext.hooks.standard_help_items on any
+			# install language; the desk translates help labels when rendering.
+			"item_label": "thinkNXG ERP Documentation",
 			"item_type": "Route",
 			"route": "https://docs.thinknxg.com/thinknxgerp",
 			"is_standard": 1,

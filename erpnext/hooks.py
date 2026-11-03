@@ -256,6 +256,17 @@ standard_navbar_items = [
 	},
 ]
 
+# Declared here (not only in setup/install.py) so that `bench migrate`'s sync of standard
+# Help items keeps the ERP documentation link instead of removing it as an unknown standard item.
+standard_help_items = [
+	{
+		"item_label": "thinkNXG ERP Documentation",
+		"item_type": "Route",
+		"route": "https://docs.thinknxg.com/thinknxgerp",
+		"is_standard": 1,
+	},
+]
+
 standard_portal_menu_items = [
 	{"title": "Projects", "route": "/project", "reference_doctype": "Project", "role": "Customer"},
 	{
