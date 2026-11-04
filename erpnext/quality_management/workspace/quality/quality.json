@@ -161,7 +161,7 @@
    "type": "Link"
   }
  ],
- "modified": "2026-01-02 17:32:47.522875",
+ "modified": "2026-07-11 10:34:10.041694",
  "modified_by": "Administrator",
  "module": "Quality Management",
  "name": "Quality",
@@ -171,7 +171,11 @@
  "public": 1,
  "quick_lists": [],
  "restrict_to_domain": "",
- "roles": [],
+ "roles": [
+  {
+   "role": "Accounts User"
+  }
+ ],
  "sequence_id": 9.0,
  "shortcuts": [],
  "title": "Quality",

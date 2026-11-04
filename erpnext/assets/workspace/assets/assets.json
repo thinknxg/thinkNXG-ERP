@@ -199,7 +199,7 @@
    "type": "Link"
   }
  ],
- "modified": "2025-12-31 16:22:38.132729",
+ "modified": "2026-07-11 10:30:06.182371",
  "modified_by": "Administrator",
  "module": "Assets",
  "name": "Assets",
@@ -209,7 +209,11 @@
  "public": 1,
  "quick_lists": [],
  "restrict_to_domain": "",
- "roles": [],
+ "roles": [
+  {
+   "role": "Accounts User"
+  }
+ ],
  "sequence_id": 7.0,
  "shortcuts": [],
  "title": "Assets",

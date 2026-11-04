@@ -345,17 +345,6 @@
    "dependencies": "",
    "hidden": 0,
    "is_query_report": 1,
-   "label": "Item Wise Consumption",
-   "link_count": 0,
-   "link_to": "Item Wise Consumption",
-   "link_type": "Report",
-   "onboard": 1,
-   "type": "Link"
-  },
-  {
-   "dependencies": "",
-   "hidden": 0,
-   "is_query_report": 1,
    "label": "Items to Order and Receive",
    "link_count": 0,
    "link_to": "Requested Items to Order and Receive",
@@ -512,7 +501,7 @@
    "type": "Link"
   }
  ],
- "modified": "2026-01-02 14:55:59.078773",
+ "modified": "2026-07-11 10:33:13.106927",
  "modified_by": "Administrator",
  "module": "Buying",
  "name": "Buying",
@@ -535,7 +524,11 @@
  "public": 1,
  "quick_lists": [],
  "restrict_to_domain": "",
- "roles": [],
+ "roles": [
+  {
+   "role": "Accounts User"
+  }
+ ],
  "sequence_id": 5.0,
  "shortcuts": [],
  "title": "Buying",

@@ -193,7 +193,7 @@
    "type": "Link"
   }
  ],
- "modified": "2026-01-02 17:26:44.644507",
+ "modified": "2026-07-11 10:33:53.780741",
  "modified_by": "Administrator",
  "module": "Projects",
  "name": "Projects",
@@ -216,7 +216,11 @@
  "public": 1,
  "quick_lists": [],
  "restrict_to_domain": "",
- "roles": [],
+ "roles": [
+  {
+   "role": "Accounts User"
+  }
+ ],
  "sequence_id": 11.0,
  "shortcuts": [],
  "title": "Projects",

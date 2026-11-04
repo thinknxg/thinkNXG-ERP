@@ -587,7 +587,7 @@
    "type": "Link"
   }
  ],
- "modified": "2026-01-23 11:05:47.246213",
+ "modified": "2026-07-11 10:36:03.974990",
  "modified_by": "Administrator",
  "module": "Accounts",
  "name": "Invoicing",
@@ -614,7 +614,11 @@
  "public": 1,
  "quick_lists": [],
  "restrict_to_domain": "",
- "roles": [],
+ "roles": [
+  {
+   "role": "Accounts User"
+  }
+ ],
  "sequence_id": 2.0,
  "shortcuts": [],
  "title": "Invoicing",

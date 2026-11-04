@@ -573,6 +573,11 @@ def _make_customer(source_name, ignore_permissions=False):
 	existing_customer = None
 	if quotation.quotation_to == "Lead":
 		existing_customer = frappe.db.get_value("Customer", {"lead_name": quotation.party_name})
+		if not existing_customer:
+			custom_customer = frappe.db.get_value("Quotation", source_name, "custom_customer")
+			if custom_customer:
+				existing_customer = custom_customer
+				frappe.logger().info(f"GWM DEBUG: using custom_customer {custom_customer}")
 	elif quotation.quotation_to == "Prospect":
 		existing_customer = frappe.db.get_value("Customer", {"prospect_name": quotation.party_name})
 
