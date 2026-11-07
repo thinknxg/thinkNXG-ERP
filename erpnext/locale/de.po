@@ -755,8 +755,8 @@ msgstr "<div id=\\\"item-prices-container\\\"></div>"
 
 #. Content of the 'uom_help_html' (HTML) field in DocType 'Item'
 #: erpnext/stock/doctype/item/item.json:1083
-msgid "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Define alternate units for this item. Eg: 1 Box = 12 Nos, set conversion factor as 12. (Will also apply for variants) <a href=\"https://docs.frappe.io/erpnext/uom\" target=\"_blank\">Learn more &#8594;</a></div>"
-msgstr "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Alternative Einheiten für diesen Artikel definieren. Beispiel: 1 Schachtel = 12 Stück, Umrechnungsfaktor auf 12 setzen. (Gilt auch für Varianten) <a href=\"https://docs.frappe.io/erpnext/uom\" target=\"_blank\">Mehr erfahren &#8594;</a></div>"
+msgid "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Define alternate units for this item. Eg: 1 Box = 12 Nos, set conversion factor as 12. (Will also apply for variants) <a href=\"https://docs.thinknxg.com/thinknxgerp/uom\" target=\"_blank\">Learn more &#8594;</a></div>"
+msgstr "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Alternative Einheiten für diesen Artikel definieren. Beispiel: 1 Schachtel = 12 Stück, Umrechnungsfaktor auf 12 setzen. (Gilt auch für Varianten) <a href=\"https://docs.thinknxg.com/thinknxgerp/uom\" target=\"_blank\">Mehr erfahren &#8594;</a></div>"
 
 #. Content of the 'settings' (HTML) field in DocType 'Cheque Print Template'
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.json:56
@@ -1150,13 +1150,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a supplier'
 #: erpnext/buying/onboarding_step/create_supplier/create_supplier.json:5
-msgid "A business or person you buy from. See [Supplier](https://docs.frappe.io/erpnext/user/manual/en/supplier)."
-msgstr "Ein Unternehmen oder eine Person, bei denen Sie einkaufen. Siehe [Lieferant](https://docs.frappe.io/erpnext/user/manual/en/supplier)."
+msgid "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)."
+msgstr "Ein Unternehmen oder eine Person, bei denen Sie einkaufen. Siehe [Lieferant](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)."
 
 #. Description of the Onboarding Step 'Add a customer'
 #: erpnext/selling/onboarding_step/create_customer/create_customer.json:5
-msgid "A business or person you sell to. See [Customer](https://docs.frappe.io/erpnext/user/manual/en/customer)."
-msgstr "Ein Unternehmen oder eine Person, an die Sie verkaufen. Siehe [Kunde](https://docs.frappe.io/erpnext/user/manual/en/customer)."
+msgid "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)."
+msgstr "Ein Unternehmen oder eine Person, an die Sie verkaufen. Siehe [Kunde](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)."
 
 #: erpnext/public/js/sales_order_proforma.js:315
 msgid "A cancelled Proforma Invoice cannot be emailed."
@@ -1479,8 +1479,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add an item you sell'
 #: erpnext/selling/onboarding_step/create_selling_item/create_selling_item.json:5
-msgid "A product or a service you sell. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Ein Produkt oder eine Dienstleistung, die Sie verkaufen. Siehe [Artikel](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "A product or a service you sell. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Ein Produkt oder eine Dienstleistung, die Sie verkaufen. Siehe [Artikel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #. Description of a DocType
 #: erpnext/stock/doctype/item/item.json:7
@@ -5459,7 +5459,7 @@ msgid "Allowed Users"
 msgstr "Zugelassene Benutzer"
 
 #: erpnext/crm/doctype/crm_settings/crm_settings.py:59
-msgid "Allowed Users is not required as Frappe CRM is already installed on the site."
+msgid "Allowed Users is not required as thinkNXG CRM is already installed on the site."
 msgstr "„Zugelassene Benutzer“ ist nicht erforderlich, da thinkNXG CRM auf der Website bereits installiert ist."
 
 #: erpnext/crm/doctype/crm_settings/crm_settings.js:17
@@ -6159,13 +6159,13 @@ msgstr "Einer der folgenden Filter ist erforderlich: Lager, Artikelcode, Artikel
 
 #. Description of the Onboarding Step 'Start a project'
 #: erpnext/projects/onboarding_step/create_project/create_project.json:5
-msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.frappe.io/erpnext/user/manual/en/project)."
-msgstr "Alles, was einen Anfang und ein Ende hat: ein Auftrag für einen Kunden, eine Installation, eine interne Initiative. Siehe [Projekt](https://docs.frappe.io/erpnext/user/manual/en/project)."
+msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)."
+msgstr "Alles, was einen Anfang und ein Ende hat: ein Auftrag für einen Kunden, eine Installation, eine interne Initiative. Siehe [Projekt](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)."
 
 #. Description of the Onboarding Step 'Add an item you stock'
 #: erpnext/stock/onboarding_step/create_item/create_item.json:5
-msgid "Anything you keep on shelves and count. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Alles, was Sie in Regalen lagern und zählen. Siehe [Artikel](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "Anything you keep on shelves and count. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Alles, was Sie in Regalen lagern und zählen. Siehe [Artikel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #: erpnext/setup/setup_wizard/data/industry_type.txt:6
 msgid "Apparel & Accessories"
@@ -7386,8 +7386,8 @@ msgstr "Vermögensgegenstände {assets_link} erstellt für {item_code}"
 
 #. Description of the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:5
-msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.frappe.io/erpnext/user/manual/en/balance-sheet)."
-msgstr "Vermögenswerte, Verbindlichkeiten und Eigenkapital zu jedem Datum, direkt aus Ihrem Hauptbuch. Siehe [Bilanz](https://docs.frappe.io/erpnext/user/manual/en/balance-sheet)."
+msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)."
+msgstr "Vermögenswerte, Verbindlichkeiten und Eigenkapital zu jedem Datum, direkt aus Ihrem Hauptbuch. Siehe [Bilanz](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)."
 
 #. Description of a report in the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:18
@@ -9657,8 +9657,8 @@ msgstr "Stückliste"
 
 #. Description of the Onboarding Step 'Send your first invoice'
 #: erpnext/selling/onboarding_step/create_sales_invoice/create_sales_invoice.json:5
-msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.frappe.io/erpnext/user/manual/en/sales-invoice)."
-msgstr "Stellen Sie Ihrem Kunden eine Rechnung für den Artikel aus. Buchen Sie sie anschließend und verwenden Sie dann **Drucken**, um sie auf Papier anzuzeigen oder als PDF zu senden. Siehe [Ausgangsrechnung](https://docs.frappe.io/erpnext/user/manual/en/sales-invoice)."
+msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)."
+msgstr "Stellen Sie Ihrem Kunden eine Rechnung für den Artikel aus. Buchen Sie sie anschließend und verwenden Sie dann **Drucken**, um sie auf Papier anzuzeigen oder als PDF zu senden. Siehe [Ausgangsrechnung](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)."
 
 #. Option for the 'Status' (Select) field in DocType 'Timesheet'
 #: erpnext/controllers/website_list_for_contact.py:227
@@ -10596,8 +10596,8 @@ msgid "Buying must be checked, if Applicable For is selected as {0}"
 msgstr "Einkauf muss ausgewählt sein, wenn \"Anwenden auf\" auf {0} gesetzt wurde"
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:62
-msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
-msgstr "Standardmäßig wird die ID des Lieferanten basierend auf dem eingegebenen Lieferantennamen festgelegt. Wenn Sie möchten, dass Lieferanten nach einem <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Nummernkreis</a> benannt werden, wählen Sie die Option 'Nummernkreis'."
+msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.thinknxg.com/thinknxgerp/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
+msgstr "Standardmäßig wird die ID des Lieferanten basierend auf dem eingegebenen Lieferantennamen festgelegt. Wenn Sie möchten, dass Lieferanten nach einem <a href='https://docs.thinknxg.com/thinknxgerp/naming-series' target='_blank'>Nummernkreis</a> benannt werden, wählen Sie die Option 'Nummernkreis'."
 
 #. Option for the 'Type' (Select) field in DocType 'BOM Secondary Item'
 #. Option for the 'Type' (Select) field in DocType 'Job Card Secondary Item'
@@ -13717,8 +13717,8 @@ msgstr "Unternehmen {} stimmt nicht mit POS-Profil Unternehmen {} überein"
 
 #. Description of the Onboarding Step 'Review how a goal is going'
 #: erpnext/quality_management/onboarding_step/create_quality_review/create_quality_review.json:5
-msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
-msgstr "Vergleichen Sie die Ergebnisse mit dem Ziel und entscheiden Sie, was geändert werden soll. Siehe [Qualitätsmanagement](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
+msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgstr "Vergleichen Sie die Ergebnisse mit dem Ziel und entscheiden Sie, was geändert werden soll. Siehe [Qualitätsmanagement](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
 
 #: erpnext/manufacturing/doctype/bom_creator/bom_creator.js:100
 msgid "Compare with Previous Revision"
@@ -13921,8 +13921,8 @@ msgstr "Rechner"
 
 #. Description of the Onboarding Step 'Set up an asset category'
 #: erpnext/assets/onboarding_step/create_asset_category/create_asset_category.json:5
-msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.frappe.io/erpnext/user/manual/en/asset-category)."
-msgstr "Computer, Fahrzeuge, Möbel: wie die jeweilige Art abgeschrieben wird und auf welche Konten sie gebucht wird. Siehe [Vermögensgegenstand-Kategorie](https://docs.frappe.io/erpnext/user/manual/en/asset-category)."
+msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)."
+msgstr "Computer, Fahrzeuge, Möbel: wie die jeweilige Art abgeschrieben wird und auf welche Konten sie gebucht wird. Siehe [Vermögensgegenstand-Kategorie](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)."
 
 #. Label of the condition (Code) field in DocType 'Inventory Dimension'
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.json:89
@@ -14000,8 +14000,8 @@ msgstr "Bestätigen Sie, bevor Sie das Buchungsdatum zurücksetzen"
 
 #. Description of the Onboarding Step 'Confirm a sales order'
 #: erpnext/selling/onboarding_step/create_sales_order/create_sales_order.json:5
-msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.frappe.io/erpnext/user/manual/en/sales-order)."
-msgstr "Bestätigen Sie, was der Kunde bestellt hat und wann es fällig ist. Liefern und fakturieren Sie direkt aus dem Auftrag. Siehe [Auftrag](https://docs.frappe.io/erpnext/user/manual/en/sales-order)."
+msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)."
+msgstr "Bestätigen Sie, was der Kunde bestellt hat und wann es fällig ist. Liefern und fakturieren Sie direkt aus dem Auftrag. Siehe [Auftrag](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)."
 
 #. Label of the final_confirmation_date (Date) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:326
@@ -17689,8 +17689,8 @@ msgstr "Debitoren"
 
 #. Description of the Onboarding Step 'Plan a work order'
 #: erpnext/manufacturing/onboarding_step/create_work_order/create_work_order.json:5
-msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.frappe.io/erpnext/user/manual/en/work-order)."
-msgstr "Legen Sie fest, wie viele Sie herstellen möchten. Die benötigten Rohmaterialien werden anhand der Stückliste ermittelt. Siehe [Arbeitsauftrag](https://docs.frappe.io/erpnext/user/manual/en/work-order)."
+msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)."
+msgstr "Legen Sie fest, wie viele Sie herstellen möchten. Die benötigten Rohmaterialien werden anhand der Stückliste ermittelt. Siehe [Arbeitsauftrag](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)."
 
 #. Title of an Onboarding Step
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:19
@@ -19177,8 +19177,8 @@ msgstr "Abschreibung durch Umkehr eliminiert"
 
 #. Description of the Onboarding Step 'Check its depreciation'
 #: erpnext/assets/onboarding_step/view_asset_depreciation/view_asset_depreciation.json:5
-msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.frappe.io/erpnext/user/manual/en/asset-depreciation)."
-msgstr "Die Abschreibung wird planmäßig und für jeden Vermögensgegenstand einzeln gebucht, ohne dass Sie einen Journaleintrag erstellen müssen. Siehe [Abschreibung](https://docs.frappe.io/erpnext/user/manual/en/asset-depreciation)."
+msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)."
+msgstr "Die Abschreibung wird planmäßig und für jeden Vermögensgegenstand einzeln gebucht, ohne dass Sie einen Journaleintrag erstellen müssen. Siehe [Abschreibung](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)."
 
 #. Label of the description_rules (Table) field in DocType 'Bank Transaction
 #. Rule'
@@ -22053,8 +22053,8 @@ msgstr "Jede gebuchte Abschreibung, Vermögensgegenstand für Vermögensgegensta
 
 #. Description of the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:5
-msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.frappe.io/erpnext/user/manual/en/stock-ledger)."
-msgstr "Jede Bewegung jedes Artikels, ein- und ausgehend, mit dem Saldo nach jeder Bewegung. Siehe [Lagerbuch](https://docs.frappe.io/erpnext/user/manual/en/stock-ledger)."
+msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
+msgstr "Jede Bewegung jedes Artikels, ein- und ausgehend, mit dem Saldo nach jeder Bewegung. Siehe [Lagerbuch](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
 
 #. Description of a report in the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:17
@@ -22063,8 +22063,8 @@ msgstr "Jede Bewegung jedes Artikels, ein- und ausgehend."
 
 #. Description of the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:5
-msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.frappe.io/erpnext/user/manual/en/general-ledger)."
-msgstr "Jede Buchung aus Ihren Rechnungen und Zahlungen, mit Soll und Haben. Siehe [Hauptbuch](https://docs.frappe.io/erpnext/user/manual/en/general-ledger)."
+msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
+msgstr "Jede Buchung aus Ihren Rechnungen und Zahlungen, mit Soll und Haben. Siehe [Hauptbuch](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
 
 #. Description of a report in the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:18
@@ -22083,8 +22083,8 @@ msgstr "Alle Arbeitsaufträge, ihr Fortschritt und was verspätet ist."
 
 #. Description of the Onboarding Step 'See how production is going'
 #: erpnext/manufacturing/onboarding_step/view_work_order_summary_report/view_work_order_summary_report.json:5
-msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.frappe.io/erpnext/user/manual/en/work-order-summary)."
-msgstr "Alle Arbeitsaufträge, ihr Fortschritt und was verspätet ist. Siehe [Zusammenfassung Arbeitsauftrag](https://docs.frappe.io/erpnext/user/manual/en/work-order-summary)."
+msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)."
+msgstr "Alle Arbeitsaufträge, ihr Fortschritt und was verspätet ist. Siehe [Zusammenfassung Arbeitsauftrag](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)."
 
 #. Title of an incoterm
 #: erpnext/setup/doctype/incoterm/incoterms.csv:2
@@ -23963,8 +23963,8 @@ msgstr "Für eine Position {0} muss die Menge eine positive Zahl sein"
 
 #. Description of the Onboarding Step 'Post a journal entry'
 #: erpnext/accounts/onboarding_step/create_journal_entry/create_journal_entry.json:5
-msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.frappe.io/erpnext/user/manual/en/journal-entry)."
-msgstr "Für alles, was keine Rechnung und keine Zahlung ist: Rückstellungen, Abschreibungen oder die Korrektur eines Fehlers. Siehe [Journaleintrag](https://docs.frappe.io/erpnext/user/manual/en/journal-entry)."
+msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)."
+msgstr "Für alles, was keine Rechnung und keine Zahlung ist: Rückstellungen, Abschreibungen oder die Korrektur eines Fehlers. Siehe [Journaleintrag](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)."
 
 #. Description of the 'Income Account' (Link) field in DocType 'Dunning'
 #: erpnext/accounts/doctype/dunning/dunning.json:245
@@ -24203,7 +24203,7 @@ msgid "thinkNXG CRM data synchronization is not enabled on thinkNXG ERP. Contact
 msgstr "Die Datensynchronisierung mit thinkNXG CRM ist in thinkNXG ERP nicht aktiviert. Wenden Sie sich an den System-Manager von thinkNXG ERP."
 
 #: erpnext/setup/install.py:237
-msgid "Frappe School"
+msgid "thinkNXG School"
 msgstr "Frappe-Schule"
 
 #. Title of an incoterm
@@ -24579,8 +24579,8 @@ msgstr "Das Ab-Datum kann nicht größer als das Bis-Datum sein"
 
 #. Description of the Onboarding Step 'Move stock between warehouses'
 #: erpnext/stock/onboarding_step/move_stock/move_stock.json:5
-msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
-msgstr "Vom Lager in die Fertigung oder zwischen Niederlassungen. Siehe [Lagerbuchung](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
+msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
+msgstr "Vom Lager in die Fertigung oder zwischen Niederlassungen. Siehe [Lagerbuchung](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
 
 #: erpnext/accounts/doctype/shipping_rule/shipping_rule.py:91
 #, python-brace-format
@@ -25342,8 +25342,8 @@ msgstr "Waren sind bereits gegen die Ausgangsbuchung {0} eingegangen"
 
 #. Description of the Onboarding Step 'Add an item you buy'
 #: erpnext/buying/onboarding_step/create_buying_item/create_buying_item.json:5
-msgid "Goods or services you buy from suppliers. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Waren oder Dienstleistungen, die Sie bei Lieferanten einkaufen. Siehe [Artikel](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "Goods or services you buy from suppliers. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Waren oder Dienstleistungen, die Sie bei Lieferanten einkaufen. Siehe [Artikel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #: erpnext/setup/setup_wizard/operations/install_fixtures.py:193
 msgid "Government"
@@ -26289,8 +26289,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Enter the stock you have today'
 #: erpnext/stock/onboarding_step/create_opening_stock/create_opening_stock.json:5
-msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.frappe.io/erpnext/user/manual/en/stock-reconciliation)."
-msgstr "Wie viel von jedem Artikel in Ihren Regalen liegt und was er wert ist. Ab jetzt hält jeder Beleg und jede Lieferung den Bestand aktuell. Siehe [Bestandsabgleich](https://docs.frappe.io/erpnext/user/manual/en/stock-reconciliation)."
+msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
+msgstr "Wie viel von jedem Artikel in Ihren Regalen liegt und was er wert ist. Ab jetzt hält jeder Beleg und jede Lieferung den Bestand aktuell. Siehe [Bestandsabgleich](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
 
 #. Description of a DocType
 #: erpnext/manufacturing/doctype/master_production_schedule/master_production_schedule.json:6
@@ -26611,17 +26611,17 @@ msgstr "Wenn diese Option aktiviert ist, werden die Serien-/Chargenwerte in den 
 #. DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:420
 msgid "If enabled, formula for <b>Qty to Order</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "Wenn aktiviert, Formel für <b>Zu bestellende Menge</b>: <br>\n"
-"Benötigte Menge (Stückliste) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projizierte Menge</a>. <br> Dies hilft, Überbestellungen zu vermeiden."
+"Benötigte Menge (Stückliste) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projizierte Menge</a>. <br> Dies hilft, Überbestellungen zu vermeiden."
 
 #. Description of the 'Consider Projected Qty in Calculation (RM)' (Check)
 #. field in DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:238
 msgid "If enabled, formula for <b>Required Qty</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "Wenn aktiviert, Formel für <b>Benötigte Menge</b>: <br>\n"
-"Benötigte Menge (Stückliste) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projizierte Menge</a>. <br> Dies hilft, Überbestellungen zu vermeiden."
+"Benötigte Menge (Stückliste) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projizierte Menge</a>. <br> Dies hilft, Überbestellungen zu vermeiden."
 
 #. Description of the 'Create Ledger Entries for Change Amount' (Check) field
 #. in DocType 'POS Settings'
@@ -27169,8 +27169,8 @@ msgstr "Importieren mit CSV-Datei"
 
 #. Description of the Onboarding Step 'Match your bank statement'
 #: erpnext/accounts/onboarding_step/open_banking/open_banking.json:5
-msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.frappe.io/erpnext/user/manual/en/bank-reconciliation)."
-msgstr "Importieren Sie einen Kontoauszug von Ihrer Bank und ordnen Sie jede Zeile einer Zahlung zu, damit Ihre Bücher damit übereinstimmen. Siehe [Bankabgleich](https://docs.frappe.io/erpnext/user/manual/en/bank-reconciliation)."
+msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)."
+msgstr "Importieren Sie einen Kontoauszug von Ihrer Bank und ordnen Sie jede Zeile einer Zahlung zu, damit Ihre Bücher damit übereinstimmen. Siehe [Bankabgleich](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)."
 
 #: erpnext/edi/doctype/code_list/code_list_import.js:131
 #, python-brace-format
@@ -29867,8 +29867,8 @@ msgstr "Es kann bis zu einigen Stunden dauern, bis nach der Zusammenführung von
 
 #. Description of the Onboarding Step 'Pay your supplier'
 #: erpnext/buying/onboarding_step/pay_supplier/pay_supplier.json:5
-msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
-msgstr "Er begleicht die Rechnung des Lieferanten und bucht den Betrag von Ihrem Bank- oder Kassenkonto ab. Siehe [Zahlung](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
+msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
+msgstr "Er begleicht die Rechnung des Lieferanten und bucht den Betrag von Ihrem Bank- oder Kassenkonto ab. Siehe [Zahlung](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
 
 #: erpnext/stock/report/stock_valuation_comparison/stock_valuation_comparison.py:533
 #: erpnext/stock/valuation_adjustment.py:391
@@ -29881,8 +29881,8 @@ msgstr "Wird gebraucht, um Artikeldetails abzurufen"
 
 #. Description of the Onboarding Step 'Enter a supplier's bill'
 #: erpnext/accounts/onboarding_step/create_accounting_purchase_invoice/create_accounting_purchase_invoice.json:5
-msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
-msgstr "Er bucht den Aufwand und Ihre Verbindlichkeit gegenüber dem Lieferanten in Ihrem Hauptbuch. Siehe [Eingangsrechnung](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
+msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
+msgstr "Er bucht den Aufwand und Ihre Verbindlichkeit gegenüber dem Lieferanten in Ihrem Hauptbuch. Siehe [Eingangsrechnung](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
 
 #: banking/src/components/features/BankReconciliation/BankBalance.tsx:138
 msgid "It takes into account all the transactions that have been posted and subtracts the transactions that have not cleared yet."
@@ -32375,8 +32375,8 @@ msgstr "Interessenten helfen Ihnen bei der Geschäftsanbahnung. Fügen Sie alle 
 #. Description of the 'Enable Common Party Accounting' (Check) field in DocType
 #. 'Accounts Settings'
 #: erpnext/accounts/doctype/accounts_settings/accounts_settings.json:321
-msgid "Learn about <a href=\"https://docs.frappe.io/erpnext/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
-msgstr "Mehr erfahren über <a href=\"https://docs.frappe.io/erpnext/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Gemeinsame Partei</a>"
+msgid "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
+msgstr "Mehr erfahren über <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Gemeinsame Partei</a>"
 
 #. Label of the leave_encashed (Select) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:651
@@ -36958,8 +36958,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Record a supplier's quote'
 #: erpnext/buying/onboarding_step/create_supplier_quotation/create_supplier_quotation.json:5
-msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.frappe.io/erpnext/user/manual/en/supplier-quotation)."
-msgstr "Notieren Sie einen Preis, den ein Lieferant angeboten hat, damit Sie Lieferanten vor der Bestellung vergleichen können. Siehe [Lieferantenangebot](https://docs.frappe.io/erpnext/user/manual/en/supplier-quotation)."
+msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)."
+msgstr "Notieren Sie einen Preis, den ein Lieferant angeboten hat, damit Sie Lieferanten vor der Bestellung vergleichen können. Siehe [Lieferantenangebot](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)."
 
 #: erpnext/manufacturing/doctype/bom_update_log/bom_update_log_list.js:21
 msgid "Note: Automatic log deletion only applies to logs of type <i>Update Cost</i>"
@@ -37412,8 +37412,8 @@ msgstr "Sobald der Arbeitsauftrag abgeschlossen ist, kann er nicht wiederaufgeno
 
 #. Description of the Onboarding Step 'Quote a price'
 #: erpnext/selling/onboarding_step/create_quotation/create_quotation.json:5
-msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.frappe.io/erpnext/user/manual/en/quotation)."
-msgstr "Sobald der Kunde zustimmt, wandeln Sie das Angebot direkt in einen Auftrag oder eine Rechnung um. Siehe [Angebot](https://docs.frappe.io/erpnext/user/manual/en/quotation)."
+msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)."
+msgstr "Sobald der Kunde zustimmt, wandeln Sie das Angebot direkt in einen Auftrag oder eine Rechnung um. Siehe [Angebot](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)."
 
 #: erpnext/accounts/doctype/loyalty_program/loyalty_program.js:39
 msgid "One customer can be part of only single Loyalty Program."
@@ -38587,8 +38587,8 @@ msgstr "Bestellwert"
 
 #. Description of the Onboarding Step 'Place a purchase order'
 #: erpnext/buying/onboarding_step/create_purchase_order/create_purchase_order.json:5
-msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.frappe.io/erpnext/user/manual/en/purchase-order)."
-msgstr "Bestellen Sie beim Lieferanten. Wenn die Waren eintreffen, empfangen Sie diese und erfassen die Rechnung direkt aus dem Auftrag selbst. Siehe [Lieferantenauftrag](https://docs.frappe.io/erpnext/user/manual/en/purchase-order)."
+msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)."
+msgstr "Bestellen Sie beim Lieferanten. Wenn die Waren eintreffen, empfangen Sie diese und erfassen die Rechnung direkt aus dem Auftrag selbst. Siehe [Lieferantenauftrag](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)."
 
 #. Title of the Module Onboarding 'Buying Onboarding'
 #. Title of an Onboarding Step
@@ -42379,7 +42379,7 @@ msgid "Please add atleast one Serial No / Batch No"
 msgstr "Bitte fügen Sie mindestens eine Serien-/Chargennummer hinzu"
 
 #: erpnext/crm/doctype/crm_settings/crm_settings.py:54
-msgid "Please add atleast one user on Allowed Users to allow Data Synchronization from Frappe CRM site."
+msgid "Please add atleast one user on Allowed Users to allow Data Synchronization from thinkNXG CRM site."
 msgstr "Bitte fügen Sie mindestens einen Benutzer unter Zulässige Benutzer hinzu, um die Datensynchronisierung von der Website thinkNXG CRM zu erlauben."
 
 #: erpnext/accounts/doctype/bank_statement_import/bank_statement_import.py:85
@@ -48430,8 +48430,8 @@ msgstr "Rohmaterial {0} ist {1} zugeordnet, was kein Fertigerzeugnis dieser Buch
 
 #. Description of the Onboarding Step 'Finish making it'
 #: erpnext/manufacturing/onboarding_step/finish_work_order/finish_work_order.json:5
-msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
-msgstr "Rohmaterialien werden aus dem Lager entnommen und die Fertigerzeugnisse eingelagert. Im Arbeitsauftrag füllt **Abschließen** dies für Sie aus. Siehe [Lagerbuchung](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
+msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
+msgstr "Rohmaterialien werden aus dem Lager entnommen und die Fertigerzeugnisse eingelagert. Im Arbeitsauftrag füllt **Abschließen** dies für Sie aus. Siehe [Lagerbuchung](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
 
 #. Description of the 'Validate consumed quantity (as per BOM)' (Check) field
 #. in DocType 'Buying Settings'
@@ -49048,18 +49048,18 @@ msgstr "Erfassen Sie einen internen Transfer auf eine andere Bank/Kreditkarte/ei
 
 #. Description of the Onboarding Step 'Log time against it'
 #: erpnext/projects/onboarding_step/create_timesheet/create_timesheet.json:5
-msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.frappe.io/erpnext/user/manual/en/timesheets)."
-msgstr "Erfassen Sie die für Vorgänge aufgewendeten Stunden. Stellen Sie diese dem Kunden in Rechnung oder nutzen Sie sie zur Kalkulation des Projektaufwands. Siehe [Zeiterfassung](https://docs.frappe.io/erpnext/user/manual/en/timesheets)."
+msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)."
+msgstr "Erfassen Sie die für Vorgänge aufgewendeten Stunden. Stellen Sie diese dem Kunden in Rechnung oder nutzen Sie sie zur Kalkulation des Projektaufwands. Siehe [Zeiterfassung](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)."
 
 #. Description of the Onboarding Step 'Inspect goods coming in or going out'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection/create_quality_inspection.json:5
-msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection)."
-msgstr "Erfassen Sie die Ergebnisse zu einem Beleg oder einer Lieferung und nehmen Sie die Waren an oder lehnen Sie sie ab. Siehe [Qualitätsprüfung](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection)."
+msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)."
+msgstr "Erfassen Sie die Ergebnisse zu einem Beleg oder einer Lieferung und nehmen Sie die Waren an oder lehnen Sie sie ab. Siehe [Qualitätsprüfung](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)."
 
 #. Description of the Onboarding Step 'Hand it to a person or place'
 #: erpnext/assets/onboarding_step/create_asset_movement/create_asset_movement.json:5
-msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.frappe.io/erpnext/user/manual/en/asset-movement)."
-msgstr "Erfassen Sie, wer es hat und wo es sich befindet, damit Sie jederzeit den Überblick behalten. Siehe [Vermögensgegenstand-Bewegung](https://docs.frappe.io/erpnext/user/manual/en/asset-movement)."
+msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)."
+msgstr "Erfassen Sie, wer es hat und wo es sich befindet, damit Sie jederzeit den Überblick behalten. Siehe [Vermögensgegenstand-Bewegung](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)."
 
 #. Label of the recording_html (HTML) field in DocType 'Call Log'
 #: erpnext/telephony/doctype/call_log/call_log.json:91
@@ -49384,8 +49384,8 @@ msgstr "Regulär"
 
 #. Description of the Onboarding Step 'Plan maintenance visits'
 #: erpnext/quality_management/onboarding_step/create_maintenance_schedule/create_maintenance_schedule.json:5
-msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.frappe.io/erpnext/user/manual/en/maintenance-schedule)."
-msgstr "Regelmäßige Servicebesuche für verkaufte Geräte, für die gesamte Vertragslaufzeit im Voraus geplant. Siehe [Wartungsplan](https://docs.frappe.io/erpnext/user/manual/en/maintenance-schedule)."
+msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)."
+msgstr "Regelmäßige Servicebesuche für verkaufte Geräte, für die gesamte Vertragslaufzeit im Voraus geplant. Siehe [Wartungsplan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)."
 
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.py:214
 msgid "Rejected "
@@ -54750,8 +54750,8 @@ msgstr "Vertrieb nach Kunde, Artikel oder Gebiet über eine beliebige Periode."
 
 #. Description of the Onboarding Step 'Spot your best sellers'
 #: erpnext/selling/onboarding_step/view_sales_analytics/view_sales_analytics.json:5
-msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.frappe.io/erpnext/user/manual/en/sales-analytics)."
-msgstr "Vertrieb nach Kunde, Artikel oder Gebiet über eine beliebige Periode. Siehe [Vertriebsanalysen](https://docs.frappe.io/erpnext/user/manual/en/sales-analytics)."
+msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
+msgstr "Vertrieb nach Kunde, Artikel oder Gebiet über eine beliebige Periode. Siehe [Vertriebsanalysen](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
 
 #: erpnext/manufacturing/doctype/production_plan/production_plan.py:268
 msgid "Sales orders are not available for production"
@@ -56734,8 +56734,8 @@ msgstr "Dienstleistungen"
 
 #. Description of the Onboarding Step 'Schedule its upkeep'
 #: erpnext/assets/onboarding_step/create_asset_maintenance/create_asset_maintenance.json:5
-msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance)."
-msgstr "Wartung, Prüfungen und Kalibrierung, mit Erinnerungen an das zuständige Team. Siehe [Wartung Vermögenswert](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance)."
+msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
+msgstr "Wartung, Prüfungen und Kalibrierung, mit Erinnerungen an das zuständige Team. Siehe [Wartung Vermögenswert](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
 
 #. Label of the set_warehouse (Link) field in DocType 'Purchase Invoice'
 #: erpnext/accounts/doctype/purchase_invoice/purchase_invoice.json:582
@@ -58100,8 +58100,8 @@ msgstr "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
 
 #. Description of the Onboarding Step 'Record an asset you already own'
 #: erpnext/assets/onboarding_step/create_existing_asset/create_existing_asset.json:5
-msgid "Something you bought before using ERPNext, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.frappe.io/erpnext/user/manual/en/asset)."
-msgstr "Etwas, das Sie vor der Verwendung von thinkNXG ERP gekauft haben, mit dem gezahlten Betrag, dem Standort und dem bereits abgeschriebenen Wert. Siehe [Vermögensgegenstand](https://docs.frappe.io/erpnext/user/manual/en/asset)."
+msgid "Something you bought before using thinkNXG ERP, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
+msgstr "Etwas, das Sie vor der Verwendung von thinkNXG ERP gekauft haben, mit dem gezahlten Betrag, dem Standort und dem bereits abgeschriebenen Wert. Siehe [Vermögensgegenstand](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
 
 #. Description of a DocType
 #: erpnext/quality_management/doctype/quality_goal/quality_goal.json:5
@@ -58110,13 +58110,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a raw material'
 #: erpnext/manufacturing/onboarding_step/create_raw_materials/create_raw_materials.json:5
-msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Etwas, das Sie zur Herstellung Ihrer Produkte verwenden und das in der Gruppe Rohmaterial geführt wird. Siehe [Artikel](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Etwas, das Sie zur Herstellung Ihrer Produkte verwenden und das in der Gruppe Rohmaterial geführt wird. Siehe [Artikel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #. Description of the Onboarding Step 'Set a quality goal'
 #: erpnext/quality_management/onboarding_step/create_quality_goal/create_quality_goal.json:5
-msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
-msgstr "Etwas, das Sie messen und verbessern möchten, etwa pünktliche Lieferung oder Retouren, und das in einem von Ihnen gewählten Zeitplan überprüft wird. Siehe [Qualitätsmanagement](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
+msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgstr "Etwas, das Sie messen und verbessern möchten, etwa pünktliche Lieferung oder Retouren, und das in einem von Ihnen gewählten Zeitplan überprüft wird. Siehe [Qualitätsmanagement](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
 
 #. Description of a DocType
 #: erpnext/assets/doctype/asset/asset.json:7
@@ -59677,13 +59677,13 @@ msgstr "Lager gesperrt bis"
 
 #. Description of the Onboarding Step 'Ship to a customer'
 #: erpnext/stock/onboarding_step/create_delivery_note/create_delivery_note.json:5
-msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.frappe.io/erpnext/user/manual/en/delivery-note)."
-msgstr "Das Lager verringert sich, wenn die Waren es verlassen, und die Rechnung kann aus dem Lieferschein erstellt werden. Siehe [Lieferschein](https://docs.frappe.io/erpnext/user/manual/en/delivery-note)."
+msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)."
+msgstr "Das Lager verringert sich, wenn die Waren es verlassen, und die Rechnung kann aus dem Lieferschein erstellt werden. Siehe [Lieferschein](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)."
 
 #. Description of the Onboarding Step 'Receive goods from a supplier'
 #: erpnext/stock/onboarding_step/create_purchase_receipt/create_purchase_receipt.json:5
-msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt)."
-msgstr "Der Bestand im Lager, in das Sie die Waren annehmen, steigt, und die Rechnung kann aus dem Beleg erstellt werden. Siehe [Eingangsbeleg](https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt)."
+msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)."
+msgstr "Der Bestand im Lager, in das Sie die Waren annehmen, steigt, und die Rechnung kann aus dem Beleg erstellt werden. Siehe [Eingangsbeleg](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)."
 
 #: erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:1332
 #, python-brace-format
@@ -62659,8 +62659,8 @@ msgstr "Der Kontotyp von {0} kann nicht von {1} geändert werden, da Lagerbuchei
 
 #. Description of the Onboarding Step 'Add the bank account you use'
 #: erpnext/accounts/onboarding_step/add_bank_account/add_bank_account.json:5
-msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.frappe.io/erpnext/user/manual/en/bank-account)."
-msgstr "Das Konto, auf das Ihre Kunden zahlen und von dem Sie zahlen, verknüpft mit dem entsprechenden Konto in Ihrem Kontenplan. Siehe [Bankkonto](https://docs.frappe.io/erpnext/user/manual/en/bank-account)."
+msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)."
+msgstr "Das Konto, auf das Ihre Kunden zahlen und von dem Sie zahlen, verknüpft mit dem entsprechenden Konto in Ihrem Kontenplan. Siehe [Bankkonto](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)."
 
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.py:223
 #, python-brace-format
@@ -62706,8 +62706,8 @@ msgstr "Die Charge {0} ist für {1} im Lager {2} reserviert, und die verbleibend
 
 #. Description of the Onboarding Step 'Enter their bill'
 #: erpnext/buying/onboarding_step/create_purchase_invoice/create_purchase_invoice.json:5
-msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
-msgstr "Die Rechnung Ihres Lieferanten, damit Sie wissen, was Sie schulden und wann sie fällig ist. Siehe [Eingangsrechnung](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
+msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
+msgstr "Die Rechnung Ihres Lieferanten, damit Sie wissen, was Sie schulden und wann sie fällig ist. Siehe [Eingangsrechnung](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
 
 #: erpnext/controllers/taxes_and_totals.py:261
 msgid "The cash or non-trade discount cannot be combined with discounts carried from other documents."
@@ -62990,8 +62990,8 @@ msgstr "Die Jobkarte {0} befindet sich im Status {1} und Sie können sie nicht e
 
 #. Description of the Onboarding Step 'Add an asset item'
 #: erpnext/assets/onboarding_step/create_asset_item/create_asset_item.json:5
-msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Die Art von Gegenstand, die Sie besitzen, als Anlagevermögen markiert. Siehe [Artikel](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Die Art von Gegenstand, die Sie besitzen, als Anlagevermögen markiert. Siehe [Artikel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #: erpnext/accounts/doctype/bank_transaction_rule/bank_transaction_rule.py:129
 msgid "The last account row must not have any debit or credit amounts set."
@@ -63073,8 +63073,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Decide what to check'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:5
-msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection-template)."
-msgstr "Die Parameter für die Prüfung und was als Erfolgreich gilt, werden bei jeder Prüfung wiederverwendet. Siehe [Qualitätsinspektionsvorlage](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection-template)."
+msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)."
+msgstr "Die Parameter für die Prüfung und was als Erfolgreich gilt, werden bei jeder Prüfung wiederverwendet. Siehe [Qualitätsinspektionsvorlage](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)."
 
 #: erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:234
 #, python-brace-format
@@ -63153,10 +63153,10 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Write its bill of materials'
 #: erpnext/manufacturing/onboarding_step/create_bill_of_materials/create_bill_of_materials.json:5
-msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.frappe.io/erpnext/user/manual/en/bill-of-materials).\n\n"
-"Sending some of the work to a supplier? See [Subcontracting](https://docs.frappe.io/erpnext/user/manual/en/subcontracting)."
-msgstr "Die Rohmaterialien und die Menge jedes einzelnen, die in eine Einheit Ihres Produkts eingehen. Buchen Sie sie, um sie in der Produktion zu verwenden. Siehe [Stückliste](https://docs.frappe.io/erpnext/user/manual/en/bill-of-materials).\n\n"
-"Versenden Sie einen Teil der Arbeiten an einen Lieferanten? Siehe [Fremdvergabe](https://docs.frappe.io/erpnext/user/manual/en/subcontracting)."
+msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials).\n\n"
+"Sending some of the work to a supplier? See [Subcontracting](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)."
+msgstr "Die Rohmaterialien und die Menge jedes einzelnen, die in eine Einheit Ihres Produkts eingehen. Buchen Sie sie, um sie in der Produktion zu verwenden. Siehe [Stückliste](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials).\n\n"
+"Versenden Sie einen Teil der Arbeiten an einen Lieferanten? Siehe [Fremdvergabe](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)."
 
 #: banking/src/pages/BankStatementImporter.tsx:205
 msgid "The reference number of the transaction"
@@ -63255,13 +63255,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Write down how the work is done'
 #: erpnext/quality_management/onboarding_step/create_quality_procedure/create_quality_procedure.json:5
-msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
-msgstr "Die Schritte, denen Ihr Team folgt, damit die Arbeit jedes Mal auf die gleiche Weise erledigt wird. Siehe [Qualitätsmanagement](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
+msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgstr "Die Schritte, denen Ihr Team folgt, damit die Arbeit jedes Mal auf die gleiche Weise erledigt wird. Siehe [Qualitätsmanagement](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
 
 #: erpnext/stock/stock_ledger.py:1074
 #, python-brace-format
-msgid "The stock for the item {0} in the {1} warehouse was negative on the {2}. You should create a positive entry {3} before the date {4} and time {5} to post the correct valuation rate. For more details, please read the <a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>documentation<a>."
-msgstr "Der Bestand für den Artikel {0} im Lager {1} war am {2} negativ. Sie sollten einen positiven Eintrag {3} vor dem Datum {4} und der Uhrzeit {5} erstellen, um den korrekten Bewertungssatz zu buchen. Weitere Informationen finden Sie in der <a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>Dokumentation<a>."
+msgid "The stock for the item {0} in the {1} warehouse was negative on the {2}. You should create a positive entry {3} before the date {4} and time {5} to post the correct valuation rate. For more details, please read the <a href='https://docs.thinknxg.com/thinknxgerp/stock-adjustment-cogs-with-negative-stock'>documentation<a>."
+msgstr "Der Bestand für den Artikel {0} im Lager {1} war am {2} negativ. Sie sollten einen positiven Eintrag {3} vor dem Datum {4} und der Uhrzeit {5} erstellen, um den korrekten Bewertungssatz zu buchen. Weitere Informationen finden Sie in der <a href='https://docs.thinknxg.com/thinknxgerp/stock-adjustment-cogs-with-negative-stock'>Dokumentation<a>."
 
 #: erpnext/stock/doctype/stock_reconciliation/stock_reconciliation.py:829
 #, python-brace-format
@@ -63317,8 +63317,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Review your taxes'
 #: erpnext/accounts/onboarding_step/review_taxes/review_taxes.json:5
-msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.frappe.io/erpnext/user/manual/en/setting-up-taxes)."
-msgstr "Die Steuern, die auf jeder Rechnung eingetragen werden. Wir haben die Steuern Ihres Landes dort hinzugefügt, wo wir sie hatten; prüfen Sie, ob die Sätze mit den Sätzen übereinstimmen, die Sie berechnen. Einkaufssteuern finden Sie in der [Vorlage für Einkaufssteuern und -abgaben](/desk/purchase-taxes-and-charges-template). Siehe [Steuern einrichten](https://docs.frappe.io/erpnext/user/manual/en/setting-up-taxes)."
+msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)."
+msgstr "Die Steuern, die auf jeder Rechnung eingetragen werden. Wir haben die Steuern Ihres Landes dort hinzugefügt, wo wir sie hatten; prüfen Sie, ob die Sätze mit den Sätzen übereinstimmen, die Sie berechnen. Einkaufssteuern finden Sie in der [Vorlage für Einkaufssteuern und -abgaben](/desk/purchase-taxes-and-charges-template). Siehe [Steuern einrichten](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)."
 
 #: erpnext/stock/doctype/material_request/material_request.py:508
 #, python-brace-format
@@ -63503,8 +63503,8 @@ msgid "There are no transactions in the system for the selected bank account and
 msgstr "Im System gibt es keine Transaktionen für das ausgewählte Bankkonto und die Zeiträume, die den Filtern entsprechen."
 
 #: erpnext/stock/doctype/item/item.js:1505
-msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.frappe.io/erpnext/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
-msgstr "Es gibt zwei Möglichkeiten, die Bewertung des Lagerbestands zu verwalten: FIFO (first in - first out) und gleitender Durchschnitt. Um dieses Thema im Detail zu verstehen, besuchen Sie bitte <a href='https://docs.frappe.io/erpnext/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Artikelbewertung, FIFO und gleitender Durchschnitt.</a>"
+msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
+msgstr "Es gibt zwei Möglichkeiten, die Bewertung des Lagerbestands zu verwalten: FIFO (first in - first out) und gleitender Durchschnitt. Um dieses Thema im Detail zu verstehen, besuchen Sie bitte <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Artikelbewertung, FIFO und gleitender Durchschnitt.</a>"
 
 #: banking/src/components/features/BankReconciliation/MatchAndReconcile.tsx:980
 #, python-brace-format
@@ -69202,8 +69202,8 @@ msgstr "Die Grundlagen konnten nicht eingerichtet werden"
 
 #. Description of the Onboarding Step 'Review your warehouses'
 #: erpnext/stock/onboarding_step/setup_warehouse/setup_warehouse.json:5
-msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.frappe.io/erpnext/user/manual/en/warehouse)."
-msgstr "Wir haben vorab einige angelegt. Benennen Sie sie um oder fügen Sie die Orte hinzu, an denen Sie tatsächlich Lagerbestände führen. Siehe [Lager](https://docs.frappe.io/erpnext/user/manual/en/warehouse)."
+msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)."
+msgstr "Wir haben vorab einige angelegt. Benennen Sie sie um oder fügen Sie die Orte hinzu, an denen Sie tatsächlich Lagerbestände führen. Siehe [Lager](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)."
 
 #: erpnext/templates/emails/appointment_confirmed.html:3
 msgid "We look forward to meeting you"
@@ -69211,8 +69211,8 @@ msgstr "Wir freuen uns darauf, Sie zu treffen."
 
 #. Description of the Onboarding Step 'Review your chart of accounts'
 #: erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:5
-msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.frappe.io/erpnext/user/manual/en/chart-of-accounts)."
-msgstr "Wir haben einen Standardkontenplan für Ihr Land eingerichtet. Prüfen Sie, wie Ihre Konten gruppiert sind, und benennen Sie Konten um oder fügen Sie welche hinzu, damit sie zu Ihrer Berichterstattung passen. Siehe [Kontenplan](https://docs.frappe.io/erpnext/user/manual/en/chart-of-accounts)."
+msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)."
+msgstr "Wir haben einen Standardkontenplan für Ihr Land eingerichtet. Prüfen Sie, wie Ihre Konten gruppiert sind, und benennen Sie Konten um oder fügen Sie welche hinzu, damit sie zu Ihrer Berichterstattung passen. Siehe [Kontenplan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)."
 
 #: banking/src/pages/BankStatementImporter.tsx:169
 msgid "We support uploading CSV, XLSX, XLS and PDF files. Please make sure the file contains the correct columns."
@@ -69379,8 +69379,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a product you make'
 #: erpnext/manufacturing/onboarding_step/create_finished_goods/create_finished_goods.json:5
-msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "Was am Ende der Produktion herauskommt, wird in der Gruppe Produkte geführt. Siehe [Artikel](https://docs.frappe.io/erpnext/user/manual/en/item)."
+msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "Was am Ende der Produktion herauskommt, wird in der Gruppe Produkte geführt. Siehe [Artikel](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
 
 #: erpnext/templates/pages/help.html:12
 msgid "What do you need help with?"
@@ -69491,8 +69491,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Log a problem'
 #: erpnext/quality_management/onboarding_step/create_non_conformance/create_non_conformance.json:5
-msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.frappe.io/erpnext/user/manual/en/non-conformance)."
-msgstr "Wenn etwas nicht dem Verfahren entspricht, halten Sie fest, was passiert ist, die Ursache und welche Maßnahmen Sie ergreifen. Siehe [Nichtkonformität](https://docs.frappe.io/erpnext/user/manual/en/non-conformance)."
+msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)."
+msgstr "Wenn etwas nicht dem Verfahren entspricht, halten Sie fest, was passiert ist, die Ursache und welche Maßnahmen Sie ergreifen. Siehe [Nichtkonformität](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)."
 
 #: erpnext/stock/doctype/stock_entry/stock_entry.py:502
 #, python-brace-format
@@ -69507,8 +69507,8 @@ msgstr "Wenn Sie etwas im Voraus zahlen (z. B. eine Jahresversicherung), wird de
 
 #. Description of the Onboarding Step 'Get paid'
 #: erpnext/selling/onboarding_step/create_payment_entry/create_payment_entry.json:5
-msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
-msgstr "Wenn Ihr Kunde zahlt, erfassen Sie die Zahlung hier. Sie wird mit der Rechnung abgeglichen, sodass Sie sehen, was noch offen ist. Siehe [Zahlung](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
+msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
+msgstr "Wenn Ihr Kunde zahlt, erfassen Sie die Zahlung hier. Sie wird mit der Rechnung abgeglichen, sodass Sie sehen, was noch offen ist. Siehe [Zahlung](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
 
 #. Description of a DocType
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.json:6
@@ -69551,8 +69551,8 @@ msgstr "Für wen richten Sie das ein?"
 
 #. Description of the Onboarding Step 'Break it into tasks'
 #: erpnext/projects/onboarding_step/create_tasks/create_tasks.json:5
-msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.frappe.io/erpnext/user/manual/en/task)."
-msgstr "Wer macht was bis wann. Vorgänge fließen in den Fortschritt des Projekts ein. Siehe [Vorgang](https://docs.frappe.io/erpnext/user/manual/en/task)."
+msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)."
+msgstr "Wer macht was bis wann. Vorgänge fließen in den Fortschritt des Projekts ein. Siehe [Vorgang](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)."
 
 #. Description of a report in the Onboarding Step 'Follow up on unpaid
 #. invoices'
@@ -69562,8 +69562,8 @@ msgstr "Wer Ihnen wie viel schuldet und wie lange schon."
 
 #. Description of the Onboarding Step 'Follow up on unpaid invoices'
 #: erpnext/selling/onboarding_step/view_accounts_receivable/view_accounts_receivable.json:5
-msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.frappe.io/erpnext/user/manual/en/accounts-receivable)."
-msgstr "Wer Ihnen wie viel schuldet und wie lange schon. Siehe [Forderungen](https://docs.frappe.io/erpnext/user/manual/en/accounts-receivable)."
+msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)."
+msgstr "Wer Ihnen wie viel schuldet und wie lange schon. Siehe [Forderungen](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)."
 
 #. Description of the Onboarding Step 'Check what you owe'
 #: erpnext/buying/onboarding_step/view_accounts_payable/view_accounts_payable.json:5

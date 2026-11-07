@@ -755,8 +755,8 @@ msgstr "<div id=\\\"item-prices-container\\\"></div>"
 
 #. Content of the 'uom_help_html' (HTML) field in DocType 'Item'
 #: erpnext/stock/doctype/item/item.json:1083
-msgid "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Define alternate units for this item. Eg: 1 Box = 12 Nos, set conversion factor as 12. (Will also apply for variants) <a href=\"https://docs.frappe.io/erpnext/uom\" target=\"_blank\">Learn more &#8594;</a></div>"
-msgstr "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">为此物料定义备用单位。例如：1 箱 = 12 个，将换算系数设置为 12。（同样适用于多规格物料）<a href=\"https://docs.frappe.io/erpnext/uom\" target=\"_blank\">了解更多 &#8594;</a></div>"
+msgid "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">Define alternate units for this item. Eg: 1 Box = 12 Nos, set conversion factor as 12. (Will also apply for variants) <a href=\"https://docs.thinknxg.com/thinknxgerp/uom\" target=\"_blank\">Learn more &#8594;</a></div>"
+msgstr "<div style=\"margin-bottom:10px; color: var(--gray-500) !important;\">为此物料定义备用单位。例如：1 箱 = 12 个，将换算系数设置为 12。（同样适用于多规格物料）<a href=\"https://docs.thinknxg.com/thinknxgerp/uom\" target=\"_blank\">了解更多 &#8594;</a></div>"
 
 #. Content of the 'settings' (HTML) field in DocType 'Cheque Print Template'
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.json:56
@@ -1146,13 +1146,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a supplier'
 #: erpnext/buying/onboarding_step/create_supplier/create_supplier.json:5
-msgid "A business or person you buy from. See [Supplier](https://docs.frappe.io/erpnext/user/manual/en/supplier)."
-msgstr "您向其购买商品的企业或个人。请参阅[供应商](https://docs.frappe.io/erpnext/user/manual/en/supplier)。"
+msgid "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)."
+msgstr "您向其购买商品的企业或个人。请参阅[供应商](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)。"
 
 #. Description of the Onboarding Step 'Add a customer'
 #: erpnext/selling/onboarding_step/create_customer/create_customer.json:5
-msgid "A business or person you sell to. See [Customer](https://docs.frappe.io/erpnext/user/manual/en/customer)."
-msgstr "您向其销售商品的企业或个人。请参阅[客户](https://docs.frappe.io/erpnext/user/manual/en/customer)。"
+msgid "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)."
+msgstr "您向其销售商品的企业或个人。请参阅[客户](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)。"
 
 #: erpnext/public/js/sales_order_proforma.js:315
 msgid "A cancelled Proforma Invoice cannot be emailed."
@@ -1475,8 +1475,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add an item you sell'
 #: erpnext/selling/onboarding_step/create_selling_item/create_selling_item.json:5
-msgid "A product or a service you sell. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "您销售的产品或服务。请参阅[物料](https://docs.frappe.io/erpnext/user/manual/en/item)。"
+msgid "A product or a service you sell. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "您销售的产品或服务。请参阅[物料](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)。"
 
 #. Description of a DocType
 #: erpnext/stock/doctype/item/item.json:7
@@ -5451,7 +5451,7 @@ msgid "Allowed Users"
 msgstr "允许的用户"
 
 #: erpnext/crm/doctype/crm_settings/crm_settings.py:59
-msgid "Allowed Users is not required as Frappe CRM is already installed on the site."
+msgid "Allowed Users is not required as thinkNXG CRM is already installed on the site."
 msgstr "由于站点上已安装 thinkNXG CRM，因此无需填写“允许的用户”。"
 
 #: erpnext/crm/doctype/crm_settings/crm_settings.js:17
@@ -6151,13 +6151,13 @@ msgstr "需要至少一个过滤条件：仓库，物料号，或物料组"
 
 #. Description of the Onboarding Step 'Start a project'
 #: erpnext/projects/onboarding_step/create_project/create_project.json:5
-msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.frappe.io/erpnext/user/manual/en/project)."
-msgstr "任何有起止时间的事项：客户任务、安装、内部计划。请参阅[项目](https://docs.frappe.io/erpnext/user/manual/en/project)。"
+msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)."
+msgstr "任何有起止时间的事项：客户任务、安装、内部计划。请参阅[项目](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)。"
 
 #. Description of the Onboarding Step 'Add an item you stock'
 #: erpnext/stock/onboarding_step/create_item/create_item.json:5
-msgid "Anything you keep on shelves and count. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "任何需要存放在货架上并盘点的物品。请参阅[物料](https://docs.frappe.io/erpnext/user/manual/en/item)。"
+msgid "Anything you keep on shelves and count. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "任何需要存放在货架上并盘点的物品。请参阅[物料](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)。"
 
 #: erpnext/setup/setup_wizard/data/industry_type.txt:6
 msgid "Apparel & Accessories"
@@ -7378,8 +7378,8 @@ msgstr "已为{item_code}创建资产{assets_link}"
 
 #. Description of the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:5
-msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.frappe.io/erpnext/user/manual/en/balance-sheet)."
-msgstr "随时查看任意日期的资产、负债和权益，数据直接来自您的总账。请参阅[资产负债表](https://docs.frappe.io/erpnext/user/manual/en/balance-sheet)。"
+msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)."
+msgstr "随时查看任意日期的资产、负债和权益，数据直接来自您的总账。请参阅[资产负债表](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)。"
 
 #. Description of a report in the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:18
@@ -9649,8 +9649,8 @@ msgstr "物料清单"
 
 #. Description of the Onboarding Step 'Send your first invoice'
 #: erpnext/selling/onboarding_step/create_sales_invoice/create_sales_invoice.json:5
-msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.frappe.io/erpnext/user/manual/en/sales-invoice)."
-msgstr "为您的客户开具该物料的账单。提交后，可使用 **打印** 将其打印到纸张上，或将其作为 PDF 发送。参见 [销售发票](https://docs.frappe.io/erpnext/user/manual/en/sales-invoice)。"
+msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)."
+msgstr "为您的客户开具该物料的账单。提交后，可使用 **打印** 将其打印到纸张上，或将其作为 PDF 发送。参见 [销售发票](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)。"
 
 #. Option for the 'Status' (Select) field in DocType 'Timesheet'
 #: erpnext/controllers/website_list_for_contact.py:227
@@ -10588,8 +10588,8 @@ msgid "Buying must be checked, if Applicable For is selected as {0}"
 msgstr "“适用于”为{0}时必须勾选“采购”"
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:62
-msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
-msgstr "默认供应商名称按输入显示。若要通过<a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>编号规则</a>命名供应商，请选择'编号规则'选项"
+msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.thinknxg.com/thinknxgerp/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
+msgstr "默认供应商名称按输入显示。若要通过<a href='https://docs.thinknxg.com/thinknxgerp/naming-series' target='_blank'>编号规则</a>命名供应商，请选择'编号规则'选项"
 
 #. Option for the 'Type' (Select) field in DocType 'BOM Secondary Item'
 #. Option for the 'Type' (Select) field in DocType 'Job Card Secondary Item'
@@ -13709,8 +13709,8 @@ msgstr "公司{}与POS配置公司{}不匹配"
 
 #. Description of the Onboarding Step 'Review how a goal is going'
 #: erpnext/quality_management/onboarding_step/create_quality_review/create_quality_review.json:5
-msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
-msgstr "将结果与目标进行比较，并决定需要更改的内容。请参阅[质量管理](https://docs.frappe.io/erpnext/user/manual/en/quality-management)。"
+msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgstr "将结果与目标进行比较，并决定需要更改的内容。请参阅[质量管理](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)。"
 
 #: erpnext/manufacturing/doctype/bom_creator/bom_creator.js:100
 msgid "Compare with Previous Revision"
@@ -13913,8 +13913,8 @@ msgstr "电脑"
 
 #. Description of the Onboarding Step 'Set up an asset category'
 #: erpnext/assets/onboarding_step/create_asset_category/create_asset_category.json:5
-msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.frappe.io/erpnext/user/manual/en/asset-category)."
-msgstr "计算机、车辆、家具：每种类型的折旧方式以及对应入账的科目。请参阅[资产类别](https://docs.frappe.io/erpnext/user/manual/en/asset-category)。"
+msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)."
+msgstr "计算机、车辆、家具：每种类型的折旧方式以及对应入账的科目。请参阅[资产类别](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)。"
 
 #. Label of the condition (Code) field in DocType 'Inventory Dimension'
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.json:89
@@ -13992,8 +13992,8 @@ msgstr "重置过账日期前请确认"
 
 #. Description of the Onboarding Step 'Confirm a sales order'
 #: erpnext/selling/onboarding_step/create_sales_order/create_sales_order.json:5
-msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.frappe.io/erpnext/user/manual/en/sales-order)."
-msgstr "确认客户所下的订单内容及交付日期。直接从订单本身进行发货和开票。请参阅[销售订单](https://docs.frappe.io/erpnext/user/manual/en/sales-order)。"
+msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)."
+msgstr "确认客户所下的订单内容及交付日期。直接从订单本身进行发货和开票。请参阅[销售订单](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)。"
 
 #. Label of the final_confirmation_date (Date) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:326
@@ -17681,8 +17681,8 @@ msgstr "应收账款"
 
 #. Description of the Onboarding Step 'Plan a work order'
 #: erpnext/manufacturing/onboarding_step/create_work_order/create_work_order.json:5
-msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.frappe.io/erpnext/user/manual/en/work-order)."
-msgstr "确定要生产的数量。所需原材料根据物料清单（BOM）计算得出。请参阅[生产工单](https://docs.frappe.io/erpnext/user/manual/en/work-order)。"
+msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)."
+msgstr "确定要生产的数量。所需原材料根据物料清单（BOM）计算得出。请参阅[生产工单](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)。"
 
 #. Title of an Onboarding Step
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:19
@@ -19169,8 +19169,8 @@ msgstr "通过冲销消除折旧"
 
 #. Description of the Onboarding Step 'Check its depreciation'
 #: erpnext/assets/onboarding_step/view_asset_depreciation/view_asset_depreciation.json:5
-msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.frappe.io/erpnext/user/manual/en/asset-depreciation)."
-msgstr "折旧将按计划逐项过账，无需您手动创建日记账凭证。请参阅[折旧](https://docs.frappe.io/erpnext/user/manual/en/asset-depreciation)。"
+msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)."
+msgstr "折旧将按计划逐项过账，无需您手动创建日记账凭证。请参阅[折旧](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)。"
 
 #. Label of the description_rules (Table) field in DocType 'Bank Transaction
 #. Rule'
@@ -22045,8 +22045,8 @@ msgstr "已过账的每一笔折旧，逐项资产列示。"
 
 #. Description of the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:5
-msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.frappe.io/erpnext/user/manual/en/stock-ledger)."
-msgstr "每件物料的每一次移动，入库和出库，并列出每次移动后的余额。参见[库存分类账](https://docs.frappe.io/erpnext/user/manual/en/stock-ledger)。"
+msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
+msgstr "每件物料的每一次移动，入库和出库，并列出每次移动后的余额。参见[库存分类账](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)。"
 
 #. Description of a report in the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:17
@@ -22055,8 +22055,8 @@ msgstr "每件物料的每一次移动，入库和出库。"
 
 #. Description of the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:5
-msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.frappe.io/erpnext/user/manual/en/general-ledger)."
-msgstr "来自您的发票和付款的每一笔过账，及其借方和贷方。参见[总账](https://docs.frappe.io/erpnext/user/manual/en/general-ledger)。"
+msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
+msgstr "来自您的发票和付款的每一笔过账，及其借方和贷方。参见[总账](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)。"
 
 #. Description of a report in the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:18
@@ -22075,8 +22075,8 @@ msgstr "所有生产工单、其进度以及延迟的工单。"
 
 #. Description of the Onboarding Step 'See how production is going'
 #: erpnext/manufacturing/onboarding_step/view_work_order_summary_report/view_work_order_summary_report.json:5
-msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.frappe.io/erpnext/user/manual/en/work-order-summary)."
-msgstr "所有生产工单、其进度以及正在延迟的工单。请参阅[生产工单汇总](https://docs.frappe.io/erpnext/user/manual/en/work-order-summary)。"
+msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)."
+msgstr "所有生产工单、其进度以及正在延迟的工单。请参阅[生产工单汇总](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)。"
 
 #. Title of an incoterm
 #: erpnext/setup/doctype/incoterm/incoterms.csv:2
@@ -23954,8 +23954,8 @@ msgstr "物料 {0} 其数量必须为正数"
 
 #. Description of the Onboarding Step 'Post a journal entry'
 #: erpnext/accounts/onboarding_step/create_journal_entry/create_journal_entry.json:5
-msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.frappe.io/erpnext/user/manual/en/journal-entry)."
-msgstr "适用于既非发票也非付款的情况：预提、折旧或更正错误。请参阅[日记账凭证](https://docs.frappe.io/erpnext/user/manual/en/journal-entry)。"
+msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)."
+msgstr "适用于既非发票也非付款的情况：预提、折旧或更正错误。请参阅[日记账凭证](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)。"
 
 #. Description of the 'Income Account' (Link) field in DocType 'Dunning'
 #: erpnext/accounts/doctype/dunning/dunning.json:245
@@ -24194,7 +24194,7 @@ msgid "thinkNXG CRM data synchronization is not enabled on thinkNXG ERP. Contact
 msgstr "thinkNXG ERP 未启用 thinkNXG CRM 数据同步。请联系 thinkNXG ERP 的系统管理员。"
 
 #: erpnext/setup/install.py:237
-msgid "Frappe School"
+msgid "thinkNXG School"
 msgstr "Frappe 学院"
 
 #. Title of an incoterm
@@ -24570,8 +24570,8 @@ msgstr "起始日期不能晚于截止日期"
 
 #. Description of the Onboarding Step 'Move stock between warehouses'
 #: erpnext/stock/onboarding_step/move_stock/move_stock.json:5
-msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
-msgstr "从仓库到生产车间，或在分支机构之间。请参阅[物料移动](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)。"
+msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
+msgstr "从仓库到生产车间，或在分支机构之间。请参阅[物料移动](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)。"
 
 #: erpnext/accounts/doctype/shipping_rule/shipping_rule.py:91
 #, python-brace-format
@@ -25333,8 +25333,8 @@ msgstr "出库移动物料{0}已收货"
 
 #. Description of the Onboarding Step 'Add an item you buy'
 #: erpnext/buying/onboarding_step/create_buying_item/create_buying_item.json:5
-msgid "Goods or services you buy from suppliers. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "您向供应商采购的货物或服务。请参阅[物料](https://docs.frappe.io/erpnext/user/manual/en/item)。"
+msgid "Goods or services you buy from suppliers. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "您向供应商采购的货物或服务。请参阅[物料](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)。"
 
 #: erpnext/setup/setup_wizard/operations/install_fixtures.py:193
 msgid "Government"
@@ -26280,8 +26280,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Enter the stock you have today'
 #: erpnext/stock/onboarding_step/create_opening_stock/create_opening_stock.json:5
-msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.frappe.io/erpnext/user/manual/en/stock-reconciliation)."
-msgstr "每种物料在货架上的数量及其价值。从此处开始，每次入库和出货都会自动更新。请参阅[库存调账](https://docs.frappe.io/erpnext/user/manual/en/stock-reconciliation)。"
+msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
+msgstr "每种物料在货架上的数量及其价值。从此处开始，每次入库和出货都会自动更新。请参阅[库存调账](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)。"
 
 #. Description of a DocType
 #: erpnext/manufacturing/doctype/master_production_schedule/master_production_schedule.json:6
@@ -26602,17 +26602,17 @@ msgstr "如果启用，则在创建自动序列 \n"
 #. DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:420
 msgid "If enabled, formula for <b>Qty to Order</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "若启用，<b>订购数量</b>计算公式： <br>\n"
-"需求数量（物料清单） -<a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">预计数量</a>。 <br> 以避免过量订购。"
+"需求数量（物料清单） -<a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">预计数量</a>。 <br> 以避免过量订购。"
 
 #. Description of the 'Consider Projected Qty in Calculation (RM)' (Check)
 #. field in DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:238
 msgid "If enabled, formula for <b>Required Qty</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "若启用，<b>需求数量</b>计算公式： <br>\n"
-"需求数量（物料清单） -<a href=\"https://docs.frappe.io/erpnext/user/manual/en/projected-quantity\">预计数量</a>。 <br> 以避免过量订购。"
+"需求数量（物料清单） -<a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">预计数量</a>。 <br> 以避免过量订购。"
 
 #. Description of the 'Create Ledger Entries for Change Amount' (Check) field
 #. in DocType 'POS Settings'
@@ -27160,8 +27160,8 @@ msgstr "使用CSV文件导入"
 
 #. Description of the Onboarding Step 'Match your bank statement'
 #: erpnext/accounts/onboarding_step/open_banking/open_banking.json:5
-msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.frappe.io/erpnext/user/manual/en/bank-reconciliation)."
-msgstr "从银行导入对账单，并将每一行与一笔付款对应，使您的账簿与其保持一致。请参阅[银行对账](https://docs.frappe.io/erpnext/user/manual/en/bank-reconciliation)。"
+msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)."
+msgstr "从银行导入对账单，并将每一行与一笔付款对应，使您的账簿与其保持一致。请参阅[银行对账](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)。"
 
 #: erpnext/edi/doctype/code_list/code_list_import.js:131
 #, python-brace-format
@@ -29858,8 +29858,8 @@ msgstr "合并后的物料库存数量更新可能需几个小时"
 
 #. Description of the Onboarding Step 'Pay your supplier'
 #: erpnext/buying/onboarding_step/pay_supplier/pay_supplier.json:5
-msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
-msgstr "它会结清供应商的账单，并从您的银行或现金账户中扣除相应金额。请参阅[收付款凭证](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)。"
+msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
+msgstr "它会结清供应商的账单，并从您的银行或现金账户中扣除相应金额。请参阅[收付款凭证](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)。"
 
 #: erpnext/stock/report/stock_valuation_comparison/stock_valuation_comparison.py:533
 #: erpnext/stock/valuation_adjustment.py:391
@@ -29872,8 +29872,8 @@ msgstr "以获取物料详细信息。"
 
 #. Description of the Onboarding Step 'Enter a supplier's bill'
 #: erpnext/accounts/onboarding_step/create_accounting_purchase_invoice/create_accounting_purchase_invoice.json:5
-msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
-msgstr "它会将费用以及应付供应商的款项记入您的账簿。请参阅[采购发票](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)。"
+msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
+msgstr "它会将费用以及应付供应商的款项记入您的账簿。请参阅[采购发票](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)。"
 
 #: banking/src/components/features/BankReconciliation/BankBalance.tsx:138
 msgid "It takes into account all the transactions that have been posted and subtracts the transactions that have not cleared yet."
@@ -32366,8 +32366,8 @@ msgstr "信息帮助你的业务，你所有的联系人和更添加为您的线
 #. Description of the 'Enable Common Party Accounting' (Check) field in DocType
 #. 'Accounts Settings'
 #: erpnext/accounts/doctype/accounts_settings/accounts_settings.json:321
-msgid "Learn about <a href=\"https://docs.frappe.io/erpnext/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
-msgstr "了解 <a href=\"https://docs.frappe.io/erpnext/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">合并记账功能</a>"
+msgid "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
+msgstr "了解 <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">合并记账功能</a>"
 
 #. Label of the leave_encashed (Select) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:651
@@ -36949,8 +36949,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Record a supplier's quote'
 #: erpnext/buying/onboarding_step/create_supplier_quotation/create_supplier_quotation.json:5
-msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.frappe.io/erpnext/user/manual/en/supplier-quotation)."
-msgstr "记下供应商报价，以便在下单前比较供应商。请参阅 [供应商报价](https://docs.frappe.io/erpnext/user/manual/en/supplier-quotation)。"
+msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)."
+msgstr "记下供应商报价，以便在下单前比较供应商。请参阅 [供应商报价](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)。"
 
 #: erpnext/manufacturing/doctype/bom_update_log/bom_update_log_list.js:21
 msgid "Note: Automatic log deletion only applies to logs of type <i>Update Cost</i>"
@@ -37403,8 +37403,8 @@ msgstr "不能恢复已关闭工单"
 
 #. Description of the Onboarding Step 'Quote a price'
 #: erpnext/selling/onboarding_step/create_quotation/create_quotation.json:5
-msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.frappe.io/erpnext/user/manual/en/quotation)."
-msgstr "客户同意后，可直接从报价单转换为销售订单或发票。请参阅[报价单](https://docs.frappe.io/erpnext/user/manual/en/quotation)。"
+msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)."
+msgstr "客户同意后，可直接从报价单转换为销售订单或发票。请参阅[报价单](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)。"
 
 #: erpnext/accounts/doctype/loyalty_program/loyalty_program.js:39
 msgid "One customer can be part of only single Loyalty Program."
@@ -38578,8 +38578,8 @@ msgstr "订单价值"
 
 #. Description of the Onboarding Step 'Place a purchase order'
 #: erpnext/buying/onboarding_step/create_purchase_order/create_purchase_order.json:5
-msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.frappe.io/erpnext/user/manual/en/purchase-order)."
-msgstr "向供应商下单。货物到达后，进行收货，并直接从该订单中录入账单。请参阅[采购订单](https://docs.frappe.io/erpnext/user/manual/en/purchase-order)。"
+msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)."
+msgstr "向供应商下单。货物到达后，进行收货，并直接从该订单中录入账单。请参阅[采购订单](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)。"
 
 #. Title of the Module Onboarding 'Buying Onboarding'
 #. Title of an Onboarding Step
@@ -42369,7 +42369,7 @@ msgid "Please add atleast one Serial No / Batch No"
 msgstr "请至少添加一个序列号/批次号"
 
 #: erpnext/crm/doctype/crm_settings/crm_settings.py:54
-msgid "Please add atleast one user on Allowed Users to allow Data Synchronization from Frappe CRM site."
+msgid "Please add atleast one user on Allowed Users to allow Data Synchronization from thinkNXG CRM site."
 msgstr "请至少在“允许的用户”中添加一位用户，以允许从 thinkNXG CRM 站点同步数据。"
 
 #: erpnext/accounts/doctype/bank_statement_import/bank_statement_import.py:85
@@ -48420,8 +48420,8 @@ msgstr "原材料 {0} 已映射到 {1}，而 {1} 不是此条目的成品"
 
 #. Description of the Onboarding Step 'Finish making it'
 #: erpnext/manufacturing/onboarding_step/finish_work_order/finish_work_order.json:5
-msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)."
-msgstr "原材料出库，成品入库。在生产工单中点击**完成**即可为您自动填写。参见[物料移动](https://docs.frappe.io/erpnext/user/manual/en/stock-entry)。"
+msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
+msgstr "原材料出库，成品入库。在生产工单中点击**完成**即可为您自动填写。参见[物料移动](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)。"
 
 #. Description of the 'Validate consumed quantity (as per BOM)' (Check) field
 #. in DocType 'Buying Settings'
@@ -49038,18 +49038,18 @@ msgstr "记录向其他银行/信用卡/现金账户的内部调拨。"
 
 #. Description of the Onboarding Step 'Log time against it'
 #: erpnext/projects/onboarding_step/create_timesheet/create_timesheet.json:5
-msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.frappe.io/erpnext/user/manual/en/timesheets)."
-msgstr "记录在任务上花费的工时。可将其计入客户账单，或用于计算项目成本。请参阅[工时表](https://docs.frappe.io/erpnext/user/manual/en/timesheets)。"
+msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)."
+msgstr "记录在任务上花费的工时。可将其计入客户账单，或用于计算项目成本。请参阅[工时表](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)。"
 
 #. Description of the Onboarding Step 'Inspect goods coming in or going out'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection/create_quality_inspection.json:5
-msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection)."
-msgstr "针对入库单或出货单记录检验结果，并接收或拒收货物。请参阅[质检单](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection)。"
+msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)."
+msgstr "针对入库单或出货单记录检验结果，并接收或拒收货物。请参阅[质检单](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)。"
 
 #. Description of the Onboarding Step 'Hand it to a person or place'
 #: erpnext/assets/onboarding_step/create_asset_movement/create_asset_movement.json:5
-msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.frappe.io/erpnext/user/manual/en/asset-movement)."
-msgstr "请记录该资产的持有人及存放位置，以便随时掌握。参见[资产调拨](https://docs.frappe.io/erpnext/user/manual/en/asset-movement)。"
+msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)."
+msgstr "请记录该资产的持有人及存放位置，以便随时掌握。参见[资产调拨](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)。"
 
 #. Label of the recording_html (HTML) field in DocType 'Call Log'
 #: erpnext/telephony/doctype/call_log/call_log.json:91
@@ -49374,8 +49374,8 @@ msgstr "定期"
 
 #. Description of the Onboarding Step 'Plan maintenance visits'
 #: erpnext/quality_management/onboarding_step/create_maintenance_schedule/create_maintenance_schedule.json:5
-msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.frappe.io/erpnext/user/manual/en/maintenance-schedule)."
-msgstr "为您已售设备安排定期服务拜访，并在整个合同期内提前规划。参见[维护巡修计划](https://docs.frappe.io/erpnext/user/manual/en/maintenance-schedule)。"
+msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)."
+msgstr "为您已售设备安排定期服务拜访，并在整个合同期内提前规划。参见[维护巡修计划](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)。"
 
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.py:214
 msgid "Rejected "
@@ -54741,8 +54741,8 @@ msgstr "按客户、物料或区域查看任意期间的销售情况。"
 
 #. Description of the Onboarding Step 'Spot your best sellers'
 #: erpnext/selling/onboarding_step/view_sales_analytics/view_sales_analytics.json:5
-msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.frappe.io/erpnext/user/manual/en/sales-analytics)."
-msgstr "按客户、物料或区域查看任意期间的销售情况。请参阅[销售分析](https://docs.frappe.io/erpnext/user/manual/en/sales-analytics)。"
+msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
+msgstr "按客户、物料或区域查看任意期间的销售情况。请参阅[销售分析](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)。"
 
 #: erpnext/manufacturing/doctype/production_plan/production_plan.py:268
 msgid "Sales orders are not available for production"
@@ -56725,8 +56725,8 @@ msgstr "服务"
 
 #. Description of the Onboarding Step 'Schedule its upkeep'
 #: erpnext/assets/onboarding_step/create_asset_maintenance/create_asset_maintenance.json:5
-msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance)."
-msgstr "维修保养、检验和校准，并向负责的团队发送提醒。请参阅[资产保养](https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance)。"
+msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
+msgstr "维修保养、检验和校准，并向负责的团队发送提醒。请参阅[资产保养](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)。"
 
 #. Label of the set_warehouse (Link) field in DocType 'Purchase Invoice'
 #: erpnext/accounts/doctype/purchase_invoice/purchase_invoice.json:582
@@ -58091,8 +58091,8 @@ msgstr "发生错误，请重试"
 
 #. Description of the Onboarding Step 'Record an asset you already own'
 #: erpnext/assets/onboarding_step/create_existing_asset/create_existing_asset.json:5
-msgid "Something you bought before using ERPNext, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.frappe.io/erpnext/user/manual/en/asset)."
-msgstr "您在使用 thinkNXG ERP 之前购买的物品，包括已付金额、存放位置以及已折旧的金额。请参阅 [资产](https://docs.frappe.io/erpnext/user/manual/en/asset)。"
+msgid "Something you bought before using thinkNXG ERP, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
+msgstr "您在使用 thinkNXG ERP 之前购买的物品，包括已付金额、存放位置以及已折旧的金额。请参阅 [资产](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)。"
 
 #. Description of a DocType
 #: erpnext/quality_management/doctype/quality_goal/quality_goal.json:5
@@ -58101,13 +58101,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a raw material'
 #: erpnext/manufacturing/onboarding_step/create_raw_materials/create_raw_materials.json:5
-msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "用于生产产品的物料，保存在原材料组中。请参阅 [物料](https://docs.frappe.io/erpnext/user/manual/en/item)。"
+msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "用于生产产品的物料，保存在原材料组中。请参阅 [物料](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)。"
 
 #. Description of the Onboarding Step 'Set a quality goal'
 #: erpnext/quality_management/onboarding_step/create_quality_goal/create_quality_goal.json:5
-msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
-msgstr "您希望衡量和改进的事项，例如准时交货或退货，并可按您选择的计划进行审查。请参阅 [质量管理](https://docs.frappe.io/erpnext/user/manual/en/quality-management)。"
+msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgstr "您希望衡量和改进的事项，例如准时交货或退货，并可按您选择的计划进行审查。请参阅 [质量管理](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)。"
 
 #. Description of a DocType
 #: erpnext/assets/doctype/asset/asset.json:7
@@ -59668,13 +59668,13 @@ msgstr "库存冻结至"
 
 #. Description of the Onboarding Step 'Ship to a customer'
 #: erpnext/stock/onboarding_step/create_delivery_note/create_delivery_note.json:5
-msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.frappe.io/erpnext/user/manual/en/delivery-note)."
-msgstr "货物出库时库存减少，发票可以根据出货创建。请参阅[销售出库](https://docs.frappe.io/erpnext/user/manual/en/delivery-note)。"
+msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)."
+msgstr "货物出库时库存减少，发票可以根据出货创建。请参阅[销售出库](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)。"
 
 #. Description of the Onboarding Step 'Receive goods from a supplier'
 #: erpnext/stock/onboarding_step/create_purchase_receipt/create_purchase_receipt.json:5
-msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt)."
-msgstr "在接收货物的仓库中，库存增加，账单可以根据入库单创建。请参阅[采购入库](https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt)。"
+msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)."
+msgstr "在接收货物的仓库中，库存增加，账单可以根据入库单创建。请参阅[采购入库](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)。"
 
 #: erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:1332
 #, python-brace-format
@@ -62650,8 +62650,8 @@ msgstr "由于存在与 {0} 相关的物料凭证，其科目类型无法从 {1}
 
 #. Description of the Onboarding Step 'Add the bank account you use'
 #: erpnext/accounts/onboarding_step/add_bank_account/add_bank_account.json:5
-msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.frappe.io/erpnext/user/manual/en/bank-account)."
-msgstr "客户付款和您付款所使用的账户，并关联到会计科目表中对应的科目。请参阅[银行账户](https://docs.frappe.io/erpnext/user/manual/en/bank-account)。"
+msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)."
+msgstr "客户付款和您付款所使用的账户，并关联到会计科目表中对应的科目。请参阅[银行账户](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)。"
 
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.py:223
 #, python-brace-format
@@ -62697,8 +62697,8 @@ msgstr "批次 {0} 已在仓库 {2} 中预留给 {1}，且剩余数量不足以�
 
 #. Description of the Onboarding Step 'Enter their bill'
 #: erpnext/buying/onboarding_step/create_purchase_invoice/create_purchase_invoice.json:5
-msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)."
-msgstr "供应商发送的账单，方便您了解应付金额和到期时间。请参阅[采购发票](https://docs.frappe.io/erpnext/user/manual/en/purchase-invoice)。"
+msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
+msgstr "供应商发送的账单，方便您了解应付金额和到期时间。请参阅[采购发票](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)。"
 
 #: erpnext/controllers/taxes_and_totals.py:261
 msgid "The cash or non-trade discount cannot be combined with discounts carried from other documents."
@@ -62981,8 +62981,8 @@ msgstr "工序卡{0}处于{1}状态，无法重新启动"
 
 #. Description of the Onboarding Step 'Add an asset item'
 #: erpnext/assets/onboarding_step/create_asset_item/create_asset_item.json:5
-msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "您拥有的、标记为固定资产的物品种类。请参阅 [物料](https://docs.frappe.io/erpnext/user/manual/en/item)。"
+msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "您拥有的、标记为固定资产的物品种类。请参阅 [物料](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)。"
 
 #: erpnext/accounts/doctype/bank_transaction_rule/bank_transaction_rule.py:129
 msgid "The last account row must not have any debit or credit amounts set."
@@ -63064,8 +63064,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Decide what to check'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:5
-msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection-template)."
-msgstr "要检验的参数以及何为通过的标准，每次检验时都会重复使用。请参阅 [质检模板](https://docs.frappe.io/erpnext/user/manual/en/quality-inspection-template)。"
+msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)."
+msgstr "要检验的参数以及何为通过的标准，每次检验时都会重复使用。请参阅 [质检模板](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)。"
 
 #: erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:234
 #, python-brace-format
@@ -63144,10 +63144,10 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Write its bill of materials'
 #: erpnext/manufacturing/onboarding_step/create_bill_of_materials/create_bill_of_materials.json:5
-msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.frappe.io/erpnext/user/manual/en/bill-of-materials).\n\n"
-"Sending some of the work to a supplier? See [Subcontracting](https://docs.frappe.io/erpnext/user/manual/en/subcontracting)."
-msgstr "原材料及其每个单位产品所需的数量。提交后即可用于生产。请参阅 [物料清单](https://docs.frappe.io/erpnext/user/manual/en/bill-of-materials)。\n\n"
-"将部分工序外发给供应商？请参阅 [委外](https://docs.frappe.io/erpnext/user/manual/en/subcontracting)。"
+msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials).\n\n"
+"Sending some of the work to a supplier? See [Subcontracting](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)."
+msgstr "原材料及其每个单位产品所需的数量。提交后即可用于生产。请参阅 [物料清单](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials)。\n\n"
+"将部分工序外发给供应商？请参阅 [委外](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)。"
 
 #: banking/src/pages/BankStatementImporter.tsx:205
 msgid "The reference number of the transaction"
@@ -63246,13 +63246,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Write down how the work is done'
 #: erpnext/quality_management/onboarding_step/create_quality_procedure/create_quality_procedure.json:5
-msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.frappe.io/erpnext/user/manual/en/quality-management)."
-msgstr "团队遵循的步骤，确保每次都以相同的方式完成工作。请参阅[质量管理](https://docs.frappe.io/erpnext/user/manual/en/quality-management)。"
+msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgstr "团队遵循的步骤，确保每次都以相同的方式完成工作。请参阅[质量管理](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)。"
 
 #: erpnext/stock/stock_ledger.py:1074
 #, python-brace-format
-msgid "The stock for the item {0} in the {1} warehouse was negative on the {2}. You should create a positive entry {3} before the date {4} and time {5} to post the correct valuation rate. For more details, please read the <a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>documentation<a>."
-msgstr "{2}时，仓库{1}中物料{0}的库存为负数。您应在日期{4}和时间{5}之前创建一个正数条目{3}，以过账正确的成本价。如需更多详情，请阅读<a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>文档<a>。"
+msgid "The stock for the item {0} in the {1} warehouse was negative on the {2}. You should create a positive entry {3} before the date {4} and time {5} to post the correct valuation rate. For more details, please read the <a href='https://docs.thinknxg.com/thinknxgerp/stock-adjustment-cogs-with-negative-stock'>documentation<a>."
+msgstr "{2}时，仓库{1}中物料{0}的库存为负数。您应在日期{4}和时间{5}之前创建一个正数条目{3}，以过账正确的成本价。如需更多详情，请阅读<a href='https://docs.thinknxg.com/thinknxgerp/stock-adjustment-cogs-with-negative-stock'>文档<a>。"
 
 #: erpnext/stock/doctype/stock_reconciliation/stock_reconciliation.py:829
 #, python-brace-format
@@ -63308,8 +63308,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Review your taxes'
 #: erpnext/accounts/onboarding_step/review_taxes/review_taxes.json:5
-msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.frappe.io/erpnext/user/manual/en/setting-up-taxes)."
-msgstr "每张发票上填写的税费。我们已在有数据的地方添加了您所在国家的税费；请检查税率是否与您的收费标准一致。采购税费请见[采购税费模板](/desk/purchase-taxes-and-charges-template)。请参阅[设置税费](https://docs.frappe.io/erpnext/user/manual/en/setting-up-taxes)。"
+msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)."
+msgstr "每张发票上填写的税费。我们已在有数据的地方添加了您所在国家的税费；请检查税率是否与您的收费标准一致。采购税费请见[采购税费模板](/desk/purchase-taxes-and-charges-template)。请参阅[设置税费](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)。"
 
 #: erpnext/stock/doctype/material_request/material_request.py:508
 #, python-brace-format
@@ -63494,8 +63494,8 @@ msgid "There are no transactions in the system for the selected bank account and
 msgstr "系统中没有符合所选银行账户及日期筛选条件的交易。"
 
 #: erpnext/stock/doctype/item/item.js:1505
-msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.frappe.io/erpnext/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
-msgstr "库存计价有两种方法：先进先出（FIFO）和移动平均。详情请参阅<a href='https://docs.frappe.io/erpnext/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>物料计价方法</a>"
+msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
+msgstr "库存计价有两种方法：先进先出（FIFO）和移动平均。详情请参阅<a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>物料计价方法</a>"
 
 #: banking/src/components/features/BankReconciliation/MatchAndReconcile.tsx:980
 #, python-brace-format
@@ -69193,8 +69193,8 @@ msgstr "无法完成基础设置"
 
 #. Description of the Onboarding Step 'Review your warehouses'
 #: erpnext/stock/onboarding_step/setup_warehouse/setup_warehouse.json:5
-msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.frappe.io/erpnext/user/manual/en/warehouse)."
-msgstr "我们为您预先创建了几个仓库。您可以重命名它们，或添加实际存放库存的地点。请参阅[仓库](https://docs.frappe.io/erpnext/user/manual/en/warehouse)。"
+msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)."
+msgstr "我们为您预先创建了几个仓库。您可以重命名它们，或添加实际存放库存的地点。请参阅[仓库](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)。"
 
 #: erpnext/templates/emails/appointment_confirmed.html:3
 msgid "We look forward to meeting you"
@@ -69202,8 +69202,8 @@ msgstr "我们期待与您见面。"
 
 #. Description of the Onboarding Step 'Review your chart of accounts'
 #: erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:5
-msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.frappe.io/erpnext/user/manual/en/chart-of-accounts)."
-msgstr "我们已为您所在的国家设置了标准会计科目表。请查看科目的分组方式，并根据您的报表需要重命名或添加科目。请参阅[会计科目表](https://docs.frappe.io/erpnext/user/manual/en/chart-of-accounts)。"
+msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)."
+msgstr "我们已为您所在的国家设置了标准会计科目表。请查看科目的分组方式，并根据您的报表需要重命名或添加科目。请参阅[会计科目表](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)。"
 
 #: banking/src/pages/BankStatementImporter.tsx:169
 msgid "We support uploading CSV, XLSX, XLS and PDF files. Please make sure the file contains the correct columns."
@@ -69370,8 +69370,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a product you make'
 #: erpnext/manufacturing/onboarding_step/create_finished_goods/create_finished_goods.json:5
-msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.frappe.io/erpnext/user/manual/en/item)."
-msgstr "生产完成后产出的物料，保存在“产品”组中。请参阅[物料](https://docs.frappe.io/erpnext/user/manual/en/item)。"
+msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgstr "生产完成后产出的物料，保存在“产品”组中。请参阅[物料](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)。"
 
 #: erpnext/templates/pages/help.html:12
 msgid "What do you need help with?"
@@ -69482,8 +69482,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Log a problem'
 #: erpnext/quality_management/onboarding_step/create_non_conformance/create_non_conformance.json:5
-msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.frappe.io/erpnext/user/manual/en/non-conformance)."
-msgstr "当某事不符合程序时，请记录发生的情况、原因以及您将采取的措施。请参阅[不合格报告单](https://docs.frappe.io/erpnext/user/manual/en/non-conformance)。"
+msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)."
+msgstr "当某事不符合程序时，请记录发生的情况、原因以及您将采取的措施。请参阅[不合格报告单](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)。"
 
 #: erpnext/stock/doctype/stock_entry/stock_entry.py:502
 #, python-brace-format
@@ -69498,8 +69498,8 @@ msgstr "当你预先支付某项费用（例如年度保险）时，这笔费用
 
 #. Description of the Onboarding Step 'Get paid'
 #: erpnext/selling/onboarding_step/create_payment_entry/create_payment_entry.json:5
-msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)."
-msgstr "客户付款时，请在此处记录。系统会将其与客户的发票进行匹配，以便您查看仍未收回的金额。请参阅[收付款凭证](https://docs.frappe.io/erpnext/user/manual/en/payment-entry)。"
+msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
+msgstr "客户付款时，请在此处记录。系统会将其与客户的发票进行匹配，以便您查看仍未收回的金额。请参阅[收付款凭证](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)。"
 
 #. Description of a DocType
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.json:6
@@ -69542,8 +69542,8 @@ msgstr "您是为谁进行设置的？"
 
 #. Description of the Onboarding Step 'Break it into tasks'
 #: erpnext/projects/onboarding_step/create_tasks/create_tasks.json:5
-msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.frappe.io/erpnext/user/manual/en/task)."
-msgstr "谁负责什么，以及截止时间。任务会汇总到项目进度中。请参阅[任务](https://docs.frappe.io/erpnext/user/manual/en/task)。"
+msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)."
+msgstr "谁负责什么，以及截止时间。任务会汇总到项目进度中。请参阅[任务](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)。"
 
 #. Description of a report in the Onboarding Step 'Follow up on unpaid
 #. invoices'
@@ -69553,8 +69553,8 @@ msgstr "谁欠您多少钱，欠了多长时间。"
 
 #. Description of the Onboarding Step 'Follow up on unpaid invoices'
 #: erpnext/selling/onboarding_step/view_accounts_receivable/view_accounts_receivable.json:5
-msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.frappe.io/erpnext/user/manual/en/accounts-receivable)."
-msgstr "谁欠您多少钱，欠了多长时间。请参阅[应收账款](https://docs.frappe.io/erpnext/user/manual/en/accounts-receivable)。"
+msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)."
+msgstr "谁欠您多少钱，欠了多长时间。请参阅[应收账款](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)。"
 
 #. Description of the Onboarding Step 'Check what you owe'
 #: erpnext/buying/onboarding_step/view_accounts_payable/view_accounts_payable.json:5

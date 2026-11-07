@@ -21117,7 +21117,7 @@ msgid "thinkNXG CRM data synchronization is not enabled on thinkNXG ERP. Contact
 msgstr ""
 
 #: erpnext/setup/install.py:235
-msgid "Frappe School"
+msgid "thinkNXG School"
 msgstr ""
 
 #. Title of an incoterm
