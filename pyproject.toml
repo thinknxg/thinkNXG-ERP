@@ -89,6 +89,6 @@ docstring-code-format = true
 
 [project.urls]
 Homepage = "https://thinknxg.com"
-Repository = "https://github.com/thinknxg/thinkNXG-ERP.git"
+Repository = "https://github.com/thinknxg/thinkNXG-ERP"
 Documentation = "https://docs.thinknxg.com/thinknxgerp"
 "Bug Reports" = "https://github.com/thinknxg/thinkNXG-ERP/issues"
