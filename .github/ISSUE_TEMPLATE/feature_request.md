@@ -11,7 +11,7 @@ assignees: ''
 Welcome to ERPNext issue tracker! Before creating an issue, please heed the following:
 
 1. This tracker should only be used to report bugs and request features / enhancements to ERPNext
-    - For questions and general support, checkout the manual https://docs.erpnext.com or use https://discuss.frappe.io/c/erpnext/6
+    - For questions and general support, checkout the manual https://docs.thinknxg.com/thinknxgerp or use https://discuss.frappe.io/c/erpnext/6
 2. Use the search function before creating a new issue. Duplicates will be closed and directed to
    the original discussion.
 3. When making a feature request, make sure to be as verbose as possible. The better you convey your message, the greater the drive to make it happen.

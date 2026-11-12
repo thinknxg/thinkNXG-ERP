@@ -7,7 +7,7 @@
  "description": "A legal entity with its own books, like your business or a subsidiary.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/company-setup",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/company-setup",
  "engine": "InnoDB",
  "field_order": [
   "details",

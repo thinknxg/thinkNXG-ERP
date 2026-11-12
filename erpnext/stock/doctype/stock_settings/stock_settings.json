@@ -3,7 +3,7 @@
  "creation": "2013-06-24 16:37:54",
  "description": "How items, warehouses and stock transactions work.",
  "doctype": "DocType",
- "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-settings",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/stock-settings",
  "engine": "InnoDB",
  "field_order": [
   "defaults_tab",

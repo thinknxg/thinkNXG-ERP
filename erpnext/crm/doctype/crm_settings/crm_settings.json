@@ -4,7 +4,7 @@
  "description": "How leads, opportunities and appointments work.",
  "doctype": "DocType",
  "document_type": "Other",
- "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/crm_settings",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/crm_settings",
  "engine": "InnoDB",
  "field_order": [
   "section_break_5",

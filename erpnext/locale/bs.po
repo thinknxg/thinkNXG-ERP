@@ -1161,13 +1161,13 @@ msgstr "Brend pod kojim se prodaju vaši artikli."
 
 #. Description of the Onboarding Step 'Add a supplier'
 #: erpnext/buying/onboarding_step/create_supplier/create_supplier.json:5
-msgid "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)."
-msgstr "Poslovni subjekt ili osoba od koje kupujete. Pogledajte [Dobavljač](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)."
+msgid "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/supplier)."
+msgstr "Poslovni subjekt ili osoba od koje kupujete. Pogledajte [Dobavljač](https://docs.thinknxg.com/thinknxgerp/supplier)."
 
 #. Description of the Onboarding Step 'Add a customer'
 #: erpnext/selling/onboarding_step/create_customer/create_customer.json:5
-msgid "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)."
-msgstr "Poslovni subjekt ili osoba kojoj prodajete. Pogledajte [Klijent](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)."
+msgid "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/customer)."
+msgstr "Poslovni subjekt ili osoba kojoj prodajete. Pogledajte [Klijent](https://docs.thinknxg.com/thinknxgerp/customer)."
 
 #: erpnext/public/js/sales_order_proforma.js:315
 msgid "A cancelled Proforma Invoice cannot be emailed."
@@ -1490,8 +1490,8 @@ msgstr "Problem ili pitanje koje je postavio klijent."
 
 #. Description of the Onboarding Step 'Add an item you sell'
 #: erpnext/selling/onboarding_step/create_selling_item/create_selling_item.json:5
-msgid "A product or a service you sell. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "Proizvod ili usluga koju prodajete. Pogledajte [Artikal](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgid "A product or a service you sell. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "Proizvod ili usluga koju prodajete. Pogledajte [Artikal](https://docs.thinknxg.com/thinknxgerp/item)."
 
 #. Description of a DocType
 #: erpnext/stock/doctype/item/item.json:7
@@ -6170,13 +6170,13 @@ msgstr "Potreban je bilo koji od sljedećih filtera: Skladište, Kod Artikla, Gr
 
 #. Description of the Onboarding Step 'Start a project'
 #: erpnext/projects/onboarding_step/create_project/create_project.json:5
-msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)."
-msgstr "Sve što ima početak i kraj: posao za klijenta, instalacija, interna inicijativa. Pogledajte [Projekat](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)."
+msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.thinknxg.com/thinknxgerp/project)."
+msgstr "Sve što ima početak i kraj: posao za klijenta, instalacija, interna inicijativa. Pogledajte [Projekat](https://docs.thinknxg.com/thinknxgerp/project)."
 
 #. Description of the Onboarding Step 'Add an item you stock'
 #: erpnext/stock/onboarding_step/create_item/create_item.json:5
-msgid "Anything you keep on shelves and count. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "Sve što čuvate na policama i brojite. Pogledajte [Artikal](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgid "Anything you keep on shelves and count. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "Sve što čuvate na policama i brojite. Pogledajte [Artikal](https://docs.thinknxg.com/thinknxgerp/item)."
 
 #: erpnext/setup/setup_wizard/data/industry_type.txt:6
 msgid "Apparel & Accessories"
@@ -7397,8 +7397,8 @@ msgstr "Imovina {assets_link} izrađena za {item_code}"
 
 #. Description of the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:5
-msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)."
-msgstr "Imovina, obaveze i kapital na bilo koji datum, direktno iz vaše glavne knjige. Pogledajte [Bilans stanja](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)."
+msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.thinknxg.com/thinknxgerp/balance-sheet)."
+msgstr "Imovina, obaveze i kapital na bilo koji datum, direktno iz vaše glavne knjige. Pogledajte [Bilans stanja](https://docs.thinknxg.com/thinknxgerp/balance-sheet)."
 
 #. Description of a report in the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:18
@@ -9668,8 +9668,8 @@ msgstr "Sastavnica"
 
 #. Description of the Onboarding Step 'Send your first invoice'
 #: erpnext/selling/onboarding_step/create_sales_invoice/create_sales_invoice.json:5
-msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)."
-msgstr "Ispostavite račun svom kupcu za artikal. Podnesite ga, zatim upotrijebite **Ispiši** da biste ga vidjeli na papiru ili ga pošaljite kao PDF. Pogledajte [Izlazna faktura](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)."
+msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/sales-invoice)."
+msgstr "Ispostavite račun svom kupcu za artikal. Podnesite ga, zatim upotrijebite **Ispiši** da biste ga vidjeli na papiru ili ga pošaljite kao PDF. Pogledajte [Izlazna faktura](https://docs.thinknxg.com/thinknxgerp/sales-invoice)."
 
 #. Option for the 'Status' (Select) field in DocType 'Timesheet'
 #: erpnext/controllers/website_list_for_contact.py:227
@@ -13728,8 +13728,8 @@ msgstr "Poduzeće {} nije usklađeno s Kasa Profilom {}"
 
 #. Description of the Onboarding Step 'Review how a goal is going'
 #: erpnext/quality_management/onboarding_step/create_quality_review/create_quality_review.json:5
-msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
-msgstr "Uporedite rezultate sa ciljem i odlučite šta treba promijeniti. Pogledajte [Upravljanje kvalitetom](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/quality-management)."
+msgstr "Uporedite rezultate sa ciljem i odlučite šta treba promijeniti. Pogledajte [Upravljanje kvalitetom](https://docs.thinknxg.com/thinknxgerp/quality-management)."
 
 #: erpnext/manufacturing/doctype/bom_creator/bom_creator.js:100
 msgid "Compare with Previous Revision"
@@ -13932,8 +13932,8 @@ msgstr "Računar"
 
 #. Description of the Onboarding Step 'Set up an asset category'
 #: erpnext/assets/onboarding_step/create_asset_category/create_asset_category.json:5
-msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)."
-msgstr "Računari, vozila, namještaj: kako se amortizuje svaka vrsta i na koje se račune knjiži. Pogledajte [Kategorija imovine](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)."
+msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.thinknxg.com/thinknxgerp/asset-category)."
+msgstr "Računari, vozila, namještaj: kako se amortizuje svaka vrsta i na koje se račune knjiži. Pogledajte [Kategorija imovine](https://docs.thinknxg.com/thinknxgerp/asset-category)."
 
 #. Label of the condition (Code) field in DocType 'Inventory Dimension'
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.json:89
@@ -14011,8 +14011,8 @@ msgstr "Potvrdi prije poništavanja datuma registracije"
 
 #. Description of the Onboarding Step 'Confirm a sales order'
 #: erpnext/selling/onboarding_step/create_sales_order/create_sales_order.json:5
-msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)."
-msgstr "Potvrdite šta je klijent naručio i kada treba biti isporučeno. Isporučite i fakturišite direktno iz same narudžbe. Pogledajte [Prodajni nalog](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)."
+msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.thinknxg.com/thinknxgerp/sales-order)."
+msgstr "Potvrdite šta je klijent naručio i kada treba biti isporučeno. Isporučite i fakturišite direktno iz same narudžbe. Pogledajte [Prodajni nalog](https://docs.thinknxg.com/thinknxgerp/sales-order)."
 
 #. Label of the final_confirmation_date (Date) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:326
@@ -17700,8 +17700,8 @@ msgstr "Dužnici"
 
 #. Description of the Onboarding Step 'Plan a work order'
 #: erpnext/manufacturing/onboarding_step/create_work_order/create_work_order.json:5
-msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)."
-msgstr "Odlučite koliko treba napraviti. Sirovine koje su vam potrebne izračunavaju se na osnovu sastavnice (BOM). Pogledajte [Radni nalog](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)."
+msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.thinknxg.com/thinknxgerp/work-order)."
+msgstr "Odlučite koliko treba napraviti. Sirovine koje su vam potrebne izračunavaju se na osnovu sastavnice (BOM). Pogledajte [Radni nalog](https://docs.thinknxg.com/thinknxgerp/work-order)."
 
 #. Title of an Onboarding Step
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:19
@@ -19188,8 +19188,8 @@ msgstr "Amortizacija eliminirana storniranjem"
 
 #. Description of the Onboarding Step 'Check its depreciation'
 #: erpnext/assets/onboarding_step/view_asset_depreciation/view_asset_depreciation.json:5
-msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)."
-msgstr "Amortizacija se knjiži prema rasporedu, imovina po imovina, bez naloga knjiženja od vas. Pogledajte [Amortizacija](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)."
+msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/asset-depreciation)."
+msgstr "Amortizacija se knjiži prema rasporedu, imovina po imovina, bez naloga knjiženja od vas. Pogledajte [Amortizacija](https://docs.thinknxg.com/thinknxgerp/asset-depreciation)."
 
 #. Label of the description_rules (Table) field in DocType 'Bank Transaction
 #. Rule'
@@ -22064,8 +22064,8 @@ msgstr "Svaka proknjižena amortizacija, imovina po imovinu."
 
 #. Description of the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:5
-msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
-msgstr "Svako kretanje svakog artikla, ulazno i izlazno, sa stanjem nakon svakog. Pogledajte [Knjiga zaliha](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
+msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/stock-ledger)."
+msgstr "Svako kretanje svakog artikla, ulazno i izlazno, sa stanjem nakon svakog. Pogledajte [Knjiga zaliha](https://docs.thinknxg.com/thinknxgerp/stock-ledger)."
 
 #. Description of a report in the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:17
@@ -22074,8 +22074,8 @@ msgstr "Svako kretanje svakog artikla, ulazno i izlazno."
 
 #. Description of the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:5
-msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
-msgstr "Svako knjiženje iz vaših faktura i plaćanja, sa stranama duguje i potražuje. Pogledajte [Glavna knjiga](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
+msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/general-ledger)."
+msgstr "Svako knjiženje iz vaših faktura i plaćanja, sa stranama duguje i potražuje. Pogledajte [Glavna knjiga](https://docs.thinknxg.com/thinknxgerp/general-ledger)."
 
 #. Description of a report in the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:18
@@ -22094,8 +22094,8 @@ msgstr "Svaki radni nalog, koliko je napredovao i šta kasni."
 
 #. Description of the Onboarding Step 'See how production is going'
 #: erpnext/manufacturing/onboarding_step/view_work_order_summary_report/view_work_order_summary_report.json:5
-msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)."
-msgstr "Svaki radni nalog, koliko je napredovao i šta kasni. Pogledajte [Sažetak radnog naloga](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)."
+msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.thinknxg.com/thinknxgerp/work-order-summary)."
+msgstr "Svaki radni nalog, koliko je napredovao i šta kasni. Pogledajte [Sažetak radnog naloga](https://docs.thinknxg.com/thinknxgerp/work-order-summary)."
 
 #. Title of an incoterm
 #: erpnext/setup/doctype/incoterm/incoterms.csv:2
@@ -23974,8 +23974,8 @@ msgstr "Za Artikal {0}, količina mora biti pozitivan broj"
 
 #. Description of the Onboarding Step 'Post a journal entry'
 #: erpnext/accounts/onboarding_step/create_journal_entry/create_journal_entry.json:5
-msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)."
-msgstr "Za sve što nije faktura ili plaćanje: obračunska razgraničenja, amortizacija ili ispravka greške. Pogledajte [Nalog knjiženja](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)."
+msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.thinknxg.com/thinknxgerp/journal-entry)."
+msgstr "Za sve što nije faktura ili plaćanje: obračunska razgraničenja, amortizacija ili ispravka greške. Pogledajte [Nalog knjiženja](https://docs.thinknxg.com/thinknxgerp/journal-entry)."
 
 #. Description of the 'Income Account' (Link) field in DocType 'Dunning'
 #: erpnext/accounts/doctype/dunning/dunning.json:245
@@ -24590,8 +24590,8 @@ msgstr "Od datuma ne može biti kasnije od Do datuma"
 
 #. Description of the Onboarding Step 'Move stock between warehouses'
 #: erpnext/stock/onboarding_step/move_stock/move_stock.json:5
-msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
-msgstr "Od skladišta do proizvodnog pogona ili između poslovnica. Pogledajte [Unos zaliha](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
+msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/stock-entry)."
+msgstr "Od skladišta do proizvodnog pogona ili između poslovnica. Pogledajte [Unos zaliha](https://docs.thinknxg.com/thinknxgerp/stock-entry)."
 
 #: erpnext/accounts/doctype/shipping_rule/shipping_rule.py:91
 #, python-brace-format
@@ -25353,8 +25353,8 @@ msgstr "Proizvod je već primljen naspram unosa izlaza {0}"
 
 #. Description of the Onboarding Step 'Add an item you buy'
 #: erpnext/buying/onboarding_step/create_buying_item/create_buying_item.json:5
-msgid "Goods or services you buy from suppliers. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "Roba ili usluge koje kupujete od dobavljača. Pogledajte [Artikal](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgid "Goods or services you buy from suppliers. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "Roba ili usluge koje kupujete od dobavljača. Pogledajte [Artikal](https://docs.thinknxg.com/thinknxgerp/item)."
 
 #: erpnext/setup/setup_wizard/operations/install_fixtures.py:193
 msgid "Government"
@@ -26300,8 +26300,8 @@ msgstr "Koliko brže se imovina amortizira u datoj smjeni."
 
 #. Description of the Onboarding Step 'Enter the stock you have today'
 #: erpnext/stock/onboarding_step/create_opening_stock/create_opening_stock.json:5
-msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
-msgstr "Koliko svakog artikla imate na policama i koliko on vrijedi. Od ovdje, svaki prijem i isporuka to ažuriraju. Pogledajte [Usklađivanje zaliha](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
+msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/stock-reconciliation)."
+msgstr "Koliko svakog artikla imate na policama i koliko on vrijedi. Od ovdje, svaki prijem i isporuka to ažuriraju. Pogledajte [Usklađivanje zaliha](https://docs.thinknxg.com/thinknxgerp/stock-reconciliation)."
 
 #. Description of a DocType
 #: erpnext/manufacturing/doctype/master_production_schedule/master_production_schedule.json:6
@@ -26622,17 +26622,17 @@ msgstr "Ako je omogućeno, nemojte ažurirati serijske/šarža vrijednosti u tra
 #. DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:420
 msgid "If enabled, formula for <b>Qty to Order</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "Ako je omogućeno, formula za <b>Količina za Narudžbu</b>: <br>\n"
-"Potrebna Količina (Sastavnica) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Obračunata Količina</a>. <br> Ovo pomaže u izbjegavanju prekomjernog naručivanja."
+"Potrebna Količina (Sastavnica) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">Obračunata Količina</a>. <br> Ovo pomaže u izbjegavanju prekomjernog naručivanja."
 
 #. Description of the 'Consider Projected Qty in Calculation (RM)' (Check)
 #. field in DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:238
 msgid "If enabled, formula for <b>Required Qty</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "Ako je omogućeno, formula za <b>Potrebna Količina</b>: <br>\n"
-"Potrebna količina (Sastavnica) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Obračunata Količina</a>. <br> Ovo pomaže u izbjegavanju prekomjernog naručivanja."
+"Potrebna količina (Sastavnica) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">Obračunata Količina</a>. <br> Ovo pomaže u izbjegavanju prekomjernog naručivanja."
 
 #. Description of the 'Create Ledger Entries for Change Amount' (Check) field
 #. in DocType 'POS Settings'
@@ -27180,8 +27180,8 @@ msgstr "Uvezi Koristeći CSV datoteku"
 
 #. Description of the Onboarding Step 'Match your bank statement'
 #: erpnext/accounts/onboarding_step/open_banking/open_banking.json:5
-msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)."
-msgstr "Uvezite izvod iz banke i uparite svaki red sa plaćanjem, kako bi vaše knjige bile usklađene s njim. Pogledajte [Bankovno usklađivanje](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)."
+msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.thinknxg.com/thinknxgerp/bank-reconciliation)."
+msgstr "Uvezite izvod iz banke i uparite svaki red sa plaćanjem, kako bi vaše knjige bile usklađene s njim. Pogledajte [Bankovno usklađivanje](https://docs.thinknxg.com/thinknxgerp/bank-reconciliation)."
 
 #: erpnext/edi/doctype/code_list/code_list_import.js:131
 #, python-brace-format
@@ -29878,8 +29878,8 @@ msgstr "Može potrajati i do nekoliko sati da tačne vrijednosti zaliha budu vid
 
 #. Description of the Onboarding Step 'Pay your supplier'
 #: erpnext/buying/onboarding_step/pay_supplier/pay_supplier.json:5
-msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
-msgstr "Plaća račun dobavljača i uzima novac sa vašeg bankovnog ili gotovinskog računa. Pogledajte [Nalog plaćanja](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
+msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/payment-entry)."
+msgstr "Plaća račun dobavljača i uzima novac sa vašeg bankovnog ili gotovinskog računa. Pogledajte [Nalog plaćanja](https://docs.thinknxg.com/thinknxgerp/payment-entry)."
 
 #: erpnext/stock/report/stock_valuation_comparison/stock_valuation_comparison.py:533
 #: erpnext/stock/valuation_adjustment.py:391
@@ -29892,8 +29892,8 @@ msgstr "Potreban je za preuzimanje Detalja Artikla."
 
 #. Description of the Onboarding Step 'Enter a supplier's bill'
 #: erpnext/accounts/onboarding_step/create_accounting_purchase_invoice/create_accounting_purchase_invoice.json:5
-msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
-msgstr "Knjiži trošak i iznos koji dugujete dobavljaču u vašu glavnu knjigu. Pogledajte [Ulazna faktura](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
+msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)."
+msgstr "Knjiži trošak i iznos koji dugujete dobavljaču u vašu glavnu knjigu. Pogledajte [Ulazna faktura](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)."
 
 #: banking/src/components/features/BankReconciliation/BankBalance.tsx:138
 msgid "It takes into account all the transactions that have been posted and subtracts the transactions that have not cleared yet."
@@ -32386,8 +32386,8 @@ msgstr "Potencijalni Klijenti vam pomažu da započnete posao, dodate sve svoje 
 #. Description of the 'Enable Common Party Accounting' (Check) field in DocType
 #. 'Accounts Settings'
 #: erpnext/accounts/doctype/accounts_settings/accounts_settings.json:321
-msgid "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
-msgstr "Saznajte više o <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Zajednička Stranka</a>"
+msgid "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
+msgstr "Saznajte više o <a href=\"https://docs.thinknxg.com/thinknxgerp/common_party_accounting\" rel=\"noopener noreferrer\">Zajednička Stranka</a>"
 
 #. Label of the leave_encashed (Select) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:651
@@ -36968,8 +36968,8 @@ msgstr "Nije dozvoljeno pregledati Kontakt {0}"
 
 #. Description of the Onboarding Step 'Record a supplier's quote'
 #: erpnext/buying/onboarding_step/create_supplier_quotation/create_supplier_quotation.json:5
-msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)."
-msgstr "Zabilježite cijenu koju je dobavljač ponudio kako biste mogli uporediti dobavljače prije narudžbe. Pogledajte [Ponuda dobavljača](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)."
+msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.thinknxg.com/thinknxgerp/supplier-quotation)."
+msgstr "Zabilježite cijenu koju je dobavljač ponudio kako biste mogli uporediti dobavljače prije narudžbe. Pogledajte [Ponuda dobavljača](https://docs.thinknxg.com/thinknxgerp/supplier-quotation)."
 
 #: erpnext/manufacturing/doctype/bom_update_log/bom_update_log_list.js:21
 msgid "Note: Automatic log deletion only applies to logs of type <i>Update Cost</i>"
@@ -37422,8 +37422,8 @@ msgstr "Nakon što je Radni Nalog Yatvoren. Ne može se ponovo otvoriti."
 
 #. Description of the Onboarding Step 'Quote a price'
 #: erpnext/selling/onboarding_step/create_quotation/create_quotation.json:5
-msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)."
-msgstr "Kada klijent pristane, pretvorite ponudu direktno u prodajni nalog ili fakturu. Pogledajte [Ponuda](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)."
+msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.thinknxg.com/thinknxgerp/quotation)."
+msgstr "Kada klijent pristane, pretvorite ponudu direktno u prodajni nalog ili fakturu. Pogledajte [Ponuda](https://docs.thinknxg.com/thinknxgerp/quotation)."
 
 #: erpnext/accounts/doctype/loyalty_program/loyalty_program.js:39
 msgid "One customer can be part of only single Loyalty Program."
@@ -38597,8 +38597,8 @@ msgstr "Vrijednost Naloga"
 
 #. Description of the Onboarding Step 'Place a purchase order'
 #: erpnext/buying/onboarding_step/create_purchase_order/create_purchase_order.json:5
-msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)."
-msgstr "Naručite od dobavljača. Kada roba stigne, primite je i evidentirajte račun direktno iz same narudžbe. Pogledajte [Narudžbenica](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)."
+msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/purchase-order)."
+msgstr "Naručite od dobavljača. Kada roba stigne, primite je i evidentirajte račun direktno iz same narudžbe. Pogledajte [Narudžbenica](https://docs.thinknxg.com/thinknxgerp/purchase-order)."
 
 #. Title of the Module Onboarding 'Buying Onboarding'
 #. Title of an Onboarding Step
@@ -48440,8 +48440,8 @@ msgstr "Sirovina {0} je mapirana na {1}, koji nije gotov proizvod ovog unosa"
 
 #. Description of the Onboarding Step 'Finish making it'
 #: erpnext/manufacturing/onboarding_step/finish_work_order/finish_work_order.json:5
-msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
-msgstr "Sirovine izlaze iz zaliha, a gotovi proizvodi ulaze. Iz radnog naloga, **Završi** to popunjava umjesto vas. Pogledajte [Unos zaliha](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
+msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/stock-entry)."
+msgstr "Sirovine izlaze iz zaliha, a gotovi proizvodi ulaze. Iz radnog naloga, **Završi** to popunjava umjesto vas. Pogledajte [Unos zaliha](https://docs.thinknxg.com/thinknxgerp/stock-entry)."
 
 #. Description of the 'Validate consumed quantity (as per BOM)' (Check) field
 #. in DocType 'Buying Settings'
@@ -49058,18 +49058,18 @@ msgstr "Zabilježite interni prijenos na drugi bankovni račun/račun kreditne k
 
 #. Description of the Onboarding Step 'Log time against it'
 #: erpnext/projects/onboarding_step/create_timesheet/create_timesheet.json:5
-msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)."
-msgstr "Zabilježite sate utrošene na zadatke. Naplatite ih kupcu ili ih koristite za izračun troškova projekta. Pogledajte [Evidencija vremena](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)."
+msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.thinknxg.com/thinknxgerp/timesheets)."
+msgstr "Zabilježite sate utrošene na zadatke. Naplatite ih kupcu ili ih koristite za izračun troškova projekta. Pogledajte [Evidencija vremena](https://docs.thinknxg.com/thinknxgerp/timesheets)."
 
 #. Description of the Onboarding Step 'Inspect goods coming in or going out'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection/create_quality_inspection.json:5
-msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)."
-msgstr "Zabilježite rezultate za prijem ili isporuku te prihvatite ili odbijte robu. Pogledajte [Kontrola kvalitete](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)."
+msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.thinknxg.com/thinknxgerp/quality-inspection)."
+msgstr "Zabilježite rezultate za prijem ili isporuku te prihvatite ili odbijte robu. Pogledajte [Kontrola kvalitete](https://docs.thinknxg.com/thinknxgerp/quality-inspection)."
 
 #. Description of the Onboarding Step 'Hand it to a person or place'
 #: erpnext/assets/onboarding_step/create_asset_movement/create_asset_movement.json:5
-msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)."
-msgstr "Evidentirajte ko ga ima i gdje se nalazi, kako uvijek biste znali. Pogledajte [Kretanje imovine](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)."
+msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.thinknxg.com/thinknxgerp/asset-movement)."
+msgstr "Evidentirajte ko ga ima i gdje se nalazi, kako uvijek biste znali. Pogledajte [Kretanje imovine](https://docs.thinknxg.com/thinknxgerp/asset-movement)."
 
 #. Label of the recording_html (HTML) field in DocType 'Call Log'
 #: erpnext/telephony/doctype/call_log/call_log.json:91
@@ -49394,8 +49394,8 @@ msgstr "Regularno"
 
 #. Description of the Onboarding Step 'Plan maintenance visits'
 #: erpnext/quality_management/onboarding_step/create_maintenance_schedule/create_maintenance_schedule.json:5
-msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)."
-msgstr "Redovne servisne posjete opremi koju ste prodali, unaprijed planirane za cijeli ugovor. Pogledajte [Raspored održavanja](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)."
+msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.thinknxg.com/thinknxgerp/maintenance-schedule)."
+msgstr "Redovne servisne posjete opremi koju ste prodali, unaprijed planirane za cijeli ugovor. Pogledajte [Raspored održavanja](https://docs.thinknxg.com/thinknxgerp/maintenance-schedule)."
 
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.py:214
 msgid "Rejected "
@@ -54761,8 +54761,8 @@ msgstr "Prodaja po kupcu, artiklu ili distriktu, za bilo koji period."
 
 #. Description of the Onboarding Step 'Spot your best sellers'
 #: erpnext/selling/onboarding_step/view_sales_analytics/view_sales_analytics.json:5
-msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
-msgstr "Prodaja po klijentu artiklu ili distriktu, za bilo koji period. Pogledaj [Statistika Prodaje](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
+msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.thinknxg.com/thinknxgerp/sales-analytics)."
+msgstr "Prodaja po klijentu artiklu ili distriktu, za bilo koji period. Pogledaj [Statistika Prodaje](https://docs.thinknxg.com/thinknxgerp/sales-analytics)."
 
 #: erpnext/manufacturing/doctype/production_plan/production_plan.py:268
 msgid "Sales orders are not available for production"
@@ -56745,8 +56745,8 @@ msgstr "Servisi"
 
 #. Description of the Onboarding Step 'Schedule its upkeep'
 #: erpnext/assets/onboarding_step/create_asset_maintenance/create_asset_maintenance.json:5
-msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
-msgstr "Servisiranje, kontrole i kalibracija, uz podsjetnike timu koji to obavlja. Pogledajte [Održavanje imovine](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
+msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.thinknxg.com/thinknxgerp/asset-maintenance)."
+msgstr "Servisiranje, kontrole i kalibracija, uz podsjetnike timu koji to obavlja. Pogledajte [Održavanje imovine](https://docs.thinknxg.com/thinknxgerp/asset-maintenance)."
 
 #. Label of the set_warehouse (Link) field in DocType 'Purchase Invoice'
 #: erpnext/accounts/doctype/purchase_invoice/purchase_invoice.json:582
@@ -58111,8 +58111,8 @@ msgstr "Nešto nije u redu, pokušajte ponovo"
 
 #. Description of the Onboarding Step 'Record an asset you already own'
 #: erpnext/assets/onboarding_step/create_existing_asset/create_existing_asset.json:5
-msgid "Something you bought before using thinkNXG ERP, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
-msgstr "Nešto što ste kupili prije korištenja thinkNXG ERP-a, sa iznosom koji ste platili, gdje se nalazi i koliko je već amortizovano. Pogledajte [Imovina](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
+msgid "Something you bought before using thinkNXG ERP, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.thinknxg.com/thinknxgerp/asset)."
+msgstr "Nešto što ste kupili prije korištenja thinkNXG ERP-a, sa iznosom koji ste platili, gdje se nalazi i koliko je već amortizovano. Pogledajte [Imovina](https://docs.thinknxg.com/thinknxgerp/asset)."
 
 #. Description of a DocType
 #: erpnext/quality_management/doctype/quality_goal/quality_goal.json:5
@@ -58121,13 +58121,13 @@ msgstr "Nešto što mjerite i poboljšavate prema rasporedu, poput pravovremene 
 
 #. Description of the Onboarding Step 'Add a raw material'
 #: erpnext/manufacturing/onboarding_step/create_raw_materials/create_raw_materials.json:5
-msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "Nešto što koristite za izradu proizvoda, a što se vodi u grupi Sirovina. Pogledajte [Artikal](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "Nešto što koristite za izradu proizvoda, a što se vodi u grupi Sirovina. Pogledajte [Artikal](https://docs.thinknxg.com/thinknxgerp/item)."
 
 #. Description of the Onboarding Step 'Set a quality goal'
 #: erpnext/quality_management/onboarding_step/create_quality_goal/create_quality_goal.json:5
-msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
-msgstr "Nešto što želite mjeriti i poboljšati, poput isporuke na vrijeme ili povrata, a što se pregledava prema rasporedu koji odaberete. Pogledajte [Upravljanje kvalitetom](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/quality-management)."
+msgstr "Nešto što želite mjeriti i poboljšati, poput isporuke na vrijeme ili povrata, a što se pregledava prema rasporedu koji odaberete. Pogledajte [Upravljanje kvalitetom](https://docs.thinknxg.com/thinknxgerp/quality-management)."
 
 #. Description of a DocType
 #: erpnext/assets/doctype/asset/asset.json:7
@@ -59688,13 +59688,13 @@ msgstr "Zalihe zatvorene do"
 
 #. Description of the Onboarding Step 'Ship to a customer'
 #: erpnext/stock/onboarding_step/create_delivery_note/create_delivery_note.json:5
-msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)."
-msgstr "Zalihe se smanjuju kada roba izađe, a faktura se može izraditi iz isporuke. Pogledajte [Otpremnica](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)."
+msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.thinknxg.com/thinknxgerp/delivery-note)."
+msgstr "Zalihe se smanjuju kada roba izađe, a faktura se može izraditi iz isporuke. Pogledajte [Otpremnica](https://docs.thinknxg.com/thinknxgerp/delivery-note)."
 
 #. Description of the Onboarding Step 'Receive goods from a supplier'
 #: erpnext/stock/onboarding_step/create_purchase_receipt/create_purchase_receipt.json:5
-msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)."
-msgstr "Zalihe se povećavaju u skladištu u koje primate robu, a račun se može izraditi iz prijema. Pogledajte [Prijemnica](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)."
+msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.thinknxg.com/thinknxgerp/purchase-receipt)."
+msgstr "Zalihe se povećavaju u skladištu u koje primate robu, a račun se može izraditi iz prijema. Pogledajte [Prijemnica](https://docs.thinknxg.com/thinknxgerp/purchase-receipt)."
 
 #: erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:1332
 #, python-brace-format
@@ -62671,8 +62671,8 @@ msgstr "Tip računa {0} ne može se promijeniti iz {1} jer postoje unosi u Regis
 
 #. Description of the Onboarding Step 'Add the bank account you use'
 #: erpnext/accounts/onboarding_step/add_bank_account/add_bank_account.json:5
-msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)."
-msgstr "Račun na koji vaši kupci uplaćuju i sa kojeg vi plaćate, povezan s odgovarajućim računom u kontnom planu. Pogledajte [Bankovni račun](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)."
+msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.thinknxg.com/thinknxgerp/bank-account)."
+msgstr "Račun na koji vaši kupci uplaćuju i sa kojeg vi plaćate, povezan s odgovarajućim računom u kontnom planu. Pogledajte [Bankovni račun](https://docs.thinknxg.com/thinknxgerp/bank-account)."
 
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.py:223
 #, python-brace-format
@@ -62718,8 +62718,8 @@ msgstr "Šarža {0} je rezervirana za {1} u skladištu {2} i preostala količina
 
 #. Description of the Onboarding Step 'Enter their bill'
 #: erpnext/buying/onboarding_step/create_purchase_invoice/create_purchase_invoice.json:5
-msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
-msgstr "Račun koji vam je poslao dobavljač, kako biste znali koliko dugujete i kada dospijeva. Pogledajte [Ulazna faktura](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
+msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)."
+msgstr "Račun koji vam je poslao dobavljač, kako biste znali koliko dugujete i kada dospijeva. Pogledajte [Ulazna faktura](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)."
 
 #: erpnext/controllers/taxes_and_totals.py:261
 msgid "The cash or non-trade discount cannot be combined with discounts carried from other documents."
@@ -63002,8 +63002,8 @@ msgstr "Radna Kartica {0} je u {1} stanju i ne možete je ponovo pokrenuti."
 
 #. Description of the Onboarding Step 'Add an asset item'
 #: erpnext/assets/onboarding_step/create_asset_item/create_asset_item.json:5
-msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "Vrsta stvari koju posjedujete, označena kao osnovno sredstvo. Pogledajte [Artikal](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "Vrsta stvari koju posjedujete, označena kao osnovno sredstvo. Pogledajte [Artikal](https://docs.thinknxg.com/thinknxgerp/item)."
 
 #: erpnext/accounts/doctype/bank_transaction_rule/bank_transaction_rule.py:129
 msgid "The last account row must not have any debit or credit amounts set."
@@ -63085,8 +63085,8 @@ msgstr "Parametri za provjeru artikla."
 
 #. Description of the Onboarding Step 'Decide what to check'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:5
-msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)."
-msgstr "Parametri koji se provjeravaju i šta se smatra uspješnim, ponovo se koriste pri svakoj kontroli. Pogledajte [Šablon kontrole kvalitete](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)."
+msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.thinknxg.com/thinknxgerp/quality-inspection-template)."
+msgstr "Parametri koji se provjeravaju i šta se smatra uspješnim, ponovo se koriste pri svakoj kontroli. Pogledajte [Šablon kontrole kvalitete](https://docs.thinknxg.com/thinknxgerp/quality-inspection-template)."
 
 #: erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:234
 #, python-brace-format
@@ -63165,10 +63165,10 @@ msgstr "Kurs za pretvaranje jedne valute u drugu."
 
 #. Description of the Onboarding Step 'Write its bill of materials'
 #: erpnext/manufacturing/onboarding_step/create_bill_of_materials/create_bill_of_materials.json:5
-msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials).\n\n"
-"Sending some of the work to a supplier? See [Subcontracting](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)."
-msgstr "Sirovine i količina svake od njih koja ulazi u jednu jedinicu vašeg proizvoda. Podnesite je da biste je koristili u proizvodnji. Pogledajte [Sastavnica](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials).\n\n"
-"Dio posla šaljete dobavljaču? Pogledajte [Podugovaranje](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)."
+msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.thinknxg.com/thinknxgerp/bill-of-materials).\n\n"
+"Sending some of the work to a supplier? See [Subcontracting](https://docs.thinknxg.com/thinknxgerp/subcontracting)."
+msgstr "Sirovine i količina svake od njih koja ulazi u jednu jedinicu vašeg proizvoda. Podnesite je da biste je koristili u proizvodnji. Pogledajte [Sastavnica](https://docs.thinknxg.com/thinknxgerp/bill-of-materials).\n\n"
+"Dio posla šaljete dobavljaču? Pogledajte [Podugovaranje](https://docs.thinknxg.com/thinknxgerp/subcontracting)."
 
 #: banking/src/pages/BankStatementImporter.tsx:205
 msgid "The reference number of the transaction"
@@ -63267,8 +63267,8 @@ msgstr "Koraci procesa koje slijedite kako biste održali kvalitet pod kontrolom
 
 #. Description of the Onboarding Step 'Write down how the work is done'
 #: erpnext/quality_management/onboarding_step/create_quality_procedure/create_quality_procedure.json:5
-msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
-msgstr "Koracima koje vaš tim slijedi, posao se obavlja na isti način svaki put. Pogledajte [Upravljanje kvalitetom](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/quality-management)."
+msgstr "Koracima koje vaš tim slijedi, posao se obavlja na isti način svaki put. Pogledajte [Upravljanje kvalitetom](https://docs.thinknxg.com/thinknxgerp/quality-management)."
 
 #: erpnext/stock/stock_ledger.py:1074
 #, python-brace-format
@@ -63329,8 +63329,8 @@ msgstr "PDV i naknade, poput dostave ili osiguranja, koji se dodaju na prodaju."
 
 #. Description of the Onboarding Step 'Review your taxes'
 #: erpnext/accounts/onboarding_step/review_taxes/review_taxes.json:5
-msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)."
-msgstr "Porezi koji se popunjavaju na svakoj fakturi. Dodali smo poreze vaše zemlje tamo gdje smo ih imali; provjerite da se stope podudaraju s onima koje naplaćujete. Porezi na nabavku nalaze se u [Predložak Nabavnog PDV-a i Naknade](/desk/purchase-taxes-and-charges-template). Pogledajte [Usklađivanje poreza](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)."
+msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/setting-up-taxes)."
+msgstr "Porezi koji se popunjavaju na svakoj fakturi. Dodali smo poreze vaše zemlje tamo gdje smo ih imali; provjerite da se stope podudaraju s onima koje naplaćujete. Porezi na nabavku nalaze se u [Predložak Nabavnog PDV-a i Naknade](/desk/purchase-taxes-and-charges-template). Pogledajte [Usklađivanje poreza](https://docs.thinknxg.com/thinknxgerp/setting-up-taxes)."
 
 #: erpnext/stock/doctype/material_request/material_request.py:508
 #, python-brace-format
@@ -63515,8 +63515,8 @@ msgid "There are no transactions in the system for the selected bank account and
 msgstr "U sistemu nema transakcija za odabrani bankovni račun i datume koji odgovaraju filterima."
 
 #: erpnext/stock/doctype/item/item.js:1505
-msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
-msgstr "Postoje dvije opcije za održavanje vrijednosti artikal. FIFO (prvi ušao - prvi izašao) i Pokretni Prosijek. Da biste detaljno razumjeli ovu temu, posjetite <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Vrednovanje Artikla, FIFO i Pokretni Prosijek.</a>"
+msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.thinknxg.com/thinknxgerp/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
+msgstr "Postoje dvije opcije za održavanje vrijednosti artikal. FIFO (prvi ušao - prvi izašao) i Pokretni Prosijek. Da biste detaljno razumjeli ovu temu, posjetite <a href='https://docs.thinknxg.com/thinknxgerp/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Vrednovanje Artikla, FIFO i Pokretni Prosijek.</a>"
 
 #: banking/src/components/features/BankReconciliation/MatchAndReconcile.tsx:980
 #, python-brace-format
@@ -69214,8 +69214,8 @@ msgstr "Nismo mogli postaviti osnovne postavke"
 
 #. Description of the Onboarding Step 'Review your warehouses'
 #: erpnext/stock/onboarding_step/setup_warehouse/setup_warehouse.json:5
-msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)."
-msgstr "Kreirali smo nekoliko za početak. Preimenujte ih ili dodajte mjesta na kojima zaista čuvate zalihe. Pogledajte [Skladište](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)."
+msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.thinknxg.com/thinknxgerp/warehouse)."
+msgstr "Kreirali smo nekoliko za početak. Preimenujte ih ili dodajte mjesta na kojima zaista čuvate zalihe. Pogledajte [Skladište](https://docs.thinknxg.com/thinknxgerp/warehouse)."
 
 #: erpnext/templates/emails/appointment_confirmed.html:3
 msgid "We look forward to meeting you"
@@ -69223,8 +69223,8 @@ msgstr "Radujemo se susretu s vama"
 
 #. Description of the Onboarding Step 'Review your chart of accounts'
 #: erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:5
-msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)."
-msgstr "Postavili smo standardni kontni plan za vašu zemlju. Pogledajte kako su vaši računi grupisani i preimenujte ili dodajte bilo koje da odgovaraju načinu na koji izvještavate. Pogledajte [Kontni plan](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)."
+msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.thinknxg.com/thinknxgerp/chart-of-accounts)."
+msgstr "Postavili smo standardni kontni plan za vašu zemlju. Pogledajte kako su vaši računi grupisani i preimenujte ili dodajte bilo koje da odgovaraju načinu na koji izvještavate. Pogledajte [Kontni plan](https://docs.thinknxg.com/thinknxgerp/chart-of-accounts)."
 
 #: banking/src/pages/BankStatementImporter.tsx:169
 msgid "We support uploading CSV, XLSX, XLS and PDF files. Please make sure the file contains the correct columns."
@@ -69391,8 +69391,8 @@ msgstr "Koliko košta osoblje i koliko se naplaćuje po satu za aktivnost."
 
 #. Description of the Onboarding Step 'Add a product you make'
 #: erpnext/manufacturing/onboarding_step/create_finished_goods/create_finished_goods.json:5
-msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "Ono što nastaje na kraju proizvodnje, čuva se u grupi Proizvodi. Pogledajte [Artikal](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "Ono što nastaje na kraju proizvodnje, čuva se u grupi Proizvodi. Pogledajte [Artikal](https://docs.thinknxg.com/thinknxgerp/item)."
 
 #: erpnext/templates/pages/help.html:12
 msgid "What do you need help with?"
@@ -69503,8 +69503,8 @@ msgstr "Kada dospijeva dio fakture, na primjer 50% u roku od 30 dana."
 
 #. Description of the Onboarding Step 'Log a problem'
 #: erpnext/quality_management/onboarding_step/create_non_conformance/create_non_conformance.json:5
-msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)."
-msgstr "Kada nešto ne zadovoljava proceduru, zabilježite šta se dogodilo, uzrok i šta ćete poduzeti. Pogledajte [Odstupanje Kvaliteta](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)."
+msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.thinknxg.com/thinknxgerp/non-conformance)."
+msgstr "Kada nešto ne zadovoljava proceduru, zabilježite šta se dogodilo, uzrok i šta ćete poduzeti. Pogledajte [Odstupanje Kvaliteta](https://docs.thinknxg.com/thinknxgerp/non-conformance)."
 
 #: erpnext/stock/doctype/stock_entry/stock_entry.py:502
 #, python-brace-format
@@ -69519,8 +69519,8 @@ msgstr "Kada nešto platite unaprijed (poput godišnjeg osiguranja), trošak se 
 
 #. Description of the Onboarding Step 'Get paid'
 #: erpnext/selling/onboarding_step/create_payment_entry/create_payment_entry.json:5
-msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
-msgstr "Kada vaš klijent izvrši plaćanje, evidentirajte ga ovdje. Usklađuje se s njegovom fakturom, pa možete vidjeti šta je još neplaćeno. Pogledajte [Nalog plaćanja](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
+msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/payment-entry)."
+msgstr "Kada vaš klijent izvrši plaćanje, evidentirajte ga ovdje. Usklađuje se s njegovom fakturom, pa možete vidjeti šta je još neplaćeno. Pogledajte [Nalog plaćanja](https://docs.thinknxg.com/thinknxgerp/payment-entry)."
 
 #. Description of a DocType
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.json:6
@@ -69563,8 +69563,8 @@ msgstr "Za koga ovo postavljaš?"
 
 #. Description of the Onboarding Step 'Break it into tasks'
 #: erpnext/projects/onboarding_step/create_tasks/create_tasks.json:5
-msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)."
-msgstr "Ko šta radi i do kada. Zadaci se sabiraju u napredak projekta. Pogledajte [Zadatak](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)."
+msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.thinknxg.com/thinknxgerp/task)."
+msgstr "Ko šta radi i do kada. Zadaci se sabiraju u napredak projekta. Pogledajte [Zadatak](https://docs.thinknxg.com/thinknxgerp/task)."
 
 #. Description of a report in the Onboarding Step 'Follow up on unpaid
 #. invoices'
@@ -69574,8 +69574,8 @@ msgstr "Ko vam duguje, koliko i koliko dugo."
 
 #. Description of the Onboarding Step 'Follow up on unpaid invoices'
 #: erpnext/selling/onboarding_step/view_accounts_receivable/view_accounts_receivable.json:5
-msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)."
-msgstr "Ko vam duguje, koliko i koliko dugo. Pogledajte [Potraživanja od klijenata](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)."
+msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/accounts-receivable)."
+msgstr "Ko vam duguje, koliko i koliko dugo. Pogledajte [Potraživanja od klijenata](https://docs.thinknxg.com/thinknxgerp/accounts-receivable)."
 
 #. Description of the Onboarding Step 'Check what you owe'
 #: erpnext/buying/onboarding_step/view_accounts_payable/view_accounts_payable.json:5

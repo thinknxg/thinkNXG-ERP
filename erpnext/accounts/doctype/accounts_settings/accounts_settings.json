@@ -3,7 +3,7 @@
  "creation": "2013-06-24 15:49:57",
  "doctype": "DocType",
  "document_type": "Other",
- "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-settings",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/accounts-settings",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
@@ -318,7 +318,7 @@
   },
   {
    "default": "0",
-   "description": "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>",
+   "description": "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>",
    "fieldname": "enable_common_party_accounting",
    "fieldtype": "Check",
    "label": "Enable Common Party Accounting"

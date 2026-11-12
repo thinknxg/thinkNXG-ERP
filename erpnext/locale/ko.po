@@ -1123,13 +1123,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a supplier'
 #: erpnext/buying/onboarding_step/create_supplier/create_supplier.json:5
-msgid "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)."
-msgstr "구매하는 사업체 또는 개인입니다. [공급업체](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)를 참조하세요."
+msgid "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/supplier)."
+msgstr "구매하는 사업체 또는 개인입니다. [공급업체](https://docs.thinknxg.com/thinknxgerp/supplier)를 참조하세요."
 
 #. Description of the Onboarding Step 'Add a customer'
 #: erpnext/selling/onboarding_step/create_customer/create_customer.json:5
-msgid "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)."
-msgstr "판매하는 사업체 또는 개인입니다. [고객](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)을 참조하세요."
+msgid "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/customer)."
+msgstr "판매하는 사업체 또는 개인입니다. [고객](https://docs.thinknxg.com/thinknxgerp/customer)을 참조하세요."
 
 #: erpnext/public/js/sales_order_proforma.js:315
 msgid "A cancelled Proforma Invoice cannot be emailed."
@@ -1452,8 +1452,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add an item you sell'
 #: erpnext/selling/onboarding_step/create_selling_item/create_selling_item.json:5
-msgid "A product or a service you sell. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "판매하는 제품 또는 서비스입니다. [품목](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)을 참조하세요."
+msgid "A product or a service you sell. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "판매하는 제품 또는 서비스입니다. [품목](https://docs.thinknxg.com/thinknxgerp/item)을 참조하세요."
 
 #. Description of a DocType
 #: erpnext/stock/doctype/item/item.json:7
@@ -6128,13 +6128,13 @@ msgstr "다음 필터 중 하나 이상을 선택해야 합니다: 창고, 품�
 
 #. Description of the Onboarding Step 'Start a project'
 #: erpnext/projects/onboarding_step/create_project/create_project.json:5
-msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)."
-msgstr "시작과 끝이 있는 모든 것: 고객 작업, 설치, 내부 이니셔티브. [프로젝트](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)를 참조하십시오."
+msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.thinknxg.com/thinknxgerp/project)."
+msgstr "시작과 끝이 있는 모든 것: 고객 작업, 설치, 내부 이니셔티브. [프로젝트](https://docs.thinknxg.com/thinknxgerp/project)를 참조하십시오."
 
 #. Description of the Onboarding Step 'Add an item you stock'
 #: erpnext/stock/onboarding_step/create_item/create_item.json:5
-msgid "Anything you keep on shelves and count. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "선반에 보관하고 수량을 세는 모든 것. [품목](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)을 참조하십시오."
+msgid "Anything you keep on shelves and count. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "선반에 보관하고 수량을 세는 모든 것. [품목](https://docs.thinknxg.com/thinknxgerp/item)을 참조하십시오."
 
 #: erpnext/setup/setup_wizard/data/industry_type.txt:6
 msgid "Apparel & Accessories"
@@ -7355,8 +7355,8 @@ msgstr "{item_code}에 대해 자산 {assets_link}이(가) 생성됨"
 
 #. Description of the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:5
-msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)."
-msgstr "임의의 날짜 기준 자산, 부채 및 자본을 원장에서 바로 확인하실 수 있습니다. [재무상태표](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)를 참조하십시오."
+msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.thinknxg.com/thinknxgerp/balance-sheet)."
+msgstr "임의의 날짜 기준 자산, 부채 및 자본을 원장에서 바로 확인하실 수 있습니다. [재무상태표](https://docs.thinknxg.com/thinknxgerp/balance-sheet)를 참조하십시오."
 
 #. Description of a report in the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:18
@@ -9626,8 +9626,8 @@ msgstr "자재 명세서"
 
 #. Description of the Onboarding Step 'Send your first invoice'
 #: erpnext/selling/onboarding_step/create_sales_invoice/create_sales_invoice.json:5
-msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)."
-msgstr "품목에 대해 고객에게 청구서를 발행하세요. 제출한 후 **인쇄**를 사용하여 종이로 확인하거나 PDF로 보낼 수 있습니다. [판매 송장](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)을 참조하세요."
+msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/sales-invoice)."
+msgstr "품목에 대해 고객에게 청구서를 발행하세요. 제출한 후 **인쇄**를 사용하여 종이로 확인하거나 PDF로 보낼 수 있습니다. [판매 송장](https://docs.thinknxg.com/thinknxgerp/sales-invoice)을 참조하세요."
 
 #. Option for the 'Status' (Select) field in DocType 'Timesheet'
 #: erpnext/controllers/website_list_for_contact.py:227
@@ -13686,8 +13686,8 @@ msgstr "회사 {}이(가) POS 프로필의 회사 {}와(과) 일치하지 않습
 
 #. Description of the Onboarding Step 'Review how a goal is going'
 #: erpnext/quality_management/onboarding_step/create_quality_review/create_quality_review.json:5
-msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
-msgstr "결과를 목표와 비교하고 변경할 사항을 결정하십시오. [품질 관리](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)를 참조하십시오."
+msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/quality-management)."
+msgstr "결과를 목표와 비교하고 변경할 사항을 결정하십시오. [품질 관리](https://docs.thinknxg.com/thinknxgerp/quality-management)를 참조하십시오."
 
 #: erpnext/manufacturing/doctype/bom_creator/bom_creator.js:100
 msgid "Compare with Previous Revision"
@@ -13890,8 +13890,8 @@ msgstr "컴퓨터"
 
 #. Description of the Onboarding Step 'Set up an asset category'
 #: erpnext/assets/onboarding_step/create_asset_category/create_asset_category.json:5
-msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)."
-msgstr "컴퓨터, 차량, 가구: 각 종류의 감가상각 방법과 전기되는 계정. [자산 범주](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)를 참조하십시오."
+msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.thinknxg.com/thinknxgerp/asset-category)."
+msgstr "컴퓨터, 차량, 가구: 각 종류의 감가상각 방법과 전기되는 계정. [자산 범주](https://docs.thinknxg.com/thinknxgerp/asset-category)를 참조하십시오."
 
 #. Label of the condition (Code) field in DocType 'Inventory Dimension'
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.json:89
@@ -13969,8 +13969,8 @@ msgstr "전기일을 재설정하기 전에 확인"
 
 #. Description of the Onboarding Step 'Confirm a sales order'
 #: erpnext/selling/onboarding_step/create_sales_order/create_sales_order.json:5
-msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)."
-msgstr "고객이 주문한 내용과 납기일을 확인하세요. 주문에서 바로 배송과 송장 발행을 진행하세요. [판매 주문](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)을 참고하세요."
+msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.thinknxg.com/thinknxgerp/sales-order)."
+msgstr "고객이 주문한 내용과 납기일을 확인하세요. 주문에서 바로 배송과 송장 발행을 진행하세요. [판매 주문](https://docs.thinknxg.com/thinknxgerp/sales-order)을 참고하세요."
 
 #. Label of the final_confirmation_date (Date) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:326
@@ -17658,8 +17658,8 @@ msgstr "채무자"
 
 #. Description of the Onboarding Step 'Plan a work order'
 #: erpnext/manufacturing/onboarding_step/create_work_order/create_work_order.json:5
-msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)."
-msgstr "생산할 수량을 결정하세요. 필요한 원자재는 BOM을 기준으로 계산됩니다. [작업 지시서](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)를 참조하세요."
+msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.thinknxg.com/thinknxgerp/work-order)."
+msgstr "생산할 수량을 결정하세요. 필요한 원자재는 BOM을 기준으로 계산됩니다. [작업 지시서](https://docs.thinknxg.com/thinknxgerp/work-order)를 참조하세요."
 
 #. Title of an Onboarding Step
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:19
@@ -19146,8 +19146,8 @@ msgstr "역분개를 통해 제거된 감가상각"
 
 #. Description of the Onboarding Step 'Check its depreciation'
 #: erpnext/assets/onboarding_step/view_asset_depreciation/view_asset_depreciation.json:5
-msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)."
-msgstr "감가상각은 사용자의 분개 전표 없이 일정에 따라 자산별로 전기됩니다. [감가상각](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)을 참조하십시오."
+msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/asset-depreciation)."
+msgstr "감가상각은 사용자의 분개 전표 없이 일정에 따라 자산별로 전기됩니다. [감가상각](https://docs.thinknxg.com/thinknxgerp/asset-depreciation)을 참조하십시오."
 
 #. Label of the description_rules (Table) field in DocType 'Bank Transaction
 #. Rule'
@@ -22022,8 +22022,8 @@ msgstr "전기된 모든 감가상각을 자산별로 확인합니다."
 
 #. Description of the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:5
-msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
-msgstr "모든 품목의 모든 이동(입고 및 출고)과 각 이동 후의 잔액을 확인합니다. [재고 원장](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)을 참조하십시오."
+msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/stock-ledger)."
+msgstr "모든 품목의 모든 이동(입고 및 출고)과 각 이동 후의 잔액을 확인합니다. [재고 원장](https://docs.thinknxg.com/thinknxgerp/stock-ledger)을 참조하십시오."
 
 #. Description of a report in the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:17
@@ -22032,8 +22032,8 @@ msgstr "모든 품목의 모든 이동(입고 및 출고)입니다."
 
 #. Description of the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:5
-msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
-msgstr "송장과 결제에서 발생한 모든 전기 내역을 차변 및 대변과 함께 확인합니다. [총계정원장](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)을 참조하십시오."
+msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/general-ledger)."
+msgstr "송장과 결제에서 발생한 모든 전기 내역을 차변 및 대변과 함께 확인합니다. [총계정원장](https://docs.thinknxg.com/thinknxgerp/general-ledger)을 참조하십시오."
 
 #. Description of a report in the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:18
@@ -22052,8 +22052,8 @@ msgstr "모든 작업 지시서, 진행 상황, 지연된 항목."
 
 #. Description of the Onboarding Step 'See how production is going'
 #: erpnext/manufacturing/onboarding_step/view_work_order_summary_report/view_work_order_summary_report.json:5
-msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)."
-msgstr "모든 작업 지시서, 진행 상황, 지연 중인 항목. [작업 지시서 요약](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)을 참조하십시오."
+msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.thinknxg.com/thinknxgerp/work-order-summary)."
+msgstr "모든 작업 지시서, 진행 상황, 지연 중인 항목. [작업 지시서 요약](https://docs.thinknxg.com/thinknxgerp/work-order-summary)을 참조하십시오."
 
 #. Title of an incoterm
 #: erpnext/setup/doctype/incoterm/incoterms.csv:2
@@ -23932,8 +23932,8 @@ msgstr "품목 {0}의 수량은 양수여야 합니다"
 
 #. Description of the Onboarding Step 'Post a journal entry'
 #: erpnext/accounts/onboarding_step/create_journal_entry/create_journal_entry.json:5
-msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)."
-msgstr "송장이나 결제가 아닌 모든 항목(발생주의 회계, 감가상각, 실수 정정 등)에 사용합니다. [분개 전표](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)를 참조하세요."
+msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.thinknxg.com/thinknxgerp/journal-entry)."
+msgstr "송장이나 결제가 아닌 모든 항목(발생주의 회계, 감가상각, 실수 정정 등)에 사용합니다. [분개 전표](https://docs.thinknxg.com/thinknxgerp/journal-entry)를 참조하세요."
 
 #. Description of the 'Income Account' (Link) field in DocType 'Dunning'
 #: erpnext/accounts/doctype/dunning/dunning.json:245
@@ -24548,8 +24548,8 @@ msgstr "시작 날짜는 종료 날짜를 초과할 수 없습니다."
 
 #. Description of the Onboarding Step 'Move stock between warehouses'
 #: erpnext/stock/onboarding_step/move_stock/move_stock.json:5
-msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
-msgstr "창고에서 생산 현장으로, 또는 지점 간 이동. [재고 입력](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)을 참조하세요."
+msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/stock-entry)."
+msgstr "창고에서 생산 현장으로, 또는 지점 간 이동. [재고 입력](https://docs.thinknxg.com/thinknxgerp/stock-entry)을 참조하세요."
 
 #: erpnext/accounts/doctype/shipping_rule/shipping_rule.py:91
 #, python-brace-format
@@ -25311,8 +25311,8 @@ msgstr "출고 항목 {0}에 대해 이미 상품이 수령되었습니다"
 
 #. Description of the Onboarding Step 'Add an item you buy'
 #: erpnext/buying/onboarding_step/create_buying_item/create_buying_item.json:5
-msgid "Goods or services you buy from suppliers. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "공급업체로부터 구매하는 상품 또는 서비스입니다. [품목](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)을 참조하세요."
+msgid "Goods or services you buy from suppliers. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "공급업체로부터 구매하는 상품 또는 서비스입니다. [품목](https://docs.thinknxg.com/thinknxgerp/item)을 참조하세요."
 
 #: erpnext/setup/setup_wizard/operations/install_fixtures.py:193
 msgid "Government"
@@ -26258,8 +26258,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Enter the stock you have today'
 #: erpnext/stock/onboarding_step/create_opening_stock/create_opening_stock.json:5
-msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
-msgstr "선반에 있는 각 품목의 수량과 가치를 확인하세요. 이후 모든 입고와 납품이 이 정보를 최신 상태로 유지합니다. [재고 조정](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)을 참조하세요."
+msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/stock-reconciliation)."
+msgstr "선반에 있는 각 품목의 수량과 가치를 확인하세요. 이후 모든 입고와 납품이 이 정보를 최신 상태로 유지합니다. [재고 조정](https://docs.thinknxg.com/thinknxgerp/stock-reconciliation)을 참조하세요."
 
 #. Description of a DocType
 #: erpnext/manufacturing/doctype/master_production_schedule/master_production_schedule.json:6
@@ -26579,17 +26579,17 @@ msgstr "활성화된 경우, 자동 일련번호 \\n / 배치 번들 생성 시 
 #. DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:420
 msgid "If enabled, formula for <b>Qty to Order</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "만약 활성화되면 <b>주문 예정 수량</b>의 공식: <br>\n"
-"필요 수량 (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">예상 수량</a>. <br> 과다 주문을 방지하는 데 도움이 됩니다."
+"필요 수량 (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">예상 수량</a>. <br> 과다 주문을 방지하는 데 도움이 됩니다."
 
 #. Description of the 'Consider Projected Qty in Calculation (RM)' (Check)
 #. field in DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:238
 msgid "If enabled, formula for <b>Required Qty</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "활성화된 경우, <b>필요 수량</b>: <br>\n"
-"필요 수량(BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">예상 수량</a>. <br> 에 대한 공식이 표시됩니다. 이는 과잉 주문을 방지하는 데 도움이 됩니다."
+"필요 수량(BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">예상 수량</a>. <br> 에 대한 공식이 표시됩니다. 이는 과잉 주문을 방지하는 데 도움이 됩니다."
 
 #. Description of the 'Create Ledger Entries for Change Amount' (Check) field
 #. in DocType 'POS Settings'
@@ -27137,8 +27137,8 @@ msgstr "CSV 파일을 사용하여 가져오기"
 
 #. Description of the Onboarding Step 'Match your bank statement'
 #: erpnext/accounts/onboarding_step/open_banking/open_banking.json:5
-msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)."
-msgstr "은행 명세서를 가져오고 각 줄을 결제와 맞추어 장부가 명세서와 일치하도록 하십시오. [은행 대사](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)를 참조하십시오."
+msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.thinknxg.com/thinknxgerp/bank-reconciliation)."
+msgstr "은행 명세서를 가져오고 각 줄을 결제와 맞추어 장부가 명세서와 일치하도록 하십시오. [은행 대사](https://docs.thinknxg.com/thinknxgerp/bank-reconciliation)를 참조하십시오."
 
 #: erpnext/edi/doctype/code_list/code_list_import.js:131
 #, python-brace-format
@@ -29835,8 +29835,8 @@ msgstr "품목들을 병합한 후 정확한 재고량을 확인하는 데 몇 �
 
 #. Description of the Onboarding Step 'Pay your supplier'
 #: erpnext/buying/onboarding_step/pay_supplier/pay_supplier.json:5
-msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
-msgstr "공급업체의 청구서를 결제하고 은행 또는 현금 계정에서 금액을 차감합니다. [결제 항목](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)을 참조하십시오."
+msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/payment-entry)."
+msgstr "공급업체의 청구서를 결제하고 은행 또는 현금 계정에서 금액을 차감합니다. [결제 항목](https://docs.thinknxg.com/thinknxgerp/payment-entry)을 참조하십시오."
 
 #: erpnext/stock/report/stock_valuation_comparison/stock_valuation_comparison.py:533
 #: erpnext/stock/valuation_adjustment.py:391
@@ -29849,8 +29849,8 @@ msgstr "품목 세부 정보를 가져와야 합니다."
 
 #. Description of the Onboarding Step 'Enter a supplier's bill'
 #: erpnext/accounts/onboarding_step/create_accounting_purchase_invoice/create_accounting_purchase_invoice.json:5
-msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
-msgstr "비용과 공급업체에 대한 미지급금을 원장에 기록합니다. [구매 송장](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)을 참조하십시오."
+msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)."
+msgstr "비용과 공급업체에 대한 미지급금을 원장에 기록합니다. [구매 송장](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)을 참조하십시오."
 
 #: banking/src/components/features/BankReconciliation/BankBalance.tsx:138
 msgid "It takes into account all the transactions that have been posted and subtracts the transactions that have not cleared yet."
@@ -32343,8 +32343,8 @@ msgstr "리드를 통해 사업 기회를 얻을 수 있습니다. 모든 연락
 #. Description of the 'Enable Common Party Accounting' (Check) field in DocType
 #. 'Accounts Settings'
 #: erpnext/accounts/doctype/accounts_settings/accounts_settings.json:321
-msgid "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
-msgstr "<a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">공통당</a>에 대해 알아보세요"
+msgid "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
+msgstr "<a href=\"https://docs.thinknxg.com/thinknxgerp/common_party_accounting\" rel=\"noopener noreferrer\">공통당</a>에 대해 알아보세요"
 
 #. Label of the leave_encashed (Select) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:651
@@ -36925,8 +36925,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Record a supplier's quote'
 #: erpnext/buying/onboarding_step/create_supplier_quotation/create_supplier_quotation.json:5
-msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)."
-msgstr "공급업체가 제시한 가격을 기록해 두면 주문하기 전에 공급업체를 비교할 수 있습니다. [공급업체 견적](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)을 참조하세요."
+msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.thinknxg.com/thinknxgerp/supplier-quotation)."
+msgstr "공급업체가 제시한 가격을 기록해 두면 주문하기 전에 공급업체를 비교할 수 있습니다. [공급업체 견적](https://docs.thinknxg.com/thinknxgerp/supplier-quotation)을 참조하세요."
 
 #: erpnext/manufacturing/doctype/bom_update_log/bom_update_log_list.js:21
 msgid "Note: Automatic log deletion only applies to logs of type <i>Update Cost</i>"
@@ -37379,8 +37379,8 @@ msgstr "작업 지시가 종료되면 다시 재개할 수 없습니다."
 
 #. Description of the Onboarding Step 'Quote a price'
 #: erpnext/selling/onboarding_step/create_quotation/create_quotation.json:5
-msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)."
-msgstr "고객이 동의하면 견적서에서 바로 판매 주문 또는 송장으로 전환하십시오. [견적서](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)를 참조하십시오."
+msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.thinknxg.com/thinknxgerp/quotation)."
+msgstr "고객이 동의하면 견적서에서 바로 판매 주문 또는 송장으로 전환하십시오. [견적서](https://docs.thinknxg.com/thinknxgerp/quotation)를 참조하십시오."
 
 #: erpnext/accounts/doctype/loyalty_program/loyalty_program.js:39
 msgid "One customer can be part of only single Loyalty Program."
@@ -38554,8 +38554,8 @@ msgstr "주문 금액"
 
 #. Description of the Onboarding Step 'Place a purchase order'
 #: erpnext/buying/onboarding_step/create_purchase_order/create_purchase_order.json:5
-msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)."
-msgstr "공급업체에 주문하세요. 상품이 도착하면 수령 처리한 후, 해당 주문에서 바로 청구서를 기록하세요. [구매 주문서](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)를 참조하세요."
+msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/purchase-order)."
+msgstr "공급업체에 주문하세요. 상품이 도착하면 수령 처리한 후, 해당 주문에서 바로 청구서를 기록하세요. [구매 주문서](https://docs.thinknxg.com/thinknxgerp/purchase-order)를 참조하세요."
 
 #. Title of the Module Onboarding 'Buying Onboarding'
 #. Title of an Onboarding Step
@@ -48397,8 +48397,8 @@ msgstr "원자재 {0}은(는) {1}에 매핑되어 있으며, 이는 이 항목�
 
 #. Description of the Onboarding Step 'Finish making it'
 #: erpnext/manufacturing/onboarding_step/finish_work_order/finish_work_order.json:5
-msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
-msgstr "원자재는 재고에서 빠져나가고 완제품은 재고로 들어옵니다. 작업 지시서에서 **완료**를 누르면 이 내용이 자동으로 입력됩니다. [재고 입력](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)을 참조하세요."
+msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/stock-entry)."
+msgstr "원자재는 재고에서 빠져나가고 완제품은 재고로 들어옵니다. 작업 지시서에서 **완료**를 누르면 이 내용이 자동으로 입력됩니다. [재고 입력](https://docs.thinknxg.com/thinknxgerp/stock-entry)을 참조하세요."
 
 #. Description of the 'Validate consumed quantity (as per BOM)' (Check) field
 #. in DocType 'Buying Settings'
@@ -49015,18 +49015,18 @@ msgstr "다른 은행/신용카드/현금 계좌로의 내부 이체를 기록�
 
 #. Description of the Onboarding Step 'Log time against it'
 #: erpnext/projects/onboarding_step/create_timesheet/create_timesheet.json:5
-msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)."
-msgstr "작업에 소요된 시간을 기록하세요. 고객에게 청구하거나 프로젝트 비용 산정에 사용할 수 있습니다. [타임시트](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)를 참조하세요."
+msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.thinknxg.com/thinknxgerp/timesheets)."
+msgstr "작업에 소요된 시간을 기록하세요. 고객에게 청구하거나 프로젝트 비용 산정에 사용할 수 있습니다. [타임시트](https://docs.thinknxg.com/thinknxgerp/timesheets)를 참조하세요."
 
 #. Description of the Onboarding Step 'Inspect goods coming in or going out'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection/create_quality_inspection.json:5
-msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)."
-msgstr "입고 또는 납품에 대한 검사 결과를 기록하고, 상품을 승인하거나 거부하세요. [품질 검사](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)를 참조하세요."
+msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.thinknxg.com/thinknxgerp/quality-inspection)."
+msgstr "입고 또는 납품에 대한 검사 결과를 기록하고, 상품을 승인하거나 거부하세요. [품질 검사](https://docs.thinknxg.com/thinknxgerp/quality-inspection)를 참조하세요."
 
 #. Description of the Onboarding Step 'Hand it to a person or place'
 #: erpnext/assets/onboarding_step/create_asset_movement/create_asset_movement.json:5
-msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)."
-msgstr "누가 보유하고 있는지와 위치를 레코드에 기록하여 언제든 파악할 수 있도록 하십시오. [자산 이동](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)을 참조하십시오."
+msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.thinknxg.com/thinknxgerp/asset-movement)."
+msgstr "누가 보유하고 있는지와 위치를 레코드에 기록하여 언제든 파악할 수 있도록 하십시오. [자산 이동](https://docs.thinknxg.com/thinknxgerp/asset-movement)을 참조하십시오."
 
 #. Label of the recording_html (HTML) field in DocType 'Call Log'
 #: erpnext/telephony/doctype/call_log/call_log.json:91
@@ -49351,8 +49351,8 @@ msgstr "정기적인"
 
 #. Description of the Onboarding Step 'Plan maintenance visits'
 #: erpnext/quality_management/onboarding_step/create_maintenance_schedule/create_maintenance_schedule.json:5
-msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)."
-msgstr "판매한 장비에 대한 정기 서비스 방문을 계약 기간 전체에 걸쳐 미리 계획합니다. [유지보수 일정](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)을 참조하십시오."
+msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.thinknxg.com/thinknxgerp/maintenance-schedule)."
+msgstr "판매한 장비에 대한 정기 서비스 방문을 계약 기간 전체에 걸쳐 미리 계획합니다. [유지보수 일정](https://docs.thinknxg.com/thinknxgerp/maintenance-schedule)을 참조하십시오."
 
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.py:214
 msgid "Rejected "
@@ -54718,8 +54718,8 @@ msgstr "고객, 품목 또는 지역별 판매를 원하는 기간 동안 확인
 
 #. Description of the Onboarding Step 'Spot your best sellers'
 #: erpnext/selling/onboarding_step/view_sales_analytics/view_sales_analytics.json:5
-msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
-msgstr "고객, 품목 또는 지역별 판매를 원하는 기간 동안 확인합니다. 자세한 내용은 [판매 분석](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)을 참조하십시오."
+msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.thinknxg.com/thinknxgerp/sales-analytics)."
+msgstr "고객, 품목 또는 지역별 판매를 원하는 기간 동안 확인합니다. 자세한 내용은 [판매 분석](https://docs.thinknxg.com/thinknxgerp/sales-analytics)을 참조하십시오."
 
 #: erpnext/manufacturing/doctype/production_plan/production_plan.py:268
 msgid "Sales orders are not available for production"
@@ -56702,8 +56702,8 @@ msgstr "서비스"
 
 #. Description of the Onboarding Step 'Schedule its upkeep'
 #: erpnext/assets/onboarding_step/create_asset_maintenance/create_asset_maintenance.json:5
-msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
-msgstr "서비스, 검사 및 교정 작업과 해당 작업을 담당하는 팀에 대한 미리 알림. [자산 유지보수](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance) 문서를 참조하십시오."
+msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.thinknxg.com/thinknxgerp/asset-maintenance)."
+msgstr "서비스, 검사 및 교정 작업과 해당 작업을 담당하는 팀에 대한 미리 알림. [자산 유지보수](https://docs.thinknxg.com/thinknxgerp/asset-maintenance) 문서를 참조하십시오."
 
 #. Label of the set_warehouse (Link) field in DocType 'Purchase Invoice'
 #: erpnext/accounts/doctype/purchase_invoice/purchase_invoice.json:582
@@ -58068,8 +58068,8 @@ msgstr "문제가 발생했습니다. 다시 시도해 주십시오."
 
 #. Description of the Onboarding Step 'Record an asset you already own'
 #: erpnext/assets/onboarding_step/create_existing_asset/create_existing_asset.json:5
-msgid "Something you bought before using thinkNXG ERP, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
-msgstr "thinkNXG ERP를 사용하기 전에 구입한 물품으로, 지불한 금액, 보관 위치, 이미 감가상각된 금액을 포함합니다. 참조: [자산](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
+msgid "Something you bought before using thinkNXG ERP, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.thinknxg.com/thinknxgerp/asset)."
+msgstr "thinkNXG ERP를 사용하기 전에 구입한 물품으로, 지불한 금액, 보관 위치, 이미 감가상각된 금액을 포함합니다. 참조: [자산](https://docs.thinknxg.com/thinknxgerp/asset)."
 
 #. Description of a DocType
 #: erpnext/quality_management/doctype/quality_goal/quality_goal.json:5
@@ -58078,13 +58078,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a raw material'
 #: erpnext/manufacturing/onboarding_step/create_raw_materials/create_raw_materials.json:5
-msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "제품을 만드는 데 사용하며 원자재 그룹에 보관되는 항목입니다. 참조: [품목](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "제품을 만드는 데 사용하며 원자재 그룹에 보관되는 항목입니다. 참조: [품목](https://docs.thinknxg.com/thinknxgerp/item)."
 
 #. Description of the Onboarding Step 'Set a quality goal'
 #: erpnext/quality_management/onboarding_step/create_quality_goal/create_quality_goal.json:5
-msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
-msgstr "정시 납품이나 반품처럼 측정하고 개선하고 싶은 항목으로, 선택한 일정에 따라 검토합니다. 참조: [품질 관리](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/quality-management)."
+msgstr "정시 납품이나 반품처럼 측정하고 개선하고 싶은 항목으로, 선택한 일정에 따라 검토합니다. 참조: [품질 관리](https://docs.thinknxg.com/thinknxgerp/quality-management)."
 
 #. Description of a DocType
 #: erpnext/assets/doctype/asset/asset.json:7
@@ -59645,13 +59645,13 @@ msgstr "재고 동결 기한"
 
 #. Description of the Onboarding Step 'Ship to a customer'
 #: erpnext/stock/onboarding_step/create_delivery_note/create_delivery_note.json:5
-msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)."
-msgstr "상품이 출고되면 재고가 감소하며, 송장은 납품에서 작성할 수 있습니다. [배송 전표](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)를 참조하십시오."
+msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.thinknxg.com/thinknxgerp/delivery-note)."
+msgstr "상품이 출고되면 재고가 감소하며, 송장은 납품에서 작성할 수 있습니다. [배송 전표](https://docs.thinknxg.com/thinknxgerp/delivery-note)를 참조하십시오."
 
 #. Description of the Onboarding Step 'Receive goods from a supplier'
 #: erpnext/stock/onboarding_step/create_purchase_receipt/create_purchase_receipt.json:5
-msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)."
-msgstr "상품을 입고하는 창고에서 재고가 증가하며, 청구서는 입고 건에서 작성할 수 있습니다. [구매 입고](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)를 참조하십시오."
+msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.thinknxg.com/thinknxgerp/purchase-receipt)."
+msgstr "상품을 입고하는 창고에서 재고가 증가하며, 청구서는 입고 건에서 작성할 수 있습니다. [구매 입고](https://docs.thinknxg.com/thinknxgerp/purchase-receipt)를 참조하십시오."
 
 #: erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:1332
 #, python-brace-format
@@ -62626,8 +62626,8 @@ msgstr "{0}의 계정 유형은 재고 원장 항목이 존재하므로 {1}에�
 
 #. Description of the Onboarding Step 'Add the bank account you use'
 #: erpnext/accounts/onboarding_step/add_bank_account/add_bank_account.json:5
-msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)."
-msgstr "고객이 입금하고 회사가 출금하는 계좌이며, 계정과목표의 해당 계정과 연결됩니다. [은행 계좌](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)를 참조하십시오."
+msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.thinknxg.com/thinknxgerp/bank-account)."
+msgstr "고객이 입금하고 회사가 출금하는 계좌이며, 계정과목표의 해당 계정과 연결됩니다. [은행 계좌](https://docs.thinknxg.com/thinknxgerp/bank-account)를 참조하십시오."
 
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.py:223
 #, python-brace-format
@@ -62673,8 +62673,8 @@ msgstr "배치 {0}은(는) 창고 {2}에서 {1}용으로 예약되어 있으며,
 
 #. Description of the Onboarding Step 'Enter their bill'
 #: erpnext/buying/onboarding_step/create_purchase_invoice/create_purchase_invoice.json:5
-msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
-msgstr "공급업체가 보낸 청구서로, 지불해야 할 금액과 마감일을 확인할 수 있습니다. [구매 송장](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)을 참조하십시오."
+msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)."
+msgstr "공급업체가 보낸 청구서로, 지불해야 할 금액과 마감일을 확인할 수 있습니다. [구매 송장](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)을 참조하십시오."
 
 #: erpnext/controllers/taxes_and_totals.py:261
 msgid "The cash or non-trade discount cannot be combined with discounts carried from other documents."
@@ -62956,8 +62956,8 @@ msgstr "작업 카드 {0} 가 {1} 상태에 있으므로 다시 시작할 수 �
 
 #. Description of the Onboarding Step 'Add an asset item'
 #: erpnext/assets/onboarding_step/create_asset_item/create_asset_item.json:5
-msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "보유하고 계신 물건의 종류로, 고정자산으로 표시됩니다. [품목](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)을 참조하세요."
+msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "보유하고 계신 물건의 종류로, 고정자산으로 표시됩니다. [품목](https://docs.thinknxg.com/thinknxgerp/item)을 참조하세요."
 
 #: erpnext/accounts/doctype/bank_transaction_rule/bank_transaction_rule.py:129
 msgid "The last account row must not have any debit or credit amounts set."
@@ -63039,8 +63039,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Decide what to check'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:5
-msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)."
-msgstr "검사할 매개변수와 통과로 간주되는 기준으로, 모든 검사에 재사용됩니다. [품질 검사 템플릿](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)을 참조하세요."
+msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.thinknxg.com/thinknxgerp/quality-inspection-template)."
+msgstr "검사할 매개변수와 통과로 간주되는 기준으로, 모든 검사에 재사용됩니다. [품질 검사 템플릿](https://docs.thinknxg.com/thinknxgerp/quality-inspection-template)을 참조하세요."
 
 #: erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:234
 #, python-brace-format
@@ -63119,10 +63119,10 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Write its bill of materials'
 #: erpnext/manufacturing/onboarding_step/create_bill_of_materials/create_bill_of_materials.json:5
-msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials).\n\n"
-"Sending some of the work to a supplier? See [Subcontracting](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)."
-msgstr "제품 한 단위에 들어가는 원자재와 각각의 수량입니다. 제출하여 생산에 사용하세요. [BOM](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials)을 참조하세요.\n\n"
-"일부 작업을 공급업체에 보내시나요? [하도급](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)을 참조하세요."
+msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.thinknxg.com/thinknxgerp/bill-of-materials).\n\n"
+"Sending some of the work to a supplier? See [Subcontracting](https://docs.thinknxg.com/thinknxgerp/subcontracting)."
+msgstr "제품 한 단위에 들어가는 원자재와 각각의 수량입니다. 제출하여 생산에 사용하세요. [BOM](https://docs.thinknxg.com/thinknxgerp/bill-of-materials)을 참조하세요.\n\n"
+"일부 작업을 공급업체에 보내시나요? [하도급](https://docs.thinknxg.com/thinknxgerp/subcontracting)을 참조하세요."
 
 #: banking/src/pages/BankStatementImporter.tsx:205
 msgid "The reference number of the transaction"
@@ -63221,8 +63221,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Write down how the work is done'
 #: erpnext/quality_management/onboarding_step/create_quality_procedure/create_quality_procedure.json:5
-msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
-msgstr "팀이 따르는 단계로, 작업이 매번 같은 방식으로 수행되도록 합니다. [품질 관리](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)를 참조하십시오."
+msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/quality-management)."
+msgstr "팀이 따르는 단계로, 작업이 매번 같은 방식으로 수행되도록 합니다. [품질 관리](https://docs.thinknxg.com/thinknxgerp/quality-management)를 참조하십시오."
 
 #: erpnext/stock/stock_ledger.py:1074
 #, python-brace-format
@@ -63283,8 +63283,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Review your taxes'
 #: erpnext/accounts/onboarding_step/review_taxes/review_taxes.json:5
-msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)."
-msgstr "모든 송장에 입력되는 세금입니다. 저희가 보유한 곳에는 귀하의 국가 세금을 추가했습니다. 청구하시는 요율과 일치하는지 확인하십시오. 구매 세금은 [구매 세금 및 부과금 템플릿](/desk/purchase-taxes-and-charges-template)에 있습니다. [세금 설정](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)을 참조하십시오."
+msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/setting-up-taxes)."
+msgstr "모든 송장에 입력되는 세금입니다. 저희가 보유한 곳에는 귀하의 국가 세금을 추가했습니다. 청구하시는 요율과 일치하는지 확인하십시오. 구매 세금은 [구매 세금 및 부과금 템플릿](/desk/purchase-taxes-and-charges-template)에 있습니다. [세금 설정](https://docs.thinknxg.com/thinknxgerp/setting-up-taxes)을 참조하십시오."
 
 #: erpnext/stock/doctype/material_request/material_request.py:508
 #, python-brace-format
@@ -63469,8 +63469,8 @@ msgid "There are no transactions in the system for the selected bank account and
 msgstr "선택한 은행 계좌와 기간에 대해 필터 조건과 일치하는 거래 내역이 시스템에 없습니다."
 
 #: erpnext/stock/doctype/item/item.js:1505
-msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
-msgstr "재고 평가를 유지하는 방법에는 두 가지 옵션이 있습니다. FIFO (선입선출, first in - first out)와 이동 평균입니다. 이 주제를 자세히 이해하시려면 <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>품목 평가, FIFO 및 이동 평균.</a>을(를) 방문해 주십시오."
+msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.thinknxg.com/thinknxgerp/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
+msgstr "재고 평가를 유지하는 방법에는 두 가지 옵션이 있습니다. FIFO (선입선출, first in - first out)와 이동 평균입니다. 이 주제를 자세히 이해하시려면 <a href='https://docs.thinknxg.com/thinknxgerp/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>품목 평가, FIFO 및 이동 평균.</a>을(를) 방문해 주십시오."
 
 #: banking/src/components/features/BankReconciliation/MatchAndReconcile.tsx:980
 #, python-brace-format
@@ -69168,8 +69168,8 @@ msgstr "기본 설정을 완료하지 못했습니다"
 
 #. Description of the Onboarding Step 'Review your warehouses'
 #: erpnext/stock/onboarding_step/setup_warehouse/setup_warehouse.json:5
-msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)."
-msgstr "시작용으로 몇 개의 창고를 만들었습니다. 이름을 변경하거나 실제로 재고를 보관하는 장소를 추가하세요. [창고](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse) 문서를 참조하세요."
+msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.thinknxg.com/thinknxgerp/warehouse)."
+msgstr "시작용으로 몇 개의 창고를 만들었습니다. 이름을 변경하거나 실제로 재고를 보관하는 장소를 추가하세요. [창고](https://docs.thinknxg.com/thinknxgerp/warehouse) 문서를 참조하세요."
 
 #: erpnext/templates/emails/appointment_confirmed.html:3
 msgid "We look forward to meeting you"
@@ -69177,8 +69177,8 @@ msgstr "만나 뵙기를 기대합니다."
 
 #. Description of the Onboarding Step 'Review your chart of accounts'
 #: erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:5
-msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)."
-msgstr "귀하의 국가에 맞는 표준 계정과목표를 설정했습니다. 계정이 어떻게 그룹화되어 있는지 확인하고, 보고 방식에 맞게 계정 이름을 변경하거나 계정을 추가하세요. [계정과목표](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts) 문서를 참조하세요."
+msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.thinknxg.com/thinknxgerp/chart-of-accounts)."
+msgstr "귀하의 국가에 맞는 표준 계정과목표를 설정했습니다. 계정이 어떻게 그룹화되어 있는지 확인하고, 보고 방식에 맞게 계정 이름을 변경하거나 계정을 추가하세요. [계정과목표](https://docs.thinknxg.com/thinknxgerp/chart-of-accounts) 문서를 참조하세요."
 
 #: banking/src/pages/BankStatementImporter.tsx:169
 msgid "We support uploading CSV, XLSX, XLS and PDF files. Please make sure the file contains the correct columns."
@@ -69345,8 +69345,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a product you make'
 #: erpnext/manufacturing/onboarding_step/create_finished_goods/create_finished_goods.json:5
-msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "생산이 끝나면 나오는 제품으로, 제품 그룹에 보관됩니다. [품목](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item) 문서를 참조하세요."
+msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "생산이 끝나면 나오는 제품으로, 제품 그룹에 보관됩니다. [품목](https://docs.thinknxg.com/thinknxgerp/item) 문서를 참조하세요."
 
 #: erpnext/templates/pages/help.html:12
 msgid "What do you need help with?"
@@ -69457,8 +69457,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Log a problem'
 #: erpnext/quality_management/onboarding_step/create_non_conformance/create_non_conformance.json:5
-msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)."
-msgstr "절차와 맞지 않는 사항이 있으면 발생한 내용, 원인, 그리고 이에 대한 조치를 기록하세요. [부적합](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)을 참조하세요."
+msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.thinknxg.com/thinknxgerp/non-conformance)."
+msgstr "절차와 맞지 않는 사항이 있으면 발생한 내용, 원인, 그리고 이에 대한 조치를 기록하세요. [부적합](https://docs.thinknxg.com/thinknxgerp/non-conformance)을 참조하세요."
 
 #: erpnext/stock/doctype/stock_entry/stock_entry.py:502
 #, python-brace-format
@@ -69473,8 +69473,8 @@ msgstr "연간 보험(예: 연간 보험)처럼 무언가를 미리 결제하는
 
 #. Description of the Onboarding Step 'Get paid'
 #: erpnext/selling/onboarding_step/create_payment_entry/create_payment_entry.json:5
-msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
-msgstr "고객이 결제하면 여기에 기록하십시오. 고객의 송장과 대조되므로 아직 미수금이 얼마인지 확인할 수 있습니다. [결제 항목](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)을 참조하십시오."
+msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/payment-entry)."
+msgstr "고객이 결제하면 여기에 기록하십시오. 고객의 송장과 대조되므로 아직 미수금이 얼마인지 확인할 수 있습니다. [결제 항목](https://docs.thinknxg.com/thinknxgerp/payment-entry)을 참조하십시오."
 
 #. Description of a DocType
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.json:6
@@ -69517,8 +69517,8 @@ msgstr "누구를 위해 설정하고 계십니까?"
 
 #. Description of the Onboarding Step 'Break it into tasks'
 #: erpnext/projects/onboarding_step/create_tasks/create_tasks.json:5
-msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)."
-msgstr "누가 무엇을 언제까지 할지 정합니다. 작업은 프로젝트 진행 상황에 반영됩니다. [작업](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)을 참조하십시오."
+msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.thinknxg.com/thinknxgerp/task)."
+msgstr "누가 무엇을 언제까지 할지 정합니다. 작업은 프로젝트 진행 상황에 반영됩니다. [작업](https://docs.thinknxg.com/thinknxgerp/task)을 참조하십시오."
 
 #. Description of a report in the Onboarding Step 'Follow up on unpaid
 #. invoices'
@@ -69528,8 +69528,8 @@ msgstr "누가 얼마를, 얼마나 오랫동안 갚지 않았는지 보여 줍�
 
 #. Description of the Onboarding Step 'Follow up on unpaid invoices'
 #: erpnext/selling/onboarding_step/view_accounts_receivable/view_accounts_receivable.json:5
-msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)."
-msgstr "누가 얼마를, 얼마나 오랫동안 갚지 않았는지 보여 줍니다. [매출채권](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)을 참조하십시오."
+msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/accounts-receivable)."
+msgstr "누가 얼마를, 얼마나 오랫동안 갚지 않았는지 보여 줍니다. [매출채권](https://docs.thinknxg.com/thinknxgerp/accounts-receivable)을 참조하십시오."
 
 #. Description of the Onboarding Step 'Check what you owe'
 #: erpnext/buying/onboarding_step/view_accounts_payable/view_accounts_payable.json:5

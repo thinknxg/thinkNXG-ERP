@@ -1052,13 +1052,13 @@ msgstr "crwdns275903:0crwdne275903:0"
 
 #. Description of the Onboarding Step 'Add a supplier'
 #: erpnext/buying/onboarding_step/create_supplier/create_supplier.json:5
-msgid "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)."
-msgstr "crwdns275905:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/suppliercrwdne275905:0"
+msgid "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/supplier)."
+msgstr "crwdns275905:0https://docs.thinknxg.com/thinknxgerp/suppliercrwdne275905:0"
 
 #. Description of the Onboarding Step 'Add a customer'
 #: erpnext/selling/onboarding_step/create_customer/create_customer.json:5
-msgid "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)."
-msgstr "crwdns275907:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/customercrwdne275907:0"
+msgid "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/customer)."
+msgstr "crwdns275907:0https://docs.thinknxg.com/thinknxgerp/customercrwdne275907:0"
 
 #: erpnext/public/js/sales_order_proforma.js:315
 msgid "A cancelled Proforma Invoice cannot be emailed."
@@ -1381,8 +1381,8 @@ msgstr "crwdns276007:0crwdne276007:0"
 
 #. Description of the Onboarding Step 'Add an item you sell'
 #: erpnext/selling/onboarding_step/create_selling_item/create_selling_item.json:5
-msgid "A product or a service you sell. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "crwdns276009:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/itemcrwdne276009:0"
+msgid "A product or a service you sell. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "crwdns276009:0https://docs.thinknxg.com/thinknxgerp/itemcrwdne276009:0"
 
 #. Description of a DocType
 #: erpnext/stock/doctype/item/item.json:7
@@ -6057,13 +6057,13 @@ msgstr "crwdns221165:0crwdne221165:0"
 
 #. Description of the Onboarding Step 'Start a project'
 #: erpnext/projects/onboarding_step/create_project/create_project.json:5
-msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)."
-msgstr "crwdns276165:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/projectcrwdne276165:0"
+msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.thinknxg.com/thinknxgerp/project)."
+msgstr "crwdns276165:0https://docs.thinknxg.com/thinknxgerp/projectcrwdne276165:0"
 
 #. Description of the Onboarding Step 'Add an item you stock'
 #: erpnext/stock/onboarding_step/create_item/create_item.json:5
-msgid "Anything you keep on shelves and count. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "crwdns276167:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/itemcrwdne276167:0"
+msgid "Anything you keep on shelves and count. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "crwdns276167:0https://docs.thinknxg.com/thinknxgerp/itemcrwdne276167:0"
 
 #: erpnext/setup/setup_wizard/data/industry_type.txt:6
 msgid "Apparel & Accessories"
@@ -7284,8 +7284,8 @@ msgstr "crwdns221521:0{assets_link}crwdnd221521:0{item_code}crwdne221521:0"
 
 #. Description of the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:5
-msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)."
-msgstr "crwdns276183:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheetcrwdne276183:0"
+msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.thinknxg.com/thinknxgerp/balance-sheet)."
+msgstr "crwdns276183:0https://docs.thinknxg.com/thinknxgerp/balance-sheetcrwdne276183:0"
 
 #. Description of a report in the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:18
@@ -9555,8 +9555,8 @@ msgstr "crwdns222221:0crwdne222221:0"
 
 #. Description of the Onboarding Step 'Send your first invoice'
 #: erpnext/selling/onboarding_step/create_sales_invoice/create_sales_invoice.json:5
-msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)."
-msgstr "crwdns276201:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoicecrwdne276201:0"
+msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/sales-invoice)."
+msgstr "crwdns276201:0https://docs.thinknxg.com/thinknxgerp/sales-invoicecrwdne276201:0"
 
 #. Option for the 'Status' (Select) field in DocType 'Timesheet'
 #: erpnext/controllers/website_list_for_contact.py:227
@@ -13615,8 +13615,8 @@ msgstr "crwdns223321:0crwdne223321:0"
 
 #. Description of the Onboarding Step 'Review how a goal is going'
 #: erpnext/quality_management/onboarding_step/create_quality_review/create_quality_review.json:5
-msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
-msgstr "crwdns276267:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-managementcrwdne276267:0"
+msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/quality-management)."
+msgstr "crwdns276267:0https://docs.thinknxg.com/thinknxgerp/quality-managementcrwdne276267:0"
 
 #: erpnext/manufacturing/doctype/bom_creator/bom_creator.js:100
 msgid "Compare with Previous Revision"
@@ -13819,8 +13819,8 @@ msgstr "crwdns223381:0crwdne223381:0"
 
 #. Description of the Onboarding Step 'Set up an asset category'
 #: erpnext/assets/onboarding_step/create_asset_category/create_asset_category.json:5
-msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)."
-msgstr "crwdns276271:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-categorycrwdne276271:0"
+msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.thinknxg.com/thinknxgerp/asset-category)."
+msgstr "crwdns276271:0https://docs.thinknxg.com/thinknxgerp/asset-categorycrwdne276271:0"
 
 #. Label of the condition (Code) field in DocType 'Inventory Dimension'
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.json:89
@@ -13898,8 +13898,8 @@ msgstr "crwdns223411:0crwdne223411:0"
 
 #. Description of the Onboarding Step 'Confirm a sales order'
 #: erpnext/selling/onboarding_step/create_sales_order/create_sales_order.json:5
-msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)."
-msgstr "crwdns276275:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-ordercrwdne276275:0"
+msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.thinknxg.com/thinknxgerp/sales-order)."
+msgstr "crwdns276275:0https://docs.thinknxg.com/thinknxgerp/sales-ordercrwdne276275:0"
 
 #. Label of the final_confirmation_date (Date) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:326
@@ -17585,8 +17585,8 @@ msgstr "crwdns224441:0crwdne224441:0"
 
 #. Description of the Onboarding Step 'Plan a work order'
 #: erpnext/manufacturing/onboarding_step/create_work_order/create_work_order.json:5
-msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)."
-msgstr "crwdns276323:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-ordercrwdne276323:0"
+msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.thinknxg.com/thinknxgerp/work-order)."
+msgstr "crwdns276323:0https://docs.thinknxg.com/thinknxgerp/work-ordercrwdne276323:0"
 
 #. Title of an Onboarding Step
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:19
@@ -19073,8 +19073,8 @@ msgstr "crwdns224867:0crwdne224867:0"
 
 #. Description of the Onboarding Step 'Check its depreciation'
 #: erpnext/assets/onboarding_step/view_asset_depreciation/view_asset_depreciation.json:5
-msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)."
-msgstr "crwdns276341:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciationcrwdne276341:0"
+msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/asset-depreciation)."
+msgstr "crwdns276341:0https://docs.thinknxg.com/thinknxgerp/asset-depreciationcrwdne276341:0"
 
 #. Label of the description_rules (Table) field in DocType 'Bank Transaction
 #. Rule'
@@ -21941,8 +21941,8 @@ msgstr "crwdns276369:0crwdne276369:0"
 
 #. Description of the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:5
-msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
-msgstr "crwdns276371:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledgercrwdne276371:0"
+msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/stock-ledger)."
+msgstr "crwdns276371:0https://docs.thinknxg.com/thinknxgerp/stock-ledgercrwdne276371:0"
 
 #. Description of a report in the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:17
@@ -21951,8 +21951,8 @@ msgstr "crwdns276373:0crwdne276373:0"
 
 #. Description of the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:5
-msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
-msgstr "crwdns276375:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledgercrwdne276375:0"
+msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/general-ledger)."
+msgstr "crwdns276375:0https://docs.thinknxg.com/thinknxgerp/general-ledgercrwdne276375:0"
 
 #. Description of a report in the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:18
@@ -21971,8 +21971,8 @@ msgstr "crwdns276379:0crwdne276379:0"
 
 #. Description of the Onboarding Step 'See how production is going'
 #: erpnext/manufacturing/onboarding_step/view_work_order_summary_report/view_work_order_summary_report.json:5
-msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)."
-msgstr "crwdns276381:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summarycrwdne276381:0"
+msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.thinknxg.com/thinknxgerp/work-order-summary)."
+msgstr "crwdns276381:0https://docs.thinknxg.com/thinknxgerp/work-order-summarycrwdne276381:0"
 
 #. Title of an incoterm
 #: erpnext/setup/doctype/incoterm/incoterms.csv:2
@@ -23850,8 +23850,8 @@ msgstr "crwdns226289:0{0}crwdne226289:0"
 
 #. Description of the Onboarding Step 'Post a journal entry'
 #: erpnext/accounts/onboarding_step/create_journal_entry/create_journal_entry.json:5
-msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)."
-msgstr "crwdns276413:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entrycrwdne276413:0"
+msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.thinknxg.com/thinknxgerp/journal-entry)."
+msgstr "crwdns276413:0https://docs.thinknxg.com/thinknxgerp/journal-entrycrwdne276413:0"
 
 #. Description of the 'Income Account' (Link) field in DocType 'Dunning'
 #: erpnext/accounts/doctype/dunning/dunning.json:245
@@ -24466,8 +24466,8 @@ msgstr "crwdns226497:0crwdne226497:0"
 
 #. Description of the Onboarding Step 'Move stock between warehouses'
 #: erpnext/stock/onboarding_step/move_stock/move_stock.json:5
-msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
-msgstr "crwdns276415:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entrycrwdne276415:0"
+msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/stock-entry)."
+msgstr "crwdns276415:0https://docs.thinknxg.com/thinknxgerp/stock-entrycrwdne276415:0"
 
 #: erpnext/accounts/doctype/shipping_rule/shipping_rule.py:91
 #, python-brace-format
@@ -25229,8 +25229,8 @@ msgstr "crwdns226747:0{0}crwdne226747:0"
 
 #. Description of the Onboarding Step 'Add an item you buy'
 #: erpnext/buying/onboarding_step/create_buying_item/create_buying_item.json:5
-msgid "Goods or services you buy from suppliers. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "crwdns276427:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/itemcrwdne276427:0"
+msgid "Goods or services you buy from suppliers. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "crwdns276427:0https://docs.thinknxg.com/thinknxgerp/itemcrwdne276427:0"
 
 #: erpnext/setup/setup_wizard/operations/install_fixtures.py:193
 msgid "Government"
@@ -26176,8 +26176,8 @@ msgstr "crwdns276455:0crwdne276455:0"
 
 #. Description of the Onboarding Step 'Enter the stock you have today'
 #: erpnext/stock/onboarding_step/create_opening_stock/create_opening_stock.json:5
-msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
-msgstr "crwdns276457:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliationcrwdne276457:0"
+msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/stock-reconciliation)."
+msgstr "crwdns276457:0https://docs.thinknxg.com/thinknxgerp/stock-reconciliationcrwdne276457:0"
 
 #. Description of a DocType
 #: erpnext/manufacturing/doctype/master_production_schedule/master_production_schedule.json:6
@@ -26496,14 +26496,14 @@ msgstr "crwdns227091:0crwdne227091:0"
 #. DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:420
 msgid "If enabled, formula for <b>Qty to Order</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "crwdns227093:0crwdne227093:0"
 
 #. Description of the 'Consider Projected Qty in Calculation (RM)' (Check)
 #. field in DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:238
 msgid "If enabled, formula for <b>Required Qty</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "crwdns227095:0crwdne227095:0"
 
 #. Description of the 'Create Ledger Entries for Change Amount' (Check) field
@@ -27052,8 +27052,8 @@ msgstr "crwdns227283:0crwdne227283:0"
 
 #. Description of the Onboarding Step 'Match your bank statement'
 #: erpnext/accounts/onboarding_step/open_banking/open_banking.json:5
-msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)."
-msgstr "crwdns276469:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliationcrwdne276469:0"
+msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.thinknxg.com/thinknxgerp/bank-reconciliation)."
+msgstr "crwdns276469:0https://docs.thinknxg.com/thinknxgerp/bank-reconciliationcrwdne276469:0"
 
 #: erpnext/edi/doctype/code_list/code_list_import.js:131
 #, python-brace-format
@@ -29750,8 +29750,8 @@ msgstr "crwdns228057:0crwdne228057:0"
 
 #. Description of the Onboarding Step 'Pay your supplier'
 #: erpnext/buying/onboarding_step/pay_supplier/pay_supplier.json:5
-msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
-msgstr "crwdns276497:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entrycrwdne276497:0"
+msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/payment-entry)."
+msgstr "crwdns276497:0https://docs.thinknxg.com/thinknxgerp/payment-entrycrwdne276497:0"
 
 #: erpnext/stock/report/stock_valuation_comparison/stock_valuation_comparison.py:533
 #: erpnext/stock/valuation_adjustment.py:391
@@ -29764,8 +29764,8 @@ msgstr "crwdns241171:0crwdne241171:0"
 
 #. Description of the Onboarding Step 'Enter a supplier's bill'
 #: erpnext/accounts/onboarding_step/create_accounting_purchase_invoice/create_accounting_purchase_invoice.json:5
-msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
-msgstr "crwdns276501:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoicecrwdne276501:0"
+msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)."
+msgstr "crwdns276501:0https://docs.thinknxg.com/thinknxgerp/purchase-invoicecrwdne276501:0"
 
 #: banking/src/components/features/BankReconciliation/BankBalance.tsx:138
 msgid "It takes into account all the transactions that have been posted and subtracts the transactions that have not cleared yet."
@@ -32258,7 +32258,7 @@ msgstr "crwdns228617:0crwdne228617:0"
 #. Description of the 'Enable Common Party Accounting' (Check) field in DocType
 #. 'Accounts Settings'
 #: erpnext/accounts/doctype/accounts_settings/accounts_settings.json:321
-msgid "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
+msgid "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
 msgstr "crwdns228623:0crwdne228623:0"
 
 #. Label of the leave_encashed (Select) field in DocType 'Employee'
@@ -36840,8 +36840,8 @@ msgstr "crwdns287807:0{0}crwdne287807:0"
 
 #. Description of the Onboarding Step 'Record a supplier's quote'
 #: erpnext/buying/onboarding_step/create_supplier_quotation/create_supplier_quotation.json:5
-msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)."
-msgstr "crwdns276581:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotationcrwdne276581:0"
+msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.thinknxg.com/thinknxgerp/supplier-quotation)."
+msgstr "crwdns276581:0https://docs.thinknxg.com/thinknxgerp/supplier-quotationcrwdne276581:0"
 
 #: erpnext/manufacturing/doctype/bom_update_log/bom_update_log_list.js:21
 msgid "Note: Automatic log deletion only applies to logs of type <i>Update Cost</i>"
@@ -37294,8 +37294,8 @@ msgstr "crwdns241201:0crwdne241201:0"
 
 #. Description of the Onboarding Step 'Quote a price'
 #: erpnext/selling/onboarding_step/create_quotation/create_quotation.json:5
-msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)."
-msgstr "crwdns276583:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotationcrwdne276583:0"
+msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.thinknxg.com/thinknxgerp/quotation)."
+msgstr "crwdns276583:0https://docs.thinknxg.com/thinknxgerp/quotationcrwdne276583:0"
 
 #: erpnext/accounts/doctype/loyalty_program/loyalty_program.js:39
 msgid "One customer can be part of only single Loyalty Program."
@@ -38468,8 +38468,8 @@ msgstr "crwdns230409:0crwdne230409:0"
 
 #. Description of the Onboarding Step 'Place a purchase order'
 #: erpnext/buying/onboarding_step/create_purchase_order/create_purchase_order.json:5
-msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)."
-msgstr "crwdns276667:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-ordercrwdne276667:0"
+msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/purchase-order)."
+msgstr "crwdns276667:0https://docs.thinknxg.com/thinknxgerp/purchase-ordercrwdne276667:0"
 
 #. Title of the Module Onboarding 'Buying Onboarding'
 #. Title of an Onboarding Step
@@ -48310,8 +48310,8 @@ msgstr "crwdns273143:0{0}crwdnd273143:0{1}crwdne273143:0"
 
 #. Description of the Onboarding Step 'Finish making it'
 #: erpnext/manufacturing/onboarding_step/finish_work_order/finish_work_order.json:5
-msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
-msgstr "crwdns276753:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entrycrwdne276753:0"
+msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/stock-entry)."
+msgstr "crwdns276753:0https://docs.thinknxg.com/thinknxgerp/stock-entrycrwdne276753:0"
 
 #. Description of the 'Validate consumed quantity (as per BOM)' (Check) field
 #. in DocType 'Buying Settings'
@@ -48928,18 +48928,18 @@ msgstr "crwdns233207:0crwdne233207:0"
 
 #. Description of the Onboarding Step 'Log time against it'
 #: erpnext/projects/onboarding_step/create_timesheet/create_timesheet.json:5
-msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)."
-msgstr "crwdns276773:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheetscrwdne276773:0"
+msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.thinknxg.com/thinknxgerp/timesheets)."
+msgstr "crwdns276773:0https://docs.thinknxg.com/thinknxgerp/timesheetscrwdne276773:0"
 
 #. Description of the Onboarding Step 'Inspect goods coming in or going out'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection/create_quality_inspection.json:5
-msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)."
-msgstr "crwdns276775:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspectioncrwdne276775:0"
+msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.thinknxg.com/thinknxgerp/quality-inspection)."
+msgstr "crwdns276775:0https://docs.thinknxg.com/thinknxgerp/quality-inspectioncrwdne276775:0"
 
 #. Description of the Onboarding Step 'Hand it to a person or place'
 #: erpnext/assets/onboarding_step/create_asset_movement/create_asset_movement.json:5
-msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)."
-msgstr "crwdns276777:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movementcrwdne276777:0"
+msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.thinknxg.com/thinknxgerp/asset-movement)."
+msgstr "crwdns276777:0https://docs.thinknxg.com/thinknxgerp/asset-movementcrwdne276777:0"
 
 #. Label of the recording_html (HTML) field in DocType 'Call Log'
 #: erpnext/telephony/doctype/call_log/call_log.json:91
@@ -49264,8 +49264,8 @@ msgstr "crwdns233323:0crwdne233323:0"
 
 #. Description of the Onboarding Step 'Plan maintenance visits'
 #: erpnext/quality_management/onboarding_step/create_maintenance_schedule/create_maintenance_schedule.json:5
-msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)."
-msgstr "crwdns276781:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedulecrwdne276781:0"
+msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.thinknxg.com/thinknxgerp/maintenance-schedule)."
+msgstr "crwdns276781:0https://docs.thinknxg.com/thinknxgerp/maintenance-schedulecrwdne276781:0"
 
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.py:214
 msgid "Rejected "
@@ -54628,8 +54628,8 @@ msgstr "crwdns276831:0crwdne276831:0"
 
 #. Description of the Onboarding Step 'Spot your best sellers'
 #: erpnext/selling/onboarding_step/view_sales_analytics/view_sales_analytics.json:5
-msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
-msgstr "crwdns276833:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analyticscrwdne276833:0"
+msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.thinknxg.com/thinknxgerp/sales-analytics)."
+msgstr "crwdns276833:0https://docs.thinknxg.com/thinknxgerp/sales-analyticscrwdne276833:0"
 
 #: erpnext/manufacturing/doctype/production_plan/production_plan.py:268
 msgid "Sales orders are not available for production"
@@ -56609,8 +56609,8 @@ msgstr "crwdns235333:0crwdne235333:0"
 
 #. Description of the Onboarding Step 'Schedule its upkeep'
 #: erpnext/assets/onboarding_step/create_asset_maintenance/create_asset_maintenance.json:5
-msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
-msgstr "crwdns276861:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenancecrwdne276861:0"
+msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.thinknxg.com/thinknxgerp/asset-maintenance)."
+msgstr "crwdns276861:0https://docs.thinknxg.com/thinknxgerp/asset-maintenancecrwdne276861:0"
 
 #. Label of the set_warehouse (Link) field in DocType 'Purchase Invoice'
 #: erpnext/accounts/doctype/purchase_invoice/purchase_invoice.json:582
@@ -57973,8 +57973,8 @@ msgstr "crwdns235759:0crwdne235759:0"
 
 #. Description of the Onboarding Step 'Record an asset you already own'
 #: erpnext/assets/onboarding_step/create_existing_asset/create_existing_asset.json:5
-msgid "Something you bought before using thinkNXG ERP, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
-msgstr "crwdns276903:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/assetcrwdne276903:0"
+msgid "Something you bought before using thinkNXG ERP, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.thinknxg.com/thinknxgerp/asset)."
+msgstr "crwdns276903:0https://docs.thinknxg.com/thinknxgerp/assetcrwdne276903:0"
 
 #. Description of a DocType
 #: erpnext/quality_management/doctype/quality_goal/quality_goal.json:5
@@ -57983,13 +57983,13 @@ msgstr "crwdns276905:0crwdne276905:0"
 
 #. Description of the Onboarding Step 'Add a raw material'
 #: erpnext/manufacturing/onboarding_step/create_raw_materials/create_raw_materials.json:5
-msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "crwdns276907:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/itemcrwdne276907:0"
+msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "crwdns276907:0https://docs.thinknxg.com/thinknxgerp/itemcrwdne276907:0"
 
 #. Description of the Onboarding Step 'Set a quality goal'
 #: erpnext/quality_management/onboarding_step/create_quality_goal/create_quality_goal.json:5
-msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
-msgstr "crwdns276909:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-managementcrwdne276909:0"
+msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/quality-management)."
+msgstr "crwdns276909:0https://docs.thinknxg.com/thinknxgerp/quality-managementcrwdne276909:0"
 
 #. Description of a DocType
 #: erpnext/assets/doctype/asset/asset.json:7
@@ -59550,13 +59550,13 @@ msgstr "crwdns236135:0crwdne236135:0"
 
 #. Description of the Onboarding Step 'Ship to a customer'
 #: erpnext/stock/onboarding_step/create_delivery_note/create_delivery_note.json:5
-msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)."
-msgstr "crwdns276943:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-notecrwdne276943:0"
+msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.thinknxg.com/thinknxgerp/delivery-note)."
+msgstr "crwdns276943:0https://docs.thinknxg.com/thinknxgerp/delivery-notecrwdne276943:0"
 
 #. Description of the Onboarding Step 'Receive goods from a supplier'
 #: erpnext/stock/onboarding_step/create_purchase_receipt/create_purchase_receipt.json:5
-msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)."
-msgstr "crwdns276945:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receiptcrwdne276945:0"
+msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.thinknxg.com/thinknxgerp/purchase-receipt)."
+msgstr "crwdns276945:0https://docs.thinknxg.com/thinknxgerp/purchase-receiptcrwdne276945:0"
 
 #: erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:1332
 #, python-brace-format
@@ -62530,8 +62530,8 @@ msgstr "crwdns241333:0{0}crwdnd241333:0{1}crwdne241333:0"
 
 #. Description of the Onboarding Step 'Add the bank account you use'
 #: erpnext/accounts/onboarding_step/add_bank_account/add_bank_account.json:5
-msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)."
-msgstr "crwdns276967:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-accountcrwdne276967:0"
+msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.thinknxg.com/thinknxgerp/bank-account)."
+msgstr "crwdns276967:0https://docs.thinknxg.com/thinknxgerp/bank-accountcrwdne276967:0"
 
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.py:223
 #, python-brace-format
@@ -62577,8 +62577,8 @@ msgstr "crwdns241335:0{0}crwdnd241335:0{1}crwdnd241335:0{2}crwdnd241335:0{3}crwd
 
 #. Description of the Onboarding Step 'Enter their bill'
 #: erpnext/buying/onboarding_step/create_purchase_invoice/create_purchase_invoice.json:5
-msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
-msgstr "crwdns276969:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoicecrwdne276969:0"
+msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)."
+msgstr "crwdns276969:0https://docs.thinknxg.com/thinknxgerp/purchase-invoicecrwdne276969:0"
 
 #: erpnext/controllers/taxes_and_totals.py:261
 msgid "The cash or non-trade discount cannot be combined with discounts carried from other documents."
@@ -62860,8 +62860,8 @@ msgstr "crwdns236931:0{0}crwdnd236931:0{1}crwdne236931:0"
 
 #. Description of the Onboarding Step 'Add an asset item'
 #: erpnext/assets/onboarding_step/create_asset_item/create_asset_item.json:5
-msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "crwdns276981:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/itemcrwdne276981:0"
+msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "crwdns276981:0https://docs.thinknxg.com/thinknxgerp/itemcrwdne276981:0"
 
 #: erpnext/accounts/doctype/bank_transaction_rule/bank_transaction_rule.py:129
 msgid "The last account row must not have any debit or credit amounts set."
@@ -62943,8 +62943,8 @@ msgstr "crwdns276989:0crwdne276989:0"
 
 #. Description of the Onboarding Step 'Decide what to check'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:5
-msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)."
-msgstr "crwdns276991:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-templatecrwdne276991:0"
+msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.thinknxg.com/thinknxgerp/quality-inspection-template)."
+msgstr "crwdns276991:0https://docs.thinknxg.com/thinknxgerp/quality-inspection-templatecrwdne276991:0"
 
 #: erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:234
 #, python-brace-format
@@ -63023,9 +63023,9 @@ msgstr "crwdns277001:0crwdne277001:0"
 
 #. Description of the Onboarding Step 'Write its bill of materials'
 #: erpnext/manufacturing/onboarding_step/create_bill_of_materials/create_bill_of_materials.json:5
-msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials).\n\n"
-"Sending some of the work to a supplier? See [Subcontracting](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)."
-msgstr "crwdns277003:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materialscrwdnd277003:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontractingcrwdne277003:0"
+msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.thinknxg.com/thinknxgerp/bill-of-materials).\n\n"
+"Sending some of the work to a supplier? See [Subcontracting](https://docs.thinknxg.com/thinknxgerp/subcontracting)."
+msgstr "crwdns277003:0https://docs.thinknxg.com/thinknxgerp/bill-of-materialscrwdnd277003:0https://docs.thinknxg.com/thinknxgerp/subcontractingcrwdne277003:0"
 
 #: banking/src/pages/BankStatementImporter.tsx:205
 msgid "The reference number of the transaction"
@@ -63124,8 +63124,8 @@ msgstr "crwdns277015:0crwdne277015:0"
 
 #. Description of the Onboarding Step 'Write down how the work is done'
 #: erpnext/quality_management/onboarding_step/create_quality_procedure/create_quality_procedure.json:5
-msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
-msgstr "crwdns277017:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-managementcrwdne277017:0"
+msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/quality-management)."
+msgstr "crwdns277017:0https://docs.thinknxg.com/thinknxgerp/quality-managementcrwdne277017:0"
 
 #: erpnext/stock/stock_ledger.py:1074
 #, python-brace-format
@@ -63186,8 +63186,8 @@ msgstr "crwdns277025:0crwdne277025:0"
 
 #. Description of the Onboarding Step 'Review your taxes'
 #: erpnext/accounts/onboarding_step/review_taxes/review_taxes.json:5
-msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)."
-msgstr "crwdns277027:0/desk/purchase-taxes-and-charges-templatecrwdnd277027:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxescrwdne277027:0"
+msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/setting-up-taxes)."
+msgstr "crwdns277027:0/desk/purchase-taxes-and-charges-templatecrwdnd277027:0https://docs.thinknxg.com/thinknxgerp/setting-up-taxescrwdne277027:0"
 
 #: erpnext/stock/doctype/material_request/material_request.py:508
 #, python-brace-format
@@ -63372,7 +63372,7 @@ msgid "There are no transactions in the system for the selected bank account and
 msgstr "crwdns237073:0crwdne237073:0"
 
 #: erpnext/stock/doctype/item/item.js:1505
-msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
+msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.thinknxg.com/thinknxgerp/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
 msgstr "crwdns241345:0crwdne241345:0"
 
 #: banking/src/components/features/BankReconciliation/MatchAndReconcile.tsx:980
@@ -69071,8 +69071,8 @@ msgstr "crwdns277111:0crwdne277111:0"
 
 #. Description of the Onboarding Step 'Review your warehouses'
 #: erpnext/stock/onboarding_step/setup_warehouse/setup_warehouse.json:5
-msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)."
-msgstr "crwdns277113:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehousecrwdne277113:0"
+msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.thinknxg.com/thinknxgerp/warehouse)."
+msgstr "crwdns277113:0https://docs.thinknxg.com/thinknxgerp/warehousecrwdne277113:0"
 
 #: erpnext/templates/emails/appointment_confirmed.html:3
 msgid "We look forward to meeting you"
@@ -69080,8 +69080,8 @@ msgstr "crwdns241373:0crwdne241373:0"
 
 #. Description of the Onboarding Step 'Review your chart of accounts'
 #: erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:5
-msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)."
-msgstr "crwdns277115:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accountscrwdne277115:0"
+msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.thinknxg.com/thinknxgerp/chart-of-accounts)."
+msgstr "crwdns277115:0https://docs.thinknxg.com/thinknxgerp/chart-of-accountscrwdne277115:0"
 
 #: banking/src/pages/BankStatementImporter.tsx:169
 msgid "We support uploading CSV, XLSX, XLS and PDF files. Please make sure the file contains the correct columns."
@@ -69248,8 +69248,8 @@ msgstr "crwdns277121:0crwdne277121:0"
 
 #. Description of the Onboarding Step 'Add a product you make'
 #: erpnext/manufacturing/onboarding_step/create_finished_goods/create_finished_goods.json:5
-msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "crwdns277123:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/itemcrwdne277123:0"
+msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "crwdns277123:0https://docs.thinknxg.com/thinknxgerp/itemcrwdne277123:0"
 
 #: erpnext/templates/pages/help.html:12
 msgid "What do you need help with?"
@@ -69360,8 +69360,8 @@ msgstr "crwdns277137:0crwdne277137:0"
 
 #. Description of the Onboarding Step 'Log a problem'
 #: erpnext/quality_management/onboarding_step/create_non_conformance/create_non_conformance.json:5
-msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)."
-msgstr "crwdns277139:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformancecrwdne277139:0"
+msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.thinknxg.com/thinknxgerp/non-conformance)."
+msgstr "crwdns277139:0https://docs.thinknxg.com/thinknxgerp/non-conformancecrwdne277139:0"
 
 #: erpnext/stock/doctype/stock_entry/stock_entry.py:502
 #, python-brace-format
@@ -69376,8 +69376,8 @@ msgstr "crwdns238859:0crwdne238859:0"
 
 #. Description of the Onboarding Step 'Get paid'
 #: erpnext/selling/onboarding_step/create_payment_entry/create_payment_entry.json:5
-msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
-msgstr "crwdns277141:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entrycrwdne277141:0"
+msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/payment-entry)."
+msgstr "crwdns277141:0https://docs.thinknxg.com/thinknxgerp/payment-entrycrwdne277141:0"
 
 #. Description of a DocType
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.json:6
@@ -69420,8 +69420,8 @@ msgstr "crwdns238869:0crwdne238869:0"
 
 #. Description of the Onboarding Step 'Break it into tasks'
 #: erpnext/projects/onboarding_step/create_tasks/create_tasks.json:5
-msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)."
-msgstr "crwdns277151:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/taskcrwdne277151:0"
+msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.thinknxg.com/thinknxgerp/task)."
+msgstr "crwdns277151:0https://docs.thinknxg.com/thinknxgerp/taskcrwdne277151:0"
 
 #. Description of a report in the Onboarding Step 'Follow up on unpaid
 #. invoices'
@@ -69431,8 +69431,8 @@ msgstr "crwdns277153:0crwdne277153:0"
 
 #. Description of the Onboarding Step 'Follow up on unpaid invoices'
 #: erpnext/selling/onboarding_step/view_accounts_receivable/view_accounts_receivable.json:5
-msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)."
-msgstr "crwdns277155:0https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivablecrwdne277155:0"
+msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/accounts-receivable)."
+msgstr "crwdns277155:0https://docs.thinknxg.com/thinknxgerp/accounts-receivablecrwdne277155:0"
 
 #. Description of the Onboarding Step 'Check what you owe'
 #: erpnext/buying/onboarding_step/view_accounts_payable/view_accounts_payable.json:5

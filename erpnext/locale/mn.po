@@ -1150,13 +1150,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a supplier'
 #: erpnext/buying/onboarding_step/create_supplier/create_supplier.json:5
-msgid "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)."
-msgstr "Таны худалдан авдаг байгууллага эсвэл хүн. [Нийлүүлэгч](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier)-г үзнэ үү."
+msgid "A business or person you buy from. See [Supplier](https://docs.thinknxg.com/thinknxgerp/supplier)."
+msgstr "Таны худалдан авдаг байгууллага эсвэл хүн. [Нийлүүлэгч](https://docs.thinknxg.com/thinknxgerp/supplier)-г үзнэ үү."
 
 #. Description of the Onboarding Step 'Add a customer'
 #: erpnext/selling/onboarding_step/create_customer/create_customer.json:5
-msgid "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)."
-msgstr "Таны борлуулдаг байгууллага эсвэл хүн. [Харилцагч](https://docs.thinknxg.com/thinknxgerp/user/manual/en/customer)-г үзнэ үү."
+msgid "A business or person you sell to. See [Customer](https://docs.thinknxg.com/thinknxgerp/customer)."
+msgstr "Таны борлуулдаг байгууллага эсвэл хүн. [Харилцагч](https://docs.thinknxg.com/thinknxgerp/customer)-г үзнэ үү."
 
 #: erpnext/public/js/sales_order_proforma.js:315
 msgid "A cancelled Proforma Invoice cannot be emailed."
@@ -1479,8 +1479,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add an item you sell'
 #: erpnext/selling/onboarding_step/create_selling_item/create_selling_item.json:5
-msgid "A product or a service you sell. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "Таны борлуулдаг бүтээгдэхүүн эсвэл үйлчилгээ. [Бараа](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)-г үзнэ үү."
+msgid "A product or a service you sell. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "Таны борлуулдаг бүтээгдэхүүн эсвэл үйлчилгээ. [Бараа](https://docs.thinknxg.com/thinknxgerp/item)-г үзнэ үү."
 
 #. Description of a DocType
 #: erpnext/stock/doctype/item/item.json:7
@@ -6159,13 +6159,13 @@ msgstr "Дараах шүүлтүүрүүдийн аль нэг нь шаард�
 
 #. Description of the Onboarding Step 'Start a project'
 #: erpnext/projects/onboarding_step/create_project/create_project.json:5
-msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)."
-msgstr "Эхлэл, төгсгөлтэй аливаа зүйл: үйлчлүүлэгчийн ажил, суулгалт, дотоод санаачилга. [Төсөл](https://docs.thinknxg.com/thinknxgerp/user/manual/en/project)-ийг үзнэ үү."
+msgid "Anything with a start and an end: a client job, an installation, an internal initiative. See [Project](https://docs.thinknxg.com/thinknxgerp/project)."
+msgstr "Эхлэл, төгсгөлтэй аливаа зүйл: үйлчлүүлэгчийн ажил, суулгалт, дотоод санаачилга. [Төсөл](https://docs.thinknxg.com/thinknxgerp/project)-ийг үзнэ үү."
 
 #. Description of the Onboarding Step 'Add an item you stock'
 #: erpnext/stock/onboarding_step/create_item/create_item.json:5
-msgid "Anything you keep on shelves and count. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "Тавиураар хадгалж, тоолдог аливаа зүйл. [Бараа](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)-г үзнэ үү."
+msgid "Anything you keep on shelves and count. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "Тавиураар хадгалж, тоолдог аливаа зүйл. [Бараа](https://docs.thinknxg.com/thinknxgerp/item)-г үзнэ үү."
 
 #: erpnext/setup/setup_wizard/data/industry_type.txt:6
 msgid "Apparel & Accessories"
@@ -7386,8 +7386,8 @@ msgstr "{item_code}-д зориулж үүсгэсэн {assets_link} хөрөн�
 
 #. Description of the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:5
-msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)."
-msgstr "Ямар ч огноогоор хөрөнгө, өр төлбөр, өмч нь таны дансны бүртгэлээс шууд харагдана. [Санхүүгийн байдлын тайлан](https://docs.thinknxg.com/thinknxgerp/user/manual/en/balance-sheet)-г үзнэ үү."
+msgid "Assets, liabilities and equity on any date, straight from your ledger. See [Balance Sheet](https://docs.thinknxg.com/thinknxgerp/balance-sheet)."
+msgstr "Ямар ч огноогоор хөрөнгө, өр төлбөр, өмч нь таны дансны бүртгэлээс шууд харагдана. [Санхүүгийн байдлын тайлан](https://docs.thinknxg.com/thinknxgerp/balance-sheet)-г үзнэ үү."
 
 #. Description of a report in the Onboarding Step 'Know what you own and owe'
 #: erpnext/accounts/onboarding_step/view_balance_sheet/view_balance_sheet.json:18
@@ -9657,8 +9657,8 @@ msgstr "Материалын бүртгэл"
 
 #. Description of the Onboarding Step 'Send your first invoice'
 #: erpnext/selling/onboarding_step/create_sales_invoice/create_sales_invoice.json:5
-msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)."
-msgstr "Барааны төлөө харилцагчдаа нэхэмжлэх үүсгэнэ үү. Үүнийг илгээгээд, **Хэвлэх**-ийг ашиглан цаасан дээр харах эсвэл PDF хэлбэрээр илгээнэ үү. [Борлуулалтын нэхэмжлэх](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-invoice)-ийг үзнэ үү."
+msgid "Bill your customer for the item. Submit it, then use **Print** to see it on paper or send it as a PDF. See [Sales Invoice](https://docs.thinknxg.com/thinknxgerp/sales-invoice)."
+msgstr "Барааны төлөө харилцагчдаа нэхэмжлэх үүсгэнэ үү. Үүнийг илгээгээд, **Хэвлэх**-ийг ашиглан цаасан дээр харах эсвэл PDF хэлбэрээр илгээнэ үү. [Борлуулалтын нэхэмжлэх](https://docs.thinknxg.com/thinknxgerp/sales-invoice)-ийг үзнэ үү."
 
 #. Option for the 'Status' (Select) field in DocType 'Timesheet'
 #: erpnext/controllers/website_list_for_contact.py:227
@@ -13717,8 +13717,8 @@ msgstr "{} компани нь POS Profile Company {}-тэй таарахгүй 
 
 #. Description of the Onboarding Step 'Review how a goal is going'
 #: erpnext/quality_management/onboarding_step/create_quality_review/create_quality_review.json:5
-msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
-msgstr "Үр дүнг зорилготой харьцуулж, юуг өөрчлөхөө шийдээрэй. [Чанарын менежмент](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)-г үзнэ үү."
+msgid "Compare the results against the goal, and decide what to change. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/quality-management)."
+msgstr "Үр дүнг зорилготой харьцуулж, юуг өөрчлөхөө шийдээрэй. [Чанарын менежмент](https://docs.thinknxg.com/thinknxgerp/quality-management)-г үзнэ үү."
 
 #: erpnext/manufacturing/doctype/bom_creator/bom_creator.js:100
 msgid "Compare with Previous Revision"
@@ -13921,8 +13921,8 @@ msgstr "Компьютер"
 
 #. Description of the Onboarding Step 'Set up an asset category'
 #: erpnext/assets/onboarding_step/create_asset_category/create_asset_category.json:5
-msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)."
-msgstr "Компьютер, тээврийн хэрэгсэл, тавилга: төрөл бүр хэрхэн элэгдэж, аль дансанд бүртгэгдэхийг. [Хөрөнгийн ангилал](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-category)-г үзнэ үү."
+msgid "Computers, vehicles, furniture: how each kind depreciates, and which accounts it posts to. See [Asset Category](https://docs.thinknxg.com/thinknxgerp/asset-category)."
+msgstr "Компьютер, тээврийн хэрэгсэл, тавилга: төрөл бүр хэрхэн элэгдэж, аль дансанд бүртгэгдэхийг. [Хөрөнгийн ангилал](https://docs.thinknxg.com/thinknxgerp/asset-category)-г үзнэ үү."
 
 #. Label of the condition (Code) field in DocType 'Inventory Dimension'
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.json:89
@@ -14000,8 +14000,8 @@ msgstr "Нийтлэх огноог дахин тохируулахаас өмн
 
 #. Description of the Onboarding Step 'Confirm a sales order'
 #: erpnext/selling/onboarding_step/create_sales_order/create_sales_order.json:5
-msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)."
-msgstr "Харилцагчийн захиалсан зүйл болон хүргэх хугацааг баталгаажуулна уу. Захиалгаас шууд хүргэлт болон нэхэмжлэх үүсгэнэ үү. [Борлуулалтын захиалга](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-order)-г үзнэ үү."
+msgid "Confirm what the customer ordered and when it is due. Deliver and invoice from the order itself. See [Sales Order](https://docs.thinknxg.com/thinknxgerp/sales-order)."
+msgstr "Харилцагчийн захиалсан зүйл болон хүргэх хугацааг баталгаажуулна уу. Захиалгаас шууд хүргэлт болон нэхэмжлэх үүсгэнэ үү. [Борлуулалтын захиалга](https://docs.thinknxg.com/thinknxgerp/sales-order)-г үзнэ үү."
 
 #. Label of the final_confirmation_date (Date) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:326
@@ -17689,8 +17689,8 @@ msgstr "Өртэй хүмүүс"
 
 #. Description of the Onboarding Step 'Plan a work order'
 #: erpnext/manufacturing/onboarding_step/create_work_order/create_work_order.json:5
-msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)."
-msgstr "Хэдэн ширхэг үйлдвэрлэхээ шийдээрэй. Шаардлагатай түүхий эдийг BOM-д үндэслэн тооцоолно. [Ажлын захиалга](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order)-г харна уу."
+msgid "Decide how many to make. The raw materials you need are worked out from the BOM. See [Work Order](https://docs.thinknxg.com/thinknxgerp/work-order)."
+msgstr "Хэдэн ширхэг үйлдвэрлэхээ шийдээрэй. Шаардлагатай түүхий эдийг BOM-д үндэслэн тооцоолно. [Ажлын захиалга](https://docs.thinknxg.com/thinknxgerp/work-order)-г харна уу."
 
 #. Title of an Onboarding Step
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:19
@@ -19177,8 +19177,8 @@ msgstr "Элэгдэл хорогдолыг буцаах замаар арилг
 
 #. Description of the Onboarding Step 'Check its depreciation'
 #: erpnext/assets/onboarding_step/view_asset_depreciation/view_asset_depreciation.json:5
-msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)."
-msgstr "Элэгдэл хорогдлыг хуваарийн дагуу, хөрөнгө бүрээр, таны журналын бичилтгүйгээр бүртгэнэ. [Элэгдэл хорогдол](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-depreciation)-ыг үзнэ үү."
+msgid "Depreciation is posted on schedule, asset by asset, without a journal entry from you. See [Depreciation](https://docs.thinknxg.com/thinknxgerp/asset-depreciation)."
+msgstr "Элэгдэл хорогдлыг хуваарийн дагуу, хөрөнгө бүрээр, таны журналын бичилтгүйгээр бүртгэнэ. [Элэгдэл хорогдол](https://docs.thinknxg.com/thinknxgerp/asset-depreciation)-ыг үзнэ үү."
 
 #. Label of the description_rules (Table) field in DocType 'Bank Transaction
 #. Rule'
@@ -22053,8 +22053,8 @@ msgstr "Бүртгэгдсэн бүх элэгдэл хорогдлыг хөрө
 
 #. Description of the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:5
-msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
-msgstr "Бүх барааны бүх хөдөлгөөн, орлого, зарлага, бүр дээрх үлдэгдэлтэй. Харна уу: [Бараа материалын дэвтэр](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-ledger)."
+msgid "Every movement of every item, in and out, with the balance after each. See [Stock Ledger](https://docs.thinknxg.com/thinknxgerp/stock-ledger)."
+msgstr "Бүх барааны бүх хөдөлгөөн, орлого, зарлага, бүр дээрх үлдэгдэлтэй. Харна уу: [Бараа материалын дэвтэр](https://docs.thinknxg.com/thinknxgerp/stock-ledger)."
 
 #. Description of a report in the Onboarding Step 'Follow every movement'
 #: erpnext/stock/onboarding_step/view_stock_ledger/view_stock_ledger.json:17
@@ -22063,8 +22063,8 @@ msgstr "Бүх барааны бүх хөдөлгөөн, орлого, зарл�
 
 #. Description of the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:5
-msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
-msgstr "Таны нэхэмжлэх, төлбөрөөс үүссэн бүх бичилт, дебит, кредиттэй нь хамт. Харна уу: [Ерөнхий дэвтэр](https://docs.thinknxg.com/thinknxgerp/user/manual/en/general-ledger)."
+msgid "Every posting from your invoices and payments, with its debit and credit. See [General Ledger](https://docs.thinknxg.com/thinknxgerp/general-ledger)."
+msgstr "Таны нэхэмжлэх, төлбөрөөс үүссэн бүх бичилт, дебит, кредиттэй нь хамт. Харна уу: [Ерөнхий дэвтэр](https://docs.thinknxg.com/thinknxgerp/general-ledger)."
 
 #. Description of a report in the Onboarding Step 'Trace every posting'
 #: erpnext/accounts/onboarding_step/view_general_ledger/view_general_ledger.json:18
@@ -22083,8 +22083,8 @@ msgstr "Бүх ажлын захиалга, тэдгээрийн явц, хоц�
 
 #. Description of the Onboarding Step 'See how production is going'
 #: erpnext/manufacturing/onboarding_step/view_work_order_summary_report/view_work_order_summary_report.json:5
-msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)."
-msgstr "Бүх ажлын захиалга, тэдгээрийн явц, хоцорч буй зүйлс. [Ажлын захиалгын хураангуй](https://docs.thinknxg.com/thinknxgerp/user/manual/en/work-order-summary)-г харна уу."
+msgid "Every work order, how far along it is, and what is running late. See [Work Order Summary](https://docs.thinknxg.com/thinknxgerp/work-order-summary)."
+msgstr "Бүх ажлын захиалга, тэдгээрийн явц, хоцорч буй зүйлс. [Ажлын захиалгын хураангуй](https://docs.thinknxg.com/thinknxgerp/work-order-summary)-г харна уу."
 
 #. Title of an incoterm
 #: erpnext/setup/doctype/incoterm/incoterms.csv:2
@@ -23963,8 +23963,8 @@ msgstr "{0}зүйлийн хувьд тоо хэмжээ нь эерэг тоо 
 
 #. Description of the Onboarding Step 'Post a journal entry'
 #: erpnext/accounts/onboarding_step/create_journal_entry/create_journal_entry.json:5
-msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)."
-msgstr "Нэхэмжлэх эсвэл төлбөр биш бүх зүйлд: цуглуулга, элэгдэл хорогдол, алдаа засах. [Журналын бичилт](https://docs.thinknxg.com/thinknxgerp/user/manual/en/journal-entry)-г үзнэ үү."
+msgid "For anything that isn't an invoice or a payment: accruals, depreciation, or fixing a mistake. See [Journal Entry](https://docs.thinknxg.com/thinknxgerp/journal-entry)."
+msgstr "Нэхэмжлэх эсвэл төлбөр биш бүх зүйлд: цуглуулга, элэгдэл хорогдол, алдаа засах. [Журналын бичилт](https://docs.thinknxg.com/thinknxgerp/journal-entry)-г үзнэ үү."
 
 #. Description of the 'Income Account' (Link) field in DocType 'Dunning'
 #: erpnext/accounts/doctype/dunning/dunning.json:245
@@ -24579,8 +24579,8 @@ msgstr "Эхлэх огноо нь \"Өнгөрсөн огноо\"-оос их �
 
 #. Description of the Onboarding Step 'Move stock between warehouses'
 #: erpnext/stock/onboarding_step/move_stock/move_stock.json:5
-msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
-msgstr "Агуулахаас үйлдвэрлэлийн талбай руу, эсвэл салбар хооронд. [Бараа материалын бичилт](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)-г үзнэ үү."
+msgid "From the store to the shop floor, or between branches. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/stock-entry)."
+msgstr "Агуулахаас үйлдвэрлэлийн талбай руу, эсвэл салбар хооронд. [Бараа материалын бичилт](https://docs.thinknxg.com/thinknxgerp/stock-entry)-г үзнэ үү."
 
 #: erpnext/accounts/doctype/shipping_rule/shipping_rule.py:91
 #, python-brace-format
@@ -25342,8 +25342,8 @@ msgstr "Барааг гадагш ороход аль хэдийн хүлээн 
 
 #. Description of the Onboarding Step 'Add an item you buy'
 #: erpnext/buying/onboarding_step/create_buying_item/create_buying_item.json:5
-msgid "Goods or services you buy from suppliers. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "Нийлүүлэгчээс худалдан авдаг бараа эсвэл үйлчилгээ. [Бараа](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)-г үзнэ үү."
+msgid "Goods or services you buy from suppliers. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "Нийлүүлэгчээс худалдан авдаг бараа эсвэл үйлчилгээ. [Бараа](https://docs.thinknxg.com/thinknxgerp/item)-г үзнэ үү."
 
 #: erpnext/setup/setup_wizard/operations/install_fixtures.py:193
 msgid "Government"
@@ -26289,8 +26289,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Enter the stock you have today'
 #: erpnext/stock/onboarding_step/create_opening_stock/create_opening_stock.json:5
-msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
-msgstr "Таны тавиур дээрх бараа тус бүрийн хэмжээ, үнэ цэнэ. Цаашдаа хүлээн авалт болон хүргэлт бүр үүнийг шинэчлэн барина. Харна уу: [Нөөцийн тулгалт](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-reconciliation)."
+msgid "How much of each item is on your shelves, and what it is worth. From here, every receipt and delivery keeps it up to date. See [Stock Reconciliation](https://docs.thinknxg.com/thinknxgerp/stock-reconciliation)."
+msgstr "Таны тавиур дээрх бараа тус бүрийн хэмжээ, үнэ цэнэ. Цаашдаа хүлээн авалт болон хүргэлт бүр үүнийг шинэчлэн барина. Харна уу: [Нөөцийн тулгалт](https://docs.thinknxg.com/thinknxgerp/stock-reconciliation)."
 
 #. Description of a DocType
 #: erpnext/manufacturing/doctype/master_production_schedule/master_production_schedule.json:6
@@ -26610,17 +26610,17 @@ msgstr "Хэрэв идэвхжүүлсэн бол автоматаар Serial \
 #. DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:420
 msgid "If enabled, formula for <b>Qty to Order</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "Хэрэв идэвхжүүлсэн бол <b>Захиалга өгөх тоо хэмжээ</b>гэсэн томъёог ашиглана уу: <br>\n"
-"Шаардлагатай тоо хэмжээ (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Төсөөлөх тоо хэмжээ</a>. <br> Энэ нь хэт захиалга өгөхөөс зайлсхийхэд тусалдаг."
+"Шаардлагатай тоо хэмжээ (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">Төсөөлөх тоо хэмжээ</a>. <br> Энэ нь хэт захиалга өгөхөөс зайлсхийхэд тусалдаг."
 
 #. Description of the 'Consider Projected Qty in Calculation (RM)' (Check)
 #. field in DocType 'Production Plan'
 #: erpnext/manufacturing/doctype/production_plan/production_plan.json:238
 msgid "If enabled, formula for <b>Required Qty</b>: <br>\n"
-"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
+"Required Qty (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">Projected Qty</a>. <br> This helps avoid over-ordering."
 msgstr "Хэрэв идэвхжүүлсэн бол <b>Шаардлагатай тоо хэмжээ</b>гэсэн томъёог ашиглана уу: <br>\n"
-"Шаардлагатай тоо хэмжээ (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/projected-quantity\">Төсөөлөгдсөн тоо хэмжээ</a>. <br> Энэ нь хэт захиалга өгөхөөс зайлсхийхэд тусалдаг."
+"Шаардлагатай тоо хэмжээ (BOM) - <a href=\"https://docs.thinknxg.com/thinknxgerp/projected-quantity\">Төсөөлөгдсөн тоо хэмжээ</a>. <br> Энэ нь хэт захиалга өгөхөөс зайлсхийхэд тусалдаг."
 
 #. Description of the 'Create Ledger Entries for Change Amount' (Check) field
 #. in DocType 'POS Settings'
@@ -27168,8 +27168,8 @@ msgstr "CSV файл ашиглан импортлох"
 
 #. Description of the Onboarding Step 'Match your bank statement'
 #: erpnext/accounts/onboarding_step/open_banking/open_banking.json:5
-msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)."
-msgstr "Банкныхаа хуулгыг импортлоод, мөр бүрийг төлбөртэй тохируулж, дэвтрээ түүнтэй нийцүүлнэ үү. [Банкны тулгалт](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-reconciliation)-г үзнэ үү."
+msgid "Import a statement from your bank and pair each line with a payment, so your books agree with it. See [Bank Reconciliation](https://docs.thinknxg.com/thinknxgerp/bank-reconciliation)."
+msgstr "Банкныхаа хуулгыг импортлоод, мөр бүрийг төлбөртэй тохируулж, дэвтрээ түүнтэй нийцүүлнэ үү. [Банкны тулгалт](https://docs.thinknxg.com/thinknxgerp/bank-reconciliation)-г үзнэ үү."
 
 #: erpnext/edi/doctype/code_list/code_list_import.js:131
 #, python-brace-format
@@ -29866,8 +29866,8 @@ msgstr "Зүйлсийг нэгтгэсний дараа хувьцааны үн
 
 #. Description of the Onboarding Step 'Pay your supplier'
 #: erpnext/buying/onboarding_step/pay_supplier/pay_supplier.json:5
-msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
-msgstr "Энэ нь нийлүүлэгчийн нэхэмжлэхийг хаагаад, таны банк эсвэл бэлэн мөнгөний дансаас мөнгийг авна. [Төлбөрийн оруулга](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)-г үзнэ үү."
+msgid "It clears their bill and takes the money out of your bank or cash account. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/payment-entry)."
+msgstr "Энэ нь нийлүүлэгчийн нэхэмжлэхийг хаагаад, таны банк эсвэл бэлэн мөнгөний дансаас мөнгийг авна. [Төлбөрийн оруулга](https://docs.thinknxg.com/thinknxgerp/payment-entry)-г үзнэ үү."
 
 #: erpnext/stock/report/stock_valuation_comparison/stock_valuation_comparison.py:533
 #: erpnext/stock/valuation_adjustment.py:391
@@ -29880,8 +29880,8 @@ msgstr "Энэ нь зүйлийн дэлгэрэнгүй мэдээллийг �
 
 #. Description of the Onboarding Step 'Enter a supplier's bill'
 #: erpnext/accounts/onboarding_step/create_accounting_purchase_invoice/create_accounting_purchase_invoice.json:5
-msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
-msgstr "Энэ нь зардал болон нийлүүлэгчид өгөх өртгийг таны главный дэвтэрт бүртгэнэ. [Худалдан авалтын нэхэмжлэх](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)-г үзнэ үү."
+msgid "It posts the expense, and what you owe the supplier, to your ledger. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)."
+msgstr "Энэ нь зардал болон нийлүүлэгчид өгөх өртгийг таны главный дэвтэрт бүртгэнэ. [Худалдан авалтын нэхэмжлэх](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)-г үзнэ үү."
 
 #: banking/src/components/features/BankReconciliation/BankBalance.tsx:138
 msgid "It takes into account all the transactions that have been posted and subtracts the transactions that have not cleared yet."
@@ -32374,8 +32374,8 @@ msgstr "Лийдүүд нь танд бизнес эрхлэх, бүх хари�
 #. Description of the 'Enable Common Party Accounting' (Check) field in DocType
 #. 'Accounts Settings'
 #: erpnext/accounts/doctype/accounts_settings/accounts_settings.json:321
-msgid "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
-msgstr "<a href=\"https://docs.thinknxg.com/thinknxgerp/user/manual/en/common_party_accounting\" rel=\"noopener noreferrer\">Нийтлэг нам</a>-ын талаар мэдэж аваарай"
+msgid "Learn about <a href=\"https://docs.thinknxg.com/thinknxgerp/common_party_accounting\" rel=\"noopener noreferrer\">Common Party</a>"
+msgstr "<a href=\"https://docs.thinknxg.com/thinknxgerp/common_party_accounting\" rel=\"noopener noreferrer\">Нийтлэг нам</a>-ын талаар мэдэж аваарай"
 
 #. Label of the leave_encashed (Select) field in DocType 'Employee'
 #: erpnext/setup/doctype/employee/employee.json:651
@@ -36957,8 +36957,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Record a supplier's quote'
 #: erpnext/buying/onboarding_step/create_supplier_quotation/create_supplier_quotation.json:5
-msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)."
-msgstr "Нийлүүлэгчийн санал болгосон үнийг тэмдэглээрэй, ингэснээр захиалахаасаа өмнө нийлүүлэгчдийг харьцуулах боломжтой. [Нийлүүлэгчийн үнийн санал](https://docs.thinknxg.com/thinknxgerp/user/manual/en/supplier-quotation)-г үзнэ үү."
+msgid "Note down a price a supplier offered, so you can compare suppliers before you order. See [Supplier Quotation](https://docs.thinknxg.com/thinknxgerp/supplier-quotation)."
+msgstr "Нийлүүлэгчийн санал болгосон үнийг тэмдэглээрэй, ингэснээр захиалахаасаа өмнө нийлүүлэгчдийг харьцуулах боломжтой. [Нийлүүлэгчийн үнийн санал](https://docs.thinknxg.com/thinknxgerp/supplier-quotation)-г үзнэ үү."
 
 #: erpnext/manufacturing/doctype/bom_update_log/bom_update_log_list.js:21
 msgid "Note: Automatic log deletion only applies to logs of type <i>Update Cost</i>"
@@ -37411,8 +37411,8 @@ msgstr "Ажлын захиалга хаагдсаны дараа үүнийг �
 
 #. Description of the Onboarding Step 'Quote a price'
 #: erpnext/selling/onboarding_step/create_quotation/create_quotation.json:5
-msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)."
-msgstr "Харилцагч зөвшөөрсний дараа үнийн саналаас шууд борлуулалтын захиалга эсвэл нэхэмжлэх үүсгэнэ үү. [Үнийн санал](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quotation)-г үзнэ үү."
+msgid "Once the customer agrees, turn it into a sales order or an invoice from the quotation itself. See [Quotation](https://docs.thinknxg.com/thinknxgerp/quotation)."
+msgstr "Харилцагч зөвшөөрсний дараа үнийн саналаас шууд борлуулалтын захиалга эсвэл нэхэмжлэх үүсгэнэ үү. [Үнийн санал](https://docs.thinknxg.com/thinknxgerp/quotation)-г үзнэ үү."
 
 #: erpnext/accounts/doctype/loyalty_program/loyalty_program.js:39
 msgid "One customer can be part of only single Loyalty Program."
@@ -38586,8 +38586,8 @@ msgstr "Захиалгын үнэ цэнэ"
 
 #. Description of the Onboarding Step 'Place a purchase order'
 #: erpnext/buying/onboarding_step/create_purchase_order/create_purchase_order.json:5
-msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)."
-msgstr "Нийлүүлэгчээс захиална. Бараа ирэхэд хүлээн авч, нэхэмжлэхийг захиалгаас шууд бүртгэнэ. [Худалдан авах захиалга](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-order)-г үзнэ үү."
+msgid "Order from the supplier. When the goods arrive, receive them and record the bill from the order itself. See [Purchase Order](https://docs.thinknxg.com/thinknxgerp/purchase-order)."
+msgstr "Нийлүүлэгчээс захиална. Бараа ирэхэд хүлээн авч, нэхэмжлэхийг захиалгаас шууд бүртгэнэ. [Худалдан авах захиалга](https://docs.thinknxg.com/thinknxgerp/purchase-order)-г үзнэ үү."
 
 #. Title of the Module Onboarding 'Buying Onboarding'
 #. Title of an Onboarding Step
@@ -48429,8 +48429,8 @@ msgstr "Түүхий эд {0} нь {1}-д холбогдсон байна. {1} �
 
 #. Description of the Onboarding Step 'Finish making it'
 #: erpnext/manufacturing/onboarding_step/finish_work_order/finish_work_order.json:5
-msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)."
-msgstr "Түүхий эд агуулахаас гарч, бэлэн бүтээгдэхүүн агуулахад орно. Ажлын захиалгаас **Дуусгах** товчлуур үүнийг танд автоматаар бөглөнө. [Бараа материалын бичилт](https://docs.thinknxg.com/thinknxgerp/user/manual/en/stock-entry)-г үзнэ үү."
+msgid "Raw materials come out of stock and the finished products go in. From the work order, **Finish** fills this in for you. See [Stock Entry](https://docs.thinknxg.com/thinknxgerp/stock-entry)."
+msgstr "Түүхий эд агуулахаас гарч, бэлэн бүтээгдэхүүн агуулахад орно. Ажлын захиалгаас **Дуусгах** товчлуур үүнийг танд автоматаар бөглөнө. [Бараа материалын бичилт](https://docs.thinknxg.com/thinknxgerp/stock-entry)-г үзнэ үү."
 
 #. Description of the 'Validate consumed quantity (as per BOM)' (Check) field
 #. in DocType 'Buying Settings'
@@ -49047,18 +49047,18 @@ msgstr "Өөр банк/кредит карт/бэлэн мөнгөний дан
 
 #. Description of the Onboarding Step 'Log time against it'
 #: erpnext/projects/onboarding_step/create_timesheet/create_timesheet.json:5
-msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)."
-msgstr "Даалгаварт зарцуулсан цагийг бүртгэнэ үү. Үүнийг харилцагчид нэхэмжлэх эсвэл төслийн зардлыг тооцоолоход ашиглана уу. [Цагийн хуудас](https://docs.thinknxg.com/thinknxgerp/user/manual/en/timesheets)-г харна уу."
+msgid "Record the hours spent on tasks. Bill them to the customer or use them to cost the project. See [Timesheet](https://docs.thinknxg.com/thinknxgerp/timesheets)."
+msgstr "Даалгаварт зарцуулсан цагийг бүртгэнэ үү. Үүнийг харилцагчид нэхэмжлэх эсвэл төслийн зардлыг тооцоолоход ашиглана уу. [Цагийн хуудас](https://docs.thinknxg.com/thinknxgerp/timesheets)-г харна уу."
 
 #. Description of the Onboarding Step 'Inspect goods coming in or going out'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection/create_quality_inspection.json:5
-msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)."
-msgstr "Хүлээн авалт эсвэл хүргэлтийн үр дүнг бүртгэж, барааг зөвшөөрөх эсвэл татгалзана уу. [Чанарын шалгалт](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection)-г харна уу."
+msgid "Record the results against a receipt or a delivery, and accept or reject the goods. See [Quality Inspection](https://docs.thinknxg.com/thinknxgerp/quality-inspection)."
+msgstr "Хүлээн авалт эсвэл хүргэлтийн үр дүнг бүртгэж, барааг зөвшөөрөх эсвэл татгалзана уу. [Чанарын шалгалт](https://docs.thinknxg.com/thinknxgerp/quality-inspection)-г харна уу."
 
 #. Description of the Onboarding Step 'Hand it to a person or place'
 #: erpnext/assets/onboarding_step/create_asset_movement/create_asset_movement.json:5
-msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)."
-msgstr "Хэн эзэмшиж байгаа, хаана байгааг бичлэгт тэмдэглэнэ үү, ингэснээр үргэлж мэдэх боломжтой. [Хөрөнгийн хөдөлгөөн](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-movement)-г үзнэ үү."
+msgid "Record who has it and where it is, so you always know. See [Asset Movement](https://docs.thinknxg.com/thinknxgerp/asset-movement)."
+msgstr "Хэн эзэмшиж байгаа, хаана байгааг бичлэгт тэмдэглэнэ үү, ингэснээр үргэлж мэдэх боломжтой. [Хөрөнгийн хөдөлгөөн](https://docs.thinknxg.com/thinknxgerp/asset-movement)-г үзнэ үү."
 
 #. Label of the recording_html (HTML) field in DocType 'Call Log'
 #: erpnext/telephony/doctype/call_log/call_log.json:91
@@ -49383,8 +49383,8 @@ msgstr "Ердийн"
 
 #. Description of the Onboarding Step 'Plan maintenance visits'
 #: erpnext/quality_management/onboarding_step/create_maintenance_schedule/create_maintenance_schedule.json:5
-msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)."
-msgstr "Таны борлуулсан тоног төхөөрөмжид зориулсан тогтмол үйлчилгээний айлчлал, гэрээний бүх хугацаанд урьдчилан төлөвлөсөн. [Засвар үйлчилгээний хуваарь](https://docs.thinknxg.com/thinknxgerp/user/manual/en/maintenance-schedule)-г үзнэ үү."
+msgid "Regular service visits for equipment you sold, planned ahead for the whole contract. See [Maintenance Schedule](https://docs.thinknxg.com/thinknxgerp/maintenance-schedule)."
+msgstr "Таны борлуулсан тоног төхөөрөмжид зориулсан тогтмол үйлчилгээний айлчлал, гэрээний бүх хугацаанд урьдчилан төлөвлөсөн. [Засвар үйлчилгээний хуваарь](https://docs.thinknxg.com/thinknxgerp/maintenance-schedule)-г үзнэ үү."
 
 #: erpnext/stock/doctype/inventory_dimension/inventory_dimension.py:214
 msgid "Rejected "
@@ -54750,8 +54750,8 @@ msgstr "Харилцагч, бараа эсвэл бүс нутгаар борл
 
 #. Description of the Onboarding Step 'Spot your best sellers'
 #: erpnext/selling/onboarding_step/view_sales_analytics/view_sales_analytics.json:5
-msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
-msgstr "Харилцагч, бараа эсвэл бүс нутгаар борлуулалт, дурын үеэр. Үзнэ үү: [Борлуулалтын аналитик](https://docs.thinknxg.com/thinknxgerp/user/manual/en/sales-analytics)."
+msgid "Sales by customer, item or territory, over any period. See [Sales Analytics](https://docs.thinknxg.com/thinknxgerp/sales-analytics)."
+msgstr "Харилцагч, бараа эсвэл бүс нутгаар борлуулалт, дурын үеэр. Үзнэ үү: [Борлуулалтын аналитик](https://docs.thinknxg.com/thinknxgerp/sales-analytics)."
 
 #: erpnext/manufacturing/doctype/production_plan/production_plan.py:268
 msgid "Sales orders are not available for production"
@@ -56734,8 +56734,8 @@ msgstr "Үйлчилгээнүүд"
 
 #. Description of the Onboarding Step 'Schedule its upkeep'
 #: erpnext/assets/onboarding_step/create_asset_maintenance/create_asset_maintenance.json:5
-msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
-msgstr "Засвар үйлчилгээ, үзлэг, калибровк, мөн үүнийг гүйцэтгэх багт сануулга. Харна уу: [Хөрөнгийн засвар үйлчилгээ](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset-maintenance)."
+msgid "Servicing, inspections and calibration, with reminders to the team doing it. See [Asset Maintenance](https://docs.thinknxg.com/thinknxgerp/asset-maintenance)."
+msgstr "Засвар үйлчилгээ, үзлэг, калибровк, мөн үүнийг гүйцэтгэх багт сануулга. Харна уу: [Хөрөнгийн засвар үйлчилгээ](https://docs.thinknxg.com/thinknxgerp/asset-maintenance)."
 
 #. Label of the set_warehouse (Link) field in DocType 'Purchase Invoice'
 #: erpnext/accounts/doctype/purchase_invoice/purchase_invoice.json:582
@@ -58100,8 +58100,8 @@ msgstr "Алдаа гарлаа, дахин оролдоно уу"
 
 #. Description of the Onboarding Step 'Record an asset you already own'
 #: erpnext/assets/onboarding_step/create_existing_asset/create_existing_asset.json:5
-msgid "Something you bought before using thinkNXG ERP, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
-msgstr "thinkNXG ERP-ийг ашиглахаас өмнө таны худалдаж авсан зүйл, төлсөн үнэ, байрлал, аль хэдийн элэгдүүлсэн дүн. Харна уу: [Хөрөнгө](https://docs.thinknxg.com/thinknxgerp/user/manual/en/asset)."
+msgid "Something you bought before using thinkNXG ERP, with what you paid, where it is, and how much has already depreciated. See [Asset](https://docs.thinknxg.com/thinknxgerp/asset)."
+msgstr "thinkNXG ERP-ийг ашиглахаас өмнө таны худалдаж авсан зүйл, төлсөн үнэ, байрлал, аль хэдийн элэгдүүлсэн дүн. Харна уу: [Хөрөнгө](https://docs.thinknxg.com/thinknxgerp/asset)."
 
 #. Description of a DocType
 #: erpnext/quality_management/doctype/quality_goal/quality_goal.json:5
@@ -58110,13 +58110,13 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a raw material'
 #: erpnext/manufacturing/onboarding_step/create_raw_materials/create_raw_materials.json:5
-msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "Таны бүтээгдэхүүн үйлдвэрлэхэд ашигладаг, Түүхий эд бүлэгт хадгалагдах зүйл. Харна уу: [Бараа](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
+msgid "Something you use to make your products, kept in the Raw Material group. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "Таны бүтээгдэхүүн үйлдвэрлэхэд ашигладаг, Түүхий эд бүлэгт хадгалагдах зүйл. Харна уу: [Бараа](https://docs.thinknxg.com/thinknxgerp/item)."
 
 #. Description of the Onboarding Step 'Set a quality goal'
 #: erpnext/quality_management/onboarding_step/create_quality_goal/create_quality_goal.json:5
-msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
-msgstr "Цаг нарт хүргэлт эсвэл буцаалт гэх мэт хэмжиж, сайжруулахыг хүсэж буй зүйл бөгөөд таны сонгосон хуваарийн дагуу хянагдана. Харна уу: [Чанарын удирдлага](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
+msgid "Something you want to measure and improve, like on-time delivery or returns, reviewed on a schedule you choose. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/quality-management)."
+msgstr "Цаг нарт хүргэлт эсвэл буцаалт гэх мэт хэмжиж, сайжруулахыг хүсэж буй зүйл бөгөөд таны сонгосон хуваарийн дагуу хянагдана. Харна уу: [Чанарын удирдлага](https://docs.thinknxg.com/thinknxgerp/quality-management)."
 
 #. Description of a DocType
 #: erpnext/assets/doctype/asset/asset.json:7
@@ -59677,13 +59677,13 @@ msgstr "Хувьцаа хөлдөөсөн"
 
 #. Description of the Onboarding Step 'Ship to a customer'
 #: erpnext/stock/onboarding_step/create_delivery_note/create_delivery_note.json:5
-msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)."
-msgstr "Барааг гаргах үед нөөц буурч, нэхэмжлэхийг хүргэлтээс үүсгэж болно. [Хүргэлтийн падаан](https://docs.thinknxg.com/thinknxgerp/user/manual/en/delivery-note)-г үзнэ үү."
+msgid "Stock goes down as the goods leave, and the invoice can be made from the delivery. See [Delivery Note](https://docs.thinknxg.com/thinknxgerp/delivery-note)."
+msgstr "Барааг гаргах үед нөөц буурч, нэхэмжлэхийг хүргэлтээс үүсгэж болно. [Хүргэлтийн падаан](https://docs.thinknxg.com/thinknxgerp/delivery-note)-г үзнэ үү."
 
 #. Description of the Onboarding Step 'Receive goods from a supplier'
 #: erpnext/stock/onboarding_step/create_purchase_receipt/create_purchase_receipt.json:5
-msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)."
-msgstr "Таны барааг хүлээн авдаг агуулахад нөөц нэмэгдэж, нэхэмжлэхийг хүлээн авалтаас үүсгэж болно. [Худалдан авалтын баримт](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-receipt)-г үзнэ үү."
+msgid "Stock goes up in the warehouse you receive into, and the bill can be made from the receipt. See [Purchase Receipt](https://docs.thinknxg.com/thinknxgerp/purchase-receipt)."
+msgstr "Таны барааг хүлээн авдаг агуулахад нөөц нэмэгдэж, нэхэмжлэхийг хүлээн авалтаас үүсгэж болно. [Худалдан авалтын баримт](https://docs.thinknxg.com/thinknxgerp/purchase-receipt)-г үзнэ үү."
 
 #: erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:1332
 #, python-brace-format
@@ -62660,8 +62660,8 @@ msgstr "{0} дансны төрлийг {1} -с өөрчлөх боломжгү�
 
 #. Description of the Onboarding Step 'Add the bank account you use'
 #: erpnext/accounts/onboarding_step/add_bank_account/add_bank_account.json:5
-msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)."
-msgstr "Таны харилцагчид мөнгө шилжүүлдэг, мөн та төлбөр төлдөг данс бөгөөд таны дансны төлөвлөгөөний харгалзах данстай холбогдсон. [Банкны данс](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bank-account)-г харна уу."
+msgid "The account your customers pay into and you pay from, linked to its account in your chart of accounts. See [Bank Account](https://docs.thinknxg.com/thinknxgerp/bank-account)."
+msgstr "Таны харилцагчид мөнгө шилжүүлдэг, мөн та төлбөр төлдөг данс бөгөөд таны дансны төлөвлөгөөний харгалзах данстай холбогдсон. [Банкны данс](https://docs.thinknxg.com/thinknxgerp/bank-account)-г харна уу."
 
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.py:223
 #, python-brace-format
@@ -62707,8 +62707,8 @@ msgstr "{0} багц нь {1} агуулахад {2} -д зориулж нөөц
 
 #. Description of the Onboarding Step 'Enter their bill'
 #: erpnext/buying/onboarding_step/create_purchase_invoice/create_purchase_invoice.json:5
-msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)."
-msgstr "Таны нийлүүлэгчийн илгээсэн нэхэмжлэх бөгөөд таны өр болон төлөх хугацааг мэдэх боломжтой. [Худалдан авалтын нэхэмжлэх](https://docs.thinknxg.com/thinknxgerp/user/manual/en/purchase-invoice)-г харна уу."
+msgid "The bill your supplier sent, so you know what you owe and when it is due. See [Purchase Invoice](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)."
+msgstr "Таны нийлүүлэгчийн илгээсэн нэхэмжлэх бөгөөд таны өр болон төлөх хугацааг мэдэх боломжтой. [Худалдан авалтын нэхэмжлэх](https://docs.thinknxg.com/thinknxgerp/purchase-invoice)-г харна уу."
 
 #: erpnext/controllers/taxes_and_totals.py:261
 msgid "The cash or non-trade discount cannot be combined with discounts carried from other documents."
@@ -62991,8 +62991,8 @@ msgstr "Ажлын карт {0} нь {1} төлөвт байгаа бөгөөд 
 
 #. Description of the Onboarding Step 'Add an asset item'
 #: erpnext/assets/onboarding_step/create_asset_item/create_asset_item.json:5
-msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "Таны эзэмшдэг, үндсэн хөрөнгө гэж тэмдэглэсэн зүйлийн төрөл. [Бараа](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)-г харна уу."
+msgid "The kind of thing you own, marked as a fixed asset. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "Таны эзэмшдэг, үндсэн хөрөнгө гэж тэмдэглэсэн зүйлийн төрөл. [Бараа](https://docs.thinknxg.com/thinknxgerp/item)-г харна уу."
 
 #: erpnext/accounts/doctype/bank_transaction_rule/bank_transaction_rule.py:129
 msgid "The last account row must not have any debit or credit amounts set."
@@ -63074,8 +63074,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Decide what to check'
 #: erpnext/quality_management/onboarding_step/create_quality_inspection_template/create_quality_inspection_template.json:5
-msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)."
-msgstr "Үзлэгт шалгах параметрууд болон тэнцсэн гэж тооцогдох нөхцөл нь үзлэг бүрт дахин ашиглагдана. [Чанарын шалгалтын загвар](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-inspection-template)-ыг харна уу."
+msgid "The parameters to inspect and what counts as a pass, reused on every inspection. See [Quality Inspection Template](https://docs.thinknxg.com/thinknxgerp/quality-inspection-template)."
+msgstr "Үзлэгт шалгах параметрууд болон тэнцсэн гэж тооцогдох нөхцөл нь үзлэг бүрт дахин ашиглагдана. [Чанарын шалгалтын загвар](https://docs.thinknxg.com/thinknxgerp/quality-inspection-template)-ыг харна уу."
 
 #: erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:234
 #, python-brace-format
@@ -63154,10 +63154,10 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Write its bill of materials'
 #: erpnext/manufacturing/onboarding_step/create_bill_of_materials/create_bill_of_materials.json:5
-msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials).\n\n"
-"Sending some of the work to a supplier? See [Subcontracting](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)."
-msgstr "Таны бүтээгдэхүүний нэг нэгжид орох түүхий эд болон тус бүрийн хэмжээ. Үйлдвэрлэлд ашиглахын тулд илгээнэ үү. [BOM](https://docs.thinknxg.com/thinknxgerp/user/manual/en/bill-of-materials)-г харна уу.\n\n"
-"Ажлын зарим хэсгийг нийлүүлэгчид илгээх үү? [Туслан гүйцэтгэл](https://docs.thinknxg.com/thinknxgerp/user/manual/en/subcontracting)-ийг харна уу."
+msgid "The raw materials, and how much of each, that go into one unit of your product. Submit it to use it in production. See [BOM](https://docs.thinknxg.com/thinknxgerp/bill-of-materials).\n\n"
+"Sending some of the work to a supplier? See [Subcontracting](https://docs.thinknxg.com/thinknxgerp/subcontracting)."
+msgstr "Таны бүтээгдэхүүний нэг нэгжид орох түүхий эд болон тус бүрийн хэмжээ. Үйлдвэрлэлд ашиглахын тулд илгээнэ үү. [BOM](https://docs.thinknxg.com/thinknxgerp/bill-of-materials)-г харна уу.\n\n"
+"Ажлын зарим хэсгийг нийлүүлэгчид илгээх үү? [Туслан гүйцэтгэл](https://docs.thinknxg.com/thinknxgerp/subcontracting)-ийг харна уу."
 
 #: banking/src/pages/BankStatementImporter.tsx:205
 msgid "The reference number of the transaction"
@@ -63256,8 +63256,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Write down how the work is done'
 #: erpnext/quality_management/onboarding_step/create_quality_procedure/create_quality_procedure.json:5
-msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)."
-msgstr "Таны баг дагадаг алхмууд нь ажлыг үргэлж адил аргаар гүйцэтгэхэд тусална. [Чанарын менежмент](https://docs.thinknxg.com/thinknxgerp/user/manual/en/quality-management)-ийг үзнэ үү."
+msgid "The steps your team follows, so it is done the same way every time. See [Quality Management](https://docs.thinknxg.com/thinknxgerp/quality-management)."
+msgstr "Таны баг дагадаг алхмууд нь ажлыг үргэлж адил аргаар гүйцэтгэхэд тусална. [Чанарын менежмент](https://docs.thinknxg.com/thinknxgerp/quality-management)-ийг үзнэ үү."
 
 #: erpnext/stock/stock_ledger.py:1074
 #, python-brace-format
@@ -63318,8 +63318,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Review your taxes'
 #: erpnext/accounts/onboarding_step/review_taxes/review_taxes.json:5
-msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)."
-msgstr "Нэхэмжлэх бүрт бөглөгдөх татварууд. Бид таны улсын татварыг байгаа газарт нь нэмсэн; таны тооцдог хувьтай таарч байгаа эсэхийг шалгана уу. Худалдан авалтын татварууд [Худалдан авалтын татвар болон төлбөрийн загвар](/desk/purchase-taxes-and-charges-template) дээр байна. [Татвар тохируулах](https://docs.thinknxg.com/thinknxgerp/user/manual/en/setting-up-taxes)-г харна уу."
+msgid "The taxes that fill in on every invoice. We added your country's where we had them; check the rates match what you charge. Purchase taxes live in [Purchase Taxes and Charges Template](/desk/purchase-taxes-and-charges-template). See [Setting Up Taxes](https://docs.thinknxg.com/thinknxgerp/setting-up-taxes)."
+msgstr "Нэхэмжлэх бүрт бөглөгдөх татварууд. Бид таны улсын татварыг байгаа газарт нь нэмсэн; таны тооцдог хувьтай таарч байгаа эсэхийг шалгана уу. Худалдан авалтын татварууд [Худалдан авалтын татвар болон төлбөрийн загвар](/desk/purchase-taxes-and-charges-template) дээр байна. [Татвар тохируулах](https://docs.thinknxg.com/thinknxgerp/setting-up-taxes)-г харна уу."
 
 #: erpnext/stock/doctype/material_request/material_request.py:508
 #, python-brace-format
@@ -63504,8 +63504,8 @@ msgid "There are no transactions in the system for the selected bank account and
 msgstr "Сонгосон банкны данс болон шүүлтүүртэй тохирох огнооны хувьд системд гүйлгээ байхгүй байна."
 
 #: erpnext/stock/doctype/item/item.js:1505
-msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
-msgstr "Хувьцааны үнэлгээг хадгалах хоёр сонголт байдаг. FIFO (эхлээд орж ирсэн - эхлээд гарсан) болон Хөдөлгөөнт дундаж. Энэ сэдвийг дэлгэрэнгүй ойлгохын тулд <a href='https://docs.thinknxg.com/thinknxgerp/user/manual/en/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Барааны үнэлгээ, FIFO болон Хөдөлгөөнт дундаж хэсэгт зочилно уу.</a>"
+msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.thinknxg.com/thinknxgerp/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
+msgstr "Хувьцааны үнэлгээг хадгалах хоёр сонголт байдаг. FIFO (эхлээд орж ирсэн - эхлээд гарсан) болон Хөдөлгөөнт дундаж. Энэ сэдвийг дэлгэрэнгүй ойлгохын тулд <a href='https://docs.thinknxg.com/thinknxgerp/calculation-of-valuation-rate-in-fifo-and-moving-average' target='_blank'>Барааны үнэлгээ, FIFO болон Хөдөлгөөнт дундаж хэсэгт зочилно уу.</a>"
 
 #: banking/src/components/features/BankReconciliation/MatchAndReconcile.tsx:980
 #, python-brace-format
@@ -69203,8 +69203,8 @@ msgstr "Үндсэн тохиргоог хийж чадсангүй"
 
 #. Description of the Onboarding Step 'Review your warehouses'
 #: erpnext/stock/onboarding_step/setup_warehouse/setup_warehouse.json:5
-msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)."
-msgstr "Эхлэхэд зориулж хэдэн агуулахыг үүсгэлээ. Тэдгээрийн нэрийг өөрчлөх эсвэл бараагаа жинхэнэ хадгалдаг газруудаа нэмнэ үү. [Агуулах](https://docs.thinknxg.com/thinknxgerp/user/manual/en/warehouse)-г үзнэ үү."
+msgid "We created a few to start with. Rename them, or add the places you actually keep stock. See [Warehouse](https://docs.thinknxg.com/thinknxgerp/warehouse)."
+msgstr "Эхлэхэд зориулж хэдэн агуулахыг үүсгэлээ. Тэдгээрийн нэрийг өөрчлөх эсвэл бараагаа жинхэнэ хадгалдаг газруудаа нэмнэ үү. [Агуулах](https://docs.thinknxg.com/thinknxgerp/warehouse)-г үзнэ үү."
 
 #: erpnext/templates/emails/appointment_confirmed.html:3
 msgid "We look forward to meeting you"
@@ -69212,8 +69212,8 @@ msgstr "Бид тантай уулзахыг тэсэн ядан хүлээж б
 
 #. Description of the Onboarding Step 'Review your chart of accounts'
 #: erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:5
-msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)."
-msgstr "Таны улсад тохирсон стандарт дансны төлөвлөгөөг тохируулсан. Дансууд хэрхэн бүлэглэгдсэнийг харж, тайлагнах арга барилдаа тохируулахын тулд аль нэгийг нь нэрийг нь өөрчилж эсвэл нэмнэ үү. [Дансны төлөвлөгөө](https://docs.thinknxg.com/thinknxgerp/user/manual/en/chart-of-accounts)-г үзнэ үү."
+msgid "We set up a standard chart of accounts for your country. See how your accounts are grouped, and rename or add any to match how you report. See [Chart of Accounts](https://docs.thinknxg.com/thinknxgerp/chart-of-accounts)."
+msgstr "Таны улсад тохирсон стандарт дансны төлөвлөгөөг тохируулсан. Дансууд хэрхэн бүлэглэгдсэнийг харж, тайлагнах арга барилдаа тохируулахын тулд аль нэгийг нь нэрийг нь өөрчилж эсвэл нэмнэ үү. [Дансны төлөвлөгөө](https://docs.thinknxg.com/thinknxgerp/chart-of-accounts)-г үзнэ үү."
 
 #: banking/src/pages/BankStatementImporter.tsx:169
 msgid "We support uploading CSV, XLSX, XLS and PDF files. Please make sure the file contains the correct columns."
@@ -69380,8 +69380,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Add a product you make'
 #: erpnext/manufacturing/onboarding_step/create_finished_goods/create_finished_goods.json:5
-msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)."
-msgstr "Үйлдвэрлэлийн эцэст гарч ирэх зүйл, Бүтээгдэхүүн бүлэгт хадгалагдана. [Бараа](https://docs.thinknxg.com/thinknxgerp/user/manual/en/item)-г үзнэ үү."
+msgid "What comes out at the end of production, kept in the Products group. See [Item](https://docs.thinknxg.com/thinknxgerp/item)."
+msgstr "Үйлдвэрлэлийн эцэст гарч ирэх зүйл, Бүтээгдэхүүн бүлэгт хадгалагдана. [Бараа](https://docs.thinknxg.com/thinknxgerp/item)-г үзнэ үү."
 
 #: erpnext/templates/pages/help.html:12
 msgid "What do you need help with?"
@@ -69492,8 +69492,8 @@ msgstr ""
 
 #. Description of the Onboarding Step 'Log a problem'
 #: erpnext/quality_management/onboarding_step/create_non_conformance/create_non_conformance.json:5
-msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)."
-msgstr "Журмын дагуу биш зүйл гарвал юу болсон, шалтгаан, мөн үүний тулд та юу хийхээ тэмдэглээрэй. [Үл нийцэл](https://docs.thinknxg.com/thinknxgerp/user/manual/en/non-conformance)-г үзнэ үү."
+msgid "When something falls short of the procedure, note what happened, the cause, and what you will do about it. See [Non Conformance](https://docs.thinknxg.com/thinknxgerp/non-conformance)."
+msgstr "Журмын дагуу биш зүйл гарвал юу болсон, шалтгаан, мөн үүний тулд та юу хийхээ тэмдэглээрэй. [Үл нийцэл](https://docs.thinknxg.com/thinknxgerp/non-conformance)-г үзнэ үү."
 
 #: erpnext/stock/doctype/stock_entry/stock_entry.py:502
 #, python-brace-format
@@ -69508,8 +69508,8 @@ msgstr "Та ямар нэгэн зүйлд (жишээ нь жилийн даа
 
 #. Description of the Onboarding Step 'Get paid'
 #: erpnext/selling/onboarding_step/create_payment_entry/create_payment_entry.json:5
-msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)."
-msgstr "Таны харилцагч төлбөр төлөхөд, үүнийг энд бүртгэнэ үү. Энэ нь тэдний нэхэмжлэхтэй тохируулагдах тул үлдсэн авлагыг харж болно. [Төлбөрийн оруулга](https://docs.thinknxg.com/thinknxgerp/user/manual/en/payment-entry)-г үзнэ үү."
+msgid "When your customer pays, record it here. It is matched against their invoice, so you can see what is still owed. See [Payment Entry](https://docs.thinknxg.com/thinknxgerp/payment-entry)."
+msgstr "Таны харилцагч төлбөр төлөхөд, үүнийг энд бүртгэнэ үү. Энэ нь тэдний нэхэмжлэхтэй тохируулагдах тул үлдсэн авлагыг харж болно. [Төлбөрийн оруулга](https://docs.thinknxg.com/thinknxgerp/payment-entry)-г үзнэ үү."
 
 #. Description of a DocType
 #: erpnext/accounts/doctype/cheque_print_template/cheque_print_template.json:6
@@ -69552,8 +69552,8 @@ msgstr "Чи үүнийг хэнд зориулж тохируулж байга�
 
 #. Description of the Onboarding Step 'Break it into tasks'
 #: erpnext/projects/onboarding_step/create_tasks/create_tasks.json:5
-msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)."
-msgstr "Хэн юу хийх, хэзээ дуусгах. Даалгаврууд төслийн явцад нэгтгэгдэнэ. [Даалгавар](https://docs.thinknxg.com/thinknxgerp/user/manual/en/task)-г үзнэ үү."
+msgid "Who does what, by when. Tasks roll up into the project's progress. See [Task](https://docs.thinknxg.com/thinknxgerp/task)."
+msgstr "Хэн юу хийх, хэзээ дуусгах. Даалгаврууд төслийн явцад нэгтгэгдэнэ. [Даалгавар](https://docs.thinknxg.com/thinknxgerp/task)-г үзнэ үү."
 
 #. Description of a report in the Onboarding Step 'Follow up on unpaid
 #. invoices'
@@ -69563,8 +69563,8 @@ msgstr "Хэн танд хэдий хэмжээний өртэй, хэр уда�
 
 #. Description of the Onboarding Step 'Follow up on unpaid invoices'
 #: erpnext/selling/onboarding_step/view_accounts_receivable/view_accounts_receivable.json:5
-msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)."
-msgstr "Хэн танд хэдий хэмжээний өртэй, хэр удаан хугацаанд өртэй байгааг. [Авлагын данс](https://docs.thinknxg.com/thinknxgerp/user/manual/en/accounts-receivable)-г үзнэ үү."
+msgid "Who owes you, how much, and for how long. See [Accounts Receivable](https://docs.thinknxg.com/thinknxgerp/accounts-receivable)."
+msgstr "Хэн танд хэдий хэмжээний өртэй, хэр удаан хугацаанд өртэй байгааг. [Авлагын данс](https://docs.thinknxg.com/thinknxgerp/accounts-receivable)-г үзнэ үү."
 
 #. Description of the Onboarding Step 'Check what you owe'
 #: erpnext/buying/onboarding_step/view_accounts_payable/view_accounts_payable.json:5

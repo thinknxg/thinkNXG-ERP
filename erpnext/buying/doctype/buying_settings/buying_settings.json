@@ -3,7 +3,7 @@
  "creation": "2013-06-25 11:04:03",
  "doctype": "DocType",
  "document_type": "Other",
- "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/buying-settings",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/buying-settings",
  "engine": "InnoDB",
  "field_order": [
   "supplier_and_price_defaults_section",

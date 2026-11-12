@@ -7,7 +7,7 @@
  "description": "A product or service you buy, sell or keep in stock.",
  "doctype": "DocType",
  "document_type": "Setup",
- "documentation": "https://docs.thinknxg.com/thinknxgerp/user/manual/en/item",
+ "documentation": "https://docs.thinknxg.com/thinknxgerp/item",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
